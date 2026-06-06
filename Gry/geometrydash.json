@@ -1,0 +1,9 @@
+{
+    "id": "geometrydash",
+    "title": "Geometry Dash",
+    "platform": "Steam",
+    "icon": "https://image.ceneostatic.pl/data/products/47566899/i-geometry-dash-digital.jpg",
+    "requiredTier": "plus",
+    "correctLicense": "DARKNITE-82225-plus-55582",
+    "downloadUrl": ""
+}

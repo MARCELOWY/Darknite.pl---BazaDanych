@@ -1,0 +1,9 @@
+{
+    "id": "amongus",
+    "title": "Among Us",
+    "platform": "Steam",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg",
+    "requiredTier": "plus",
+    "correctLicense": "DARKNITE-06158-plus-31058",
+    "downloadUrl": ""
+}
