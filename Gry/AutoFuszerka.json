@@ -1,0 +1,14 @@
+{
+    "id": "AutoFuszerka",
+    "title": "Auto Fuszerka",
+    "platform": "Steam",
+    "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0413/0f2e51845a4a23877b6b78136c2c5b127704333329d80b2b.png",
+    "requiredTier": "premium",
+    "correctLicense": "NOT_AVAILABLE_YET",
+    "downloadUrl": "",
+    "status": "coming_soon",
+    "kategorie": [
+        "Symulatory",
+        "Otwarty Świat"
+    ]
+}

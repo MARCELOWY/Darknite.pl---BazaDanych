@@ -5,5 +5,8 @@
     "icon": "https://store.ubisoft.com/on/demandware.static/-/Sites-masterCatalog/default/dw7044b5cb/images/large/57c19450ef3aa52a768b4567.jpg",
     "requiredTier": "plus",
     "correctLicense": "DARKNITE-98870-plus-03141",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Uno.zip"
+    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Uno.zip",
+    "kategorie": [
+        "KOOPERACYJNE"
+    ]
 }

@@ -5,5 +5,8 @@
     "icon": "https://store-images.s-microsoft.com/image/apps.35593.68150164172276526.ddc374d7-ef5e-43b9-940a-bbc04440bb33.e0c05607-881c-449f-826b-fec43403598c",
     "requiredTier": "plus",
     "correctLicense": "DARKNITE-77005-plus-98846",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Gang%20Beasts.zip"
+    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Gang%20Beasts.zip",
+    "kategorie": [
+        "KOOPERACYJNE"
+    ]
 }

@@ -5,5 +5,8 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg",
     "requiredTier": "plus",
     "correctLicense": "DARKNITE-06158-plus-31058",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Among%20Us.zip"
+    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Among%20Us.zip",
+    "kategorie": [
+        "KOOPERACYJNE"
+    ]
 }

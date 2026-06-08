@@ -5,5 +5,8 @@
     "icon": "https://data.xxlgamer.com/products/5142/DGslpxgzt6Q7HO-big.jpg",
     "requiredTier": "premium",
     "correctLicense": "DARKNITE-68266-premium-01873",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Phasmophobia.zip"
+    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Phasmophobia.zip",
+    "kategorie": [
+        "KOOPERACYJNE"
+    ]
 }

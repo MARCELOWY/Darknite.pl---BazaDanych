@@ -5,5 +5,9 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e1/The_Binding_of_Issac_Rebirth_cover.jpg",
     "requiredTier": "plus",
     "correctLicense": "DARKNITE-67805-plus-03406",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/The%20Binding%20of%20Isaac%20Rebirth.zip"
+    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/The%20Binding%20of%20Isaac%20Rebirth.zip",
+    "kategorie": [
+        "Przygodowe",
+        "KOOPERACYJNE"
+    ]
 }
