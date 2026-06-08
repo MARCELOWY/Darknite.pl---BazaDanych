@@ -1,6 +1,4 @@
-{
-    "id": "wszytskie",
-    "customContent": [
+[
         "amongus.json",
         "cyberpunk.json",
         "Dale&Dawson.json",
@@ -39,5 +37,4 @@
         "ULTRAKILL.json",
         "Uno.json",
         "AutoFuszerka.json"
-    ]
-}
+]
