@@ -1,13 +1,13 @@
 {
-    "id": "fh5",
-    "title": "Forza Horizon 5",
-    "platform": "Steam",
-    "icon": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzv5naOIo7jEBFgsSZ7yxwic0MUWlc-R8NVJwVR_Rz06zZmI9Pio_8g2WFwaxMENdDI_h67n0Cput9gBZfaYgGGhhag-oPdPHXXQ8iImZ4ooaLsCNlWNeP&usqp=CAc",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-84328-plus-60130",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Forza%20Horizon%205.zip",
-    "kategorie": [
-        "Symulatory",
-        "Otwarty Świat"
-    ]
+  "id": "fh5",
+  "title": "Forza Horizon 5",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzv5naOIo7jEBFgsSZ7yxwic0MUWlc-R8NVJwVR_Rz06zZmI9Pio_8g2WFwaxMENdDI_h67n0Cput9gBZfaYgGGhhag-oPdPHXXQ8iImZ4ooaLsCNlWNeP&usqp=CAc",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-84328-plus-60130",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Forza%20Horizon%205.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
 }
