@@ -1,0 +1,13 @@
+{
+  "id": "busbound",
+  "title": "Bus Bound",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWTs8yWH21M188Zpg9G7E3lBTZXzFvT0GpMXi9Apk9xKnHqKF6UHY88wUhXws3f2M0qLr9Jsjm2sMX-zdXF-CaT_Sg8pJe0_Ja_GALENm4DQLsb0LL0v7R&usqp=CAc",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-11324-PREMIUM-91261",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Bus%20Bound.zip",
+  "kategorie": [
+    "Symulatory",
+    "KOOPERACYJNE"
+  ]
+}

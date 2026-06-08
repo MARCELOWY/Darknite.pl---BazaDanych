@@ -1,0 +1,13 @@
+{
+  "id": "bmxstreets",
+  "title": "BMX Streets",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.35957.13612269012522409.b1bf0017-3bc9-42e3-a547-089108e4ada4.70d9b5a5-1b70-432e-ab9f-887b664e363b",
+  "requiredTier": "standard",
+  "correctLicense": "DARKNITE-56795-STANDARD-35719",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/BMX%20Streets.zip",
+  "kategorie": [
+    "Symulatory",
+    "Jazda Rowerem/Hulajnogą"
+  ]
+}

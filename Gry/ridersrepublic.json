@@ -1,0 +1,13 @@
+{
+  "id": "ridersrepublic",
+  "title": "Riders Republic",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.27069.14330265416906043.94d3f714-0dcd-447d-a4a2-1da0b6a72244.b9f6ff8c-7e43-4acf-ad5a-987afb3e543b",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-95325-PREMIUM-79163",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Riders%20Republic.zip",
+  "kategorie": [
+    "Jazda Rowerem/Hulajnogą",
+    "Otwarty Świat"
+  ]
+}

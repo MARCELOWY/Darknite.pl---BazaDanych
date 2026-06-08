@@ -1,0 +1,13 @@
+{
+  "id": "scoot",
+  "title": "Scoot",
+  "platform": "Steam",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494840/64bd83988b58221eddbaeea203d7cf0aaa4c1dc0/ss_64bd83988b58221eddbaeea203d7cf0aaa4c1dc0.1920x1080.jpg?t=1767890136",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-94533-PLUS-63131",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Scoot.zip",
+  "kategorie": [
+    "Symulatory",
+    "Jazda Rowerem/Hulajnogą"
+  ]
+}

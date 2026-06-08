@@ -1,0 +1,13 @@
+{
+  "id": "beamngdrive",
+  "title": "BeamNG.drive",
+  "platform": "Steam",
+  "icon": "https://gfn.ru/media/images/box_art_image-beamngdrive-91b5e9c3.original.jpg",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-48027-PREMIUM-04242",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/BeamNG.drive.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}

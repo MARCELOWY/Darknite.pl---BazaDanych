@@ -1,0 +1,13 @@
+{
+  "id": "slackers",
+  "title": "Slackers - Carts of Glory",
+  "platform": "Steam",
+  "icon": "https://cdn.medal.tv/asset/games/slackers-carts-of-glory/cover-1726712400073.jpg",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-20213-PREMIUM-10794",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Slackers.zip",
+  "kategorie": [
+    "Symulatory",
+    "KOOPERACYJNE"
+  ]
+}

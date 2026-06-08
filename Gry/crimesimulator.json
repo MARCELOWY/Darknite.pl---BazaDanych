@@ -1,0 +1,13 @@
+{
+  "id": "crimesimulator",
+  "title": "Crime Simulator",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.9762.14462863330217209.dbba0843-5490-4977-8ddc-df96653b315f.b03b4c65-5488-4842-9db9-7219d3f23007",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-49667-PLUS-23883",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Crime%20Simulator.zip",
+  "kategorie": [
+    "Symulatory",
+    "Przygodowe"
+  ]
+}

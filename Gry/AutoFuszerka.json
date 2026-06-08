@@ -1,14 +1,13 @@
 {
-    "id": "AutoFuszerka",
-    "title": "Auto Fuszerka",
-    "platform": "Steam",
-    "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0413/0f2e51845a4a23877b6b78136c2c5b127704333329d80b2b.png",
-    "requiredTier": "premium",
-    "correctLicense": "NOT_AVAILABLE_YET",
-    "downloadUrl": "",
-    "status": "coming_soon",
-    "kategorie": [
-        "Symulatory",
-        "Otwarty Świat"
-    ]
+  "id": "AutoFuszerka",
+  "title": "Auto Fuszerka",
+  "platform": "Steam",
+  "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0413/0f2e51845a4a23877b6b78136c2c5b127704333329d80b2b.png",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-39499-PREMIUM-88314",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Cheap%20Car%20Repair.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "id": "dudedesimulator",
+  "title": "Dude Simulator",
+  "platform": "Steam",
+  "icon": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa93t.webp",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-14769-PLUS-26098",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dude%20Simulator.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}
