@@ -1,0 +1,13 @@
+{
+  "id": "jamfish",
+  "title": "J Am Fish",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.11702.13890660958509322.81a390b1-5ffb-4e5e-9b51-d8f3f2f45a2a.30dc93a1-8fa9-4431-93f0-d14cbb15685f",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-65677-PLUS-72404",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/J%20Am%20Fish.zip",
+  "kategorie": [
+    "Symulatory",
+    "Przygodowe"
+  ]
+}

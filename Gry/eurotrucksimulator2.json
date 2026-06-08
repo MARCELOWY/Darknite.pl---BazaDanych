@@ -1,0 +1,13 @@
+{
+  "id": "eurotrucksimulator2",
+  "title": "Euro Truck Simulator 2",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.60671.13700379119021319.2ac98f5e-3a7c-44f1-a2a7-cd4bca81dd82.c8d2f9f3-fce3-46e8-bff7-0df84572cf36",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-98406-PREMIUM-81562",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Euro%20Truck%20Simulator 2.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "teardown",
+  "title": "Teardown",
+  "platform": "Steam",
+  "icon": "https://cdn.loaded.com/media/catalog/product/n/e/new_project_-_2023-10-30t150012.112.jpg",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-65118-PREMIUM-93022",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Teardown.zip",
+  "kategorie": [
+    "Symulatory",
+    "Przygodowe"
+  ]
+}

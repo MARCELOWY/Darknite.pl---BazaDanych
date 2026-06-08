@@ -1,0 +1,13 @@
+{
+  "id": "mysummercar",
+  "title": "My Summer Car",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGGmqlnI334AOj7Dini__7zRp-J8RPHhHlHwXGhgS6TBs5VWBXFDXG2PjJhG6sGmgrLLoZOYr9Ihj2sawsBNRDgM5Ck_leP9vOGTeitQBSws9QSMUSdUry&usqp=CAc",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-25587-PREMIUM-94736",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/My%20Summer%20Car.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}

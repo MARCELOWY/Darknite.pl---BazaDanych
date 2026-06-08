@@ -1,0 +1,13 @@
+{
+  "id": "mywintercar",
+  "title": "My Winter Car",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHDlIUmLtqH5FcRC1PEA_HYEEe-pTPr2ilJdaEcN_xQOneMOdhAzZ3hmn7yUc8j2JTu0mZtlwfF_BWBrd7qo7aKCJVicv2O5X1GpzmlASk53wRW52c-fg8&usqp=CAc",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-93520-PREMIUM-14538",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/My%20Winter%20Car.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}

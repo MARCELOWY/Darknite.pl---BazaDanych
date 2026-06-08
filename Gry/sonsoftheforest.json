@@ -1,0 +1,13 @@
+{
+  "id": "sonsoftheforest",
+  "title": "Sons Of The Forest",
+  "platform": "Steam",
+  "icon": "https://images.g2a.com/323x433/1x1x1/sons-of-the-forest-p10000338271/7b3619bfb64c4dda9345b955",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-67731-PREMIUM-30329",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Sons%20Of%20The%20Forest.zip",
+  "kategorie": [
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}
