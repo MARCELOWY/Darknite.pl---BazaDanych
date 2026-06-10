@@ -1,12 +1,21 @@
 {
-    "id": "GangBeasts",
-    "title": "Gang Beasts",
-    "platform": "Steam",
-    "icon": "https://store-images.s-microsoft.com/image/apps.35593.68150164172276526.ddc374d7-ef5e-43b9-940a-bbc04440bb33.e0c05607-881c-449f-826b-fec43403598c",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-77005-plus-98846",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Gang%20Beasts.zip",
-    "kategorie": [
-        "KOOPERACYJNE"
-    ]
+  "id": "GangBeasts",
+  "title": "Gang Beasts",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.35593.68150164172276526.ddc374d7-ef5e-43b9-940a-bbc04440bb33.e0c05607-881c-449f-826b-fec43403598c",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285900/ss_0476d6b0403313cb4fa727fd99146762eb80f611.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285900/ss_0e7190e5cee562fa851f23bfeb65b336550a6d18.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285900/ss_d7cb23c9e752a2f1b34b3733193965c214358073.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285900/ss_07e13a7d410b506ef6f7b2eb722ffe67aa1f517a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285900/ss_75cb7400df9e365e90681b61a734214ec3d689d1.600x338.jpg"
+  ],
+  "description": "Gang Beasts to zabawna gra imprezowa dla wielu graczy z opryskliwymi, galaretowatymi postaciami, brutalnymi, slapstickowymi scenami walki i absurdalnym, niebezpiecznym otoczeniem, osadzona na niebezpiecznych ulicach Beef City.\n\nSpersonalizuj swoją postać i walcz z lokalnymi i internetowymi przeciwnikami w trybie walki wręcz lub walcz ze znajomymi z gangami Beef City w trybie gangowym.\n\nGang Beasts to gra stworzona przez Boneloaf, małe, niezależne studio tworzące serię eksperymentalnych gier imprezowych dla wielu graczy.",
+  "steamUrl": "https://store.steampowered.com/app/285900/Gang_Beasts/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-77005-plus-98846",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Gang%20Beasts.zip",
+  "kategorie": [
+    "KOOPERACYJNE"
+  ]
 }

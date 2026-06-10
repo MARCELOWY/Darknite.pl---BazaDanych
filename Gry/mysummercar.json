@@ -3,6 +3,14 @@
   "title": "My Summer Car",
   "platform": "Steam",
   "icon": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGGmqlnI334AOj7Dini__7zRp-J8RPHhHlHwXGhgS6TBs5VWBXFDXG2PjJhG6sGmgrLLoZOYr9Ihj2sawsBNRDgM5Ck_leP9vOGTeitQBSws9QSMUSdUry&usqp=CAc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/516750/ss_8e4bee8eac58c980c6d8476f848fdb89a80186c6.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/516750/ss_ac925ffc6279649e52f816e28bde83da05c8b8e2.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/516750/ss_141c2252c2e5376acab010da2f9029cae61ed520.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/516750/ss_4310893aa75878f8150dfb0b8e794372a2117ba2.600x338.jpg"
+  ],
+  "description": "MY SUMMER CAR to najlepszy symulator posiadania, budowania, naprawy, tuningu, konserwacji i przetrwania w warunkach permanentnej śmierci. Zaczynasz grę z setkami luźnych części i składasz zarówno samochód, jak i silnik. Musisz dbać nie tylko o swój samochód, ale także o siebie. Kiełbaski, piwo i sen wystarczą.\n\nJeśli wszystko pójdzie dobrze, będziesz mieć sprawny samochód, którym możesz się bawić latem na fińskiej wsi w latach 90., robiąc głupie rzeczy pod wpływem alkoholu. Po zarobieniu dodatkowych pieniędzy z różnych losowych zleceń, możesz zacząć tuningować i ulepszać samochód za pomocą części zamawianych pocztą. Możesz przerobić samochód na irytującą, dyskotekową maszynę z basem... albo na samochód rajdowy, którym będziesz startować w zawodach... albo po prostu doprowadzić go do idealnego stanu fabrycznego. Oczywiście samochód musi również przejść przegląd, inaczej możesz mieć kłopoty z policją.",
+  "steamUrl": "https://store.steampowered.com/app/516750/My_Summer_Car/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-25587-PREMIUM-94736",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/My%20Summer%20Car.zip",

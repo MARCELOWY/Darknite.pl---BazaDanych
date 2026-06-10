@@ -1,12 +1,20 @@
 {
-    "id": "Uno",
-    "title": "Uno",
-    "platform": "Steam",
-    "icon": "https://store.ubisoft.com/on/demandware.static/-/Sites-masterCatalog/default/dw7044b5cb/images/large/57c19450ef3aa52a768b4567.jpg",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-98870-plus-03141",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Uno.zip",
-    "kategorie": [
-        "KOOPERACYJNE"
-    ]
+  "id": "Uno",
+  "title": "Uno",
+  "platform": "Steam",
+  "icon": "https://store.ubisoft.com/on/demandware.static/-/Sites-masterCatalog/default/dw7044b5cb/images/large/57c19450ef3aa52a768b4567.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/470220/9e1c032e71d5d770a3191e9a0385cb01a741b0e7/ss_9e1c032e71d5d770a3191e9a0385cb01a741b0e7.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/470220/5a91a8b28031df04725dc2de316bbc89cf3f66e9/ss_5a91a8b28031df04725dc2de316bbc89cf3f66e9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/470220/af0cf79d23466eafb838fdae1f389469059eb866/ss_af0cf79d23466eafb838fdae1f389469059eb866.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/470220/1fd26c2575026c5149e22e2fc7343066e4689ec8/ss_1fd26c2575026c5149e22e2fc7343066e4689ec8.600x338.jpg"
+  ],
+  "description": "UNO™ zamienia kultową grę karcianą w barwne, spersonalizowane doświadczenie.Dopasowuj karty według kolorów, liczb lub symboli, używaj kart akcji, aby podgrzewać atmosferę, i postaraj się pozbyć tych, które masz w ręku, przed innymi graczami. Nie zapomnij tylko z tego wszystkiego krzyknąć „UNO!”, kiedy zostanie ci ostatnia karta!\n\nTo UNO, które kochasz, ale oferujące nowe sposoby rozgrywki i łączenia się z innymi graczami.",
+  "steamUrl": "https://store.steampowered.com/app/470220/UNO/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-98870-plus-03141",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Uno.zip",
+  "kategorie": [
+    "KOOPERACYJNE"
+  ]
 }

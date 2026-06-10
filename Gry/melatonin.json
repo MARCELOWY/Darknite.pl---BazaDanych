@@ -3,6 +3,14 @@
   "title": "Melatonin",
   "platform": "Steam",
   "icon": "https://cdn1.epicgames.com/spt-assets/07109b840b8446d089419a84742c9239/melatonin-13c7o.png",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1585220/ss_3f2dbc8f0e0b84701448e4324ee50f926f941155.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1585220/ss_f24cf6fe64fc644e0cccc9c0b1b5f1a900199d56.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1585220/ss_1789d5b44849f117532b0dbd2288482298a9777a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1585220/ss_3d3dfb1e10ab6c6ae11e7f1002b89f3353344ca7.600x338.jpg"
+  ],
+  "description": "Melatonin to gra rytmiczna, w której sny i rzeczywistość łączą się ze sobą. Wykorzystuje animacje i sygnały dźwiękowe, aby utrzymać Cię w rytmie, bez żadnych onieśmielających nakładek czy interfejsów. Zharmonizuj się na różnorodnych, onirycznych poziomach z zaskakującymi wyzwaniami, ręcznie rysowaną grafiką i dynamiczną muzyką.",
+  "steamUrl": "https://store.steampowered.com/app/1585220/Melatonin/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-43052-PREMIUM-26902",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Melatonin.zip",

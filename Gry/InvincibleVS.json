@@ -1,13 +1,21 @@
 {
-    "id": "InvincibleVS",
-    "title": "Invincible VS",
-    "platform": "Steam",
-    "icon": "https://store-images.s-microsoft.com/image/apps.23062.13598862067956543.3e3ef7b8-0dd8-4a1d-9ae9-60a3fdcd4d7b.fb64441f-41a6-4816-bcb0-68accd61b784",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-66115-plus-71527",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Invincible%20VS.zip",
-    "kategorie": [
-        "Przygodowe",
-        "KOOPERACYJNE"
-    ]
+  "id": "InvincibleVS",
+  "title": "Invincible VS",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.23062.13598862067956543.3e3ef7b8-0dd8-4a1d-9ae9-60a3fdcd4d7b.fb64441f-41a6-4816-bcb0-68accd61b784",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2353060/a4b6afe3019b2262fbcbcdef5ffe27e1fc747d76/ss_a4b6afe3019b2262fbcbcdef5ffe27e1fc747d76.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2353060/39c29a37c32b5e950cefd7e8146d8d76cd18580d/ss_39c29a37c32b5e950cefd7e8146d8d76cd18580d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2353060/32d9ab6beb74039087165e2c14730d32c2184a1d/ss_32d9ab6beb74039087165e2c14730d32c2184a1d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2353060/688eec7b85ff4d3902f9c4caab680d1afa701530/ss_688eec7b85ff4d3902f9c4caab680d1afa701530.600x338.jpg"
+  ],
+  "description": "Invincible VS to brutalna superbohaterska bijatyka 3 na 3 osadzona w uniwersum Invincible, w której możesz walczyć na śmierć i życie jako drużyna ulubionych postaci fanów w kultowych lokacjach. Wykonuj miażdżące kombinacje dzięki szybkiej walce i sprytnym taktykom obronnym, zostawiając za sobą ślady krwi i zniszczenia. Wykonuj zabójcze superruchy i superumiejętności, zostawiając przeciwników w kałuży krwi.",
+  "steamUrl": "https://store.steampowered.com/app/2353060/Invincible_VS/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-66115-plus-71527",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Invincible%20VS.zip",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
 }

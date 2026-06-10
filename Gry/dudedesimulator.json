@@ -3,6 +3,14 @@
   "title": "Dude Simulator",
   "platform": "Steam",
   "icon": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa93t.webp",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/654990/ss_b0287c609a52bf458c6020501e55adb0fa8bda30.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/654990/ss_375b87969ce8a4fbc2ed33079c1724e4bc31e3b8.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/654990/ss_44b7d6a368911ca91dd17677a87a9ff90cfac0b1.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/654990/ss_cdad1223c1fb85891dc184cef1725606aedb5f71.600x338.jpg"
+  ],
+  "description": "Dude Simulator to gra typu sandbox z otwartym światem. To symulator życia. Głównym celem jest czerpanie przyjemności z tego, co robisz. Możesz robić, co chcesz. Możesz eksplorować miasto, zdobywać pieniądze i wydawać je na zakupy, zabijać ludzi, wchodzić do dowolnego budynku – po prostu robić wszystko, co można robić w prawdziwym życiu. Możesz wieść zwyczajne życie przeciętnego człowieka lub robić szalone rzeczy, robić żarty z innych i tak dalej – wszystko zależy od Ciebie.",
+  "steamUrl": "https://store.steampowered.com/app/654990/Dude_Simulator/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-14769-PLUS-26098",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dude%20Simulator.zip",

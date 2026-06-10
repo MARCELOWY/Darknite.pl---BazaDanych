@@ -1,12 +1,20 @@
 {
-    "id": "Phasmophobia",
-    "title": "Phasmophobia",
-    "platform": "Steam",
-    "icon": "https://data.xxlgamer.com/products/5142/DGslpxgzt6Q7HO-big.jpg",
-    "requiredTier": "premium",
-    "correctLicense": "DARKNITE-68266-premium-01873",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Phasmophobia.zip",
-    "kategorie": [
-        "KOOPERACYJNE"
-    ]
+  "id": "Phasmophobia",
+  "title": "Phasmophobia",
+  "platform": "Steam",
+  "icon": "https://data.xxlgamer.com/products/5142/DGslpxgzt6Q7HO-big.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/ec30a770064ea10c2bcfb1b3002a3dbd086be516/ss_ec30a770064ea10c2bcfb1b3002a3dbd086be516.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/e9b67c7a3744a36cd5cc29adc13c6caaa4172e26/ss_e9b67c7a3744a36cd5cc29adc13c6caaa4172e26.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/36bacb3935192ddacb4259cc964ab6e6f4be2d44/ss_36bacb3935192ddacb4259cc964ab6e6f4be2d44.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/a1a0840e05ff4007115fa2e51f725d1f1a9860c9/ss_a1a0840e05ff4007115fa2e51f725d1f1a9860c9.600x338.jpg"
+  ],
+  "description": "Phasmophobia to psychologiczna gra grozy dla czterech graczy, z trybem kooperacji online. Wraz z zespołem badaczy zjawisk paranormalnych, udasz się do nawiedzonych miejsc pełnych zjawisk paranormalnych i spróbujesz zebrać jak najwięcej dowodów. Użyj swojego sprzętu do polowania na duchy, aby znaleźć i zarejestrować dowody, które następnie sprzedasz zespołowi zajmującemu się usuwaniem duchów.",
+  "steamUrl": "https://store.steampowered.com/app/739630/Phasmophobia/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-68266-premium-01873",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Phasmophobia.zip",
+  "kategorie": [
+    "KOOPERACYJNE"
+  ]
 }

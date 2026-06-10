@@ -3,6 +3,14 @@
   "title": "Teardown",
   "platform": "Steam",
   "icon": "https://cdn.loaded.com/media/catalog/product/n/e/new_project_-_2023-10-30t150012.112.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1167630/ss_b140eeaf8e489dfa4451411ae23c28a0ecb26729.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1167630/f266c2457a6b183a89abce8659bac7419fdfc5f0/ss_f266c2457a6b183a89abce8659bac7419fdfc5f0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1167630/560d42a1125ebee850a1740f92f31da84c4c88e5/ss_560d42a1125ebee850a1740f92f31da84c4c88e5.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1167630/ss_9fd3e8de605efc42e29ba98f72432cb78a15d7ac.600x338.jpg"
+  ],
+  "description": "Zaplanuj i przeprowadź idealny napad w całkowicie zniszczalnym świecie. W Teardown wszystko można zepsuć, przesunąć lub zmienić w skrót. Rozwiązuj problemy w przemyślany i kreatywny sposób, używając siły i wszystkiego, co Cię otacza, by szybko przebić się przez poziom.\n\nBiegaj, skacz, prowadź pojazdy i rzucaj przedmiotami. Zrób wszystko, by zebrać cele, uniknąć robotów lub ukraść to, o co prosi klient. Samodzielnie lub w grze wieloosobowej. I za nic nie daj się złapać.",
+  "steamUrl": "https://store.steampowered.com/app/1167630/Teardown/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-65118-PREMIUM-93022",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Teardown.zip",

@@ -1,12 +1,20 @@
 {
-    "id": "Deltarune",
-    "title": "Deltarune",
-    "platform": "Steam",
-    "icon": "https://m.media-amazon.com/images/M/MV5BNzI4YTdiMWQtNzM4Zi00ODk4LWE2YTUtNTkwYjZjYzgyZjJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-34844-plus-90969",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/DELTARUNE.zip",
-    "kategorie": [
-        "Przygodowe"
-    ]
+  "id": "Deltarune",
+  "title": "Deltarune",
+  "platform": "Steam",
+  "icon": "https://m.media-amazon.com/images/M/MV5BNzI4YTdiMWQtNzM4Zi00ODk4LWE2YTUtNTkwYjZjYzgyZjJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/ss_3fb0a253a8fa2f08a49f982d8c1e93c283e27f6d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/ss_ba1b1cd502e6a7f8aa5b9d5a39485ff32b84dc23.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/ss_b19eda9efcabf0fe27741eb126427048541780f0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/ss_373f7aa9cd0f38423fadc4de77dece8e488bb7b1.600x338.jpg"
+  ],
+  "description": "Ogromna ścieżka dźwiękowa i fabuła napisana przez Toby'ego Foxa!\n\nPoznaj nowych i sympatycznych głównych bohaterów, a także znane twarze, takie jak Toriel, Sans i wiele innych. Co? Papyrus? Nie, jest zajęty. Przepraszam.\n\nPłynna i wyrazista animacja pikselowa autorstwa Temmie. Ma też nowy kapelusz (w grze).\n\nLiniowy, oparty na rozdziałach system, który możesz rozpocząć w dowolnym miejscu.\n\nKreatywne bitwy oparte na unikaniu pocisków, inspirowane grami takimi jak Touhou i Chrono Trigger.\n\nNiesamowicie trudni ukryci bossowie.",
+  "steamUrl": "https://store.steampowered.com/app/1671210/DELTARUNE/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-34844-plus-90969",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/DELTARUNE.zip",
+  "kategorie": [
+    "Przygodowe"
+  ]
 }

@@ -1,12 +1,20 @@
 {
-    "id": "Overcooked2",
-    "title": "Overcooked 2",
-    "platform": "Steam",
-    "icon": "https://store-images.s-microsoft.com/image/apps.12517.70952388438497888.9a8a7127-1933-427d-b864-f4857d4c02fd.9d22a7c8-4ffb-4fd0-bf14-26df979de579",
-    "requiredTier": "premium",
-    "correctLicense": "DARKNITE-23411-premium-02238",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Overcooked%202.zip",
-    "kategorie": [
-        "KOOPERACYJNE"
-    ]
+  "id": "Overcooked2",
+  "title": "Overcooked 2",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.12517.70952388438497888.9a8a7127-1933-427d-b864-f4857d4c02fd.9d22a7c8-4ffb-4fd0-bf14-26df979de579",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/ss_2f84a12e1fe82cca37848bf29d4b8b16e83db03b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/ss_773917e64738bc879685cff49b8ac6eb4f15ab93.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/ss_3728a182f291231c4713860611dd9292b8b4fd05.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/ss_7f290dccbdc3c0eb9ded951717bceba5d7455764.600x338.jpg"
+  ],
+  "description": "Overcooked powraca w nowej odsłonie szaleńczego gotowania! Wróć do Królestwa Cebuli i zbierz drużynę szefów kuchni w klasycznym kanapowym trybie współpracy lub w grze online dla 4 graczy. Wdziewaj fartuch… Czas (ponownie) uratować świat!\n\nZ patelni prosto na ruszt…\n\nJuż udało ci się uratować świat przed groźnym bossem o imieniu Ever Peckish. Wraz z pojawieniem się nowego zagrożenia czas wrócić do kuchni i zmierzyć się z głodem Niepożarłych!",
+  "steamUrl": "https://store.steampowered.com/app/728880/Overcooked_2/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-23411-premium-02238",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Overcooked%202.zip",
+  "kategorie": [
+    "KOOPERACYJNE"
+  ]
 }

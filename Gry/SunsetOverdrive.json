@@ -1,13 +1,21 @@
 {
-    "id": "SunsetOverdrive",
-    "title": "Sunset Overdrive",
-    "platform": "Steam",
-    "icon": "https://store-images.s-microsoft.com/image/apps.55060.69444514893807971.ab5f1b93-5a0c-4e23-9a17-465a62377bd1.86d16ce8-75fe-48c6-8947-9a7071cbc9a2",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-66800-plus-11950",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Sunset%20Overdrive.zip",
-    "kategorie": [
-        "Przygodowe",
-        "Otwarty Świat"
-    ]
+  "id": "SunsetOverdrive",
+  "title": "Sunset Overdrive",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.55060.69444514893807971.ab5f1b93-5a0c-4e23-9a17-465a62377bd1.86d16ce8-75fe-48c6-8947-9a7071cbc9a2",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/847370/ss_02db5be67f3a355e70eae25464d0ee3a4c2d0161.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/847370/ss_a075dc8fedb2ef0eae0d797b85b1de00611359fe.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/847370/ss_fdd2c21037567f512f15e85a285e62f94a554ccf.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/847370/ss_1ac96a26cd56eaca8f40ebf8eb2472e524807e2b.600x338.jpg"
+  ],
+  "description": "Nie przegap kampanii dla jednego gracza z gry, którą IGN przyznał tytuł Najlepszej Gry na Xbox One 2014 roku, której Polygon przyznał ocenę 9 na 10, i którą Eurogamer nazywa „powiewem świeżego powietrza”. W Sunset Overdrive, jest rok 2027, a Sunset City jest oblężone. Skażony napój energetyczny przemienił większość populacji w toksycznych mutantów. Dla wielu to koniec świata, ale dla Ciebie to spełnienie marzeń. Twój stary szef? Nie żyje. Twoja nudna praca? Zniknęła. Zmień otwarty świat w swój taktyczny plac zabaw, grindując, przeskakując i biegając po ścianach przez miasto, używając niszczycielskiego, niekonwencjonalnego arsenału. Dzięki hiperzwinności, unikalnej broni i konfigurowalnym umiejętnościom specjalnym, Sunset Overdrive przepisuje zasady tradycyjnych strzelanek i zapewnia wybuchową, niekonwencjonalną, stylową i całkowicie wyjątkową przygodę.",
+  "steamUrl": "https://store.steampowered.com/app/847370/Sunset_Overdrive/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-66800-plus-11950",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Sunset%20Overdrive.zip",
+  "kategorie": [
+    "Przygodowe",
+    "Otwarty Świat"
+  ]
 }

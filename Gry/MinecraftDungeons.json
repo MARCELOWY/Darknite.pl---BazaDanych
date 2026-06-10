@@ -1,13 +1,21 @@
 {
-    "id": "MinecraftDungeons",
-    "title": "Minecraft Dungeons",
-    "platform": "Steam",
-    "icon": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfKSmjKA7Qs6zqQtUSe5t8oxa3HIe_gY-0RErlJb6IUP-7bR23vA2uPdKKzpdNrnqNNaZnjQ2xbY8QKIpHgRWLz3Dfj7t8yT3K0N-YFSMB_T0dE62tfpqrcuY&usqp=CAc",
-    "requiredTier": "premium",
-    "correctLicense": "DARKNITE-93705-premium-31592",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Minecraft%20Dungeons.zip",
-    "kategorie": [
-        "Przygodowe",
-        "KOOPERACYJNE"
-    ]
+  "id": "MinecraftDungeons",
+  "title": "Minecraft Dungeons",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfKSmjKA7Qs6zqQtUSe5t8oxa3HIe_gY-0RErlJb6IUP-7bR23vA2uPdKKzpdNrnqNNaZnjQ2xbY8QKIpHgRWLz3Dfj7t8yT3K0N-YFSMB_T0dE62tfpqrcuY&usqp=CAc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1672970/ss_9cb3efba6636610ec78eddd550147ed5ee7be3a0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1672970/ss_46ee31494b5d144d5ef6670cb5a1564abbc26fab.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1672970/ss_52883e4263c8f8bca14236118ab62c0f70f2c8d0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1672970/ss_73b488e696e3ae45f5d0a5750de524c231dab8a2.600x338.jpg"
+  ],
+  "description": "Oto ekscytująca gra akcji osadzona w świecie Minecrafta i inspirowana klasycznymi grami RPG typu dungeon crawl. Zapuść się w lochy w pojedynkę lub ze znajomymi i weź udział w niezapomnianych pojedynkach! W drużynie liczącej do czterech graczy sforsujcie zróżnicowane poziomy pełne przeciwników i skarbów, aby u kresu tej epickiej podróży uratować osadników i zwyciężyć niecnego Arcyzłosadnika!",
+  "steamUrl": "https://store.steampowered.com/app/1672970/Minecraft_Dungeons/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-93705-premium-31592",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Minecraft%20Dungeons.zip",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
 }

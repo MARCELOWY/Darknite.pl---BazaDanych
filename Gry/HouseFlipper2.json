@@ -1,13 +1,21 @@
 {
-    "id": "HouseFlipper2",
-    "title": "House Flipper 2",
-    "platform": "Steam",
-    "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1614/dc2dc906d9018eb860606face88c2ca0247c49eda1cefe7d.png",
-    "requiredTier": "premium",
-    "correctLicense": "DARKNITE-65548-premium-58687",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/House%20Flipper%202.zip",
-    "kategorie": [
-        "Symulatory",
-        "KOOPERACYJNE"
-    ]
+  "id": "HouseFlipper2",
+  "title": "House Flipper 2",
+  "platform": "Steam",
+  "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1614/dc2dc906d9018eb860606face88c2ca0247c49eda1cefe7d.png",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190970/05d9194174adb81a552743d6a665d862020c2e2a/ss_05d9194174adb81a552743d6a665d862020c2e2a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190970/1687b51046695ec287be2805455029b5060d5337/ss_1687b51046695ec287be2805455029b5060d5337.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190970/e78e151bb7e91c2b53656cfc6918700002de78cd/ss_e78e151bb7e91c2b53656cfc6918700002de78cd.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190970/682a6d76f41d773aad0cda88ea49ddb223505424/ss_682a6d76f41d773aad0cda88ea49ddb223505424.600x338.jpg"
+  ],
+  "description": "Nadeszła pora zaprosić przyjaciół do House Flippera 2 – od teraz dzięki darmowemu \"Co-op DLC\" wszystko możecie robić razem. Dzięki systemowi cross-platform niezależnie od tego czy gracie na konsoli, czy też na PC-ie możecie połączyć siły w trybie fabularnym, jak i w trybie sandboxowym, bawiąc się wspólnie do 4 osób.",
+  "steamUrl": "https://store.steampowered.com/app/1190970/House_Flipper_2/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-65548-premium-58687",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/House%20Flipper%202.zip",
+  "kategorie": [
+    "Symulatory",
+    "KOOPERACYJNE"
+  ]
 }

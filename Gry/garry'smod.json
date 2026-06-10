@@ -1,13 +1,21 @@
 {
-    "id": "garry'smod",
-    "title": "Garry's Mod",
-    "platform": "Steam",
-    "icon": "https://data.xxlgamer.com/products/4148/lGNl1QrYl9IMzE-big.jpg",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-62731-plus-35498",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Garry's%20Mod.zip",
-    "kategorie": [
-        "Symulatory",
-        "KOOPERACYJNE"
-    ]
+  "id": "garry'smod",
+  "title": "Garry's Mod",
+  "platform": "Steam",
+  "icon": "https://data.xxlgamer.com/products/4148/lGNl1QrYl9IMzE-big.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/ss_3d320f333fb74413911cbc2bffae9bdda683e2ec.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/ss_12741a4344b5cfee33726ae219476c8634517f7d.600x338.jpg"
+  ],
+  "description": "Garry's Mod to narzędzie, którym możesz się pobawić. W przeciwieństwie do zwykłych gier, tutaj nie ma określonego celu. Po prostu dajemy ci narzędzia do zabawy.\nMożesz tworzyć i powielać obiekty, a także łączyć je ze sobą — mogą to być samochody, rakiety, katapulta lub przedmioty, które nie mają jeszcze nazwy — granice wyznacza twoja wyobraźnia.\nJeżeli nie znasz się na konstrukcjach — nie przejmuj się! Postacie możesz umieszczać w najbardziej zwariowanych pozycjach.",
+  "steamUrl": "https://store.steampowered.com/app/4000/Garrys_Mod/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-62731-plus-35498",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Garry's%20Mod.zip",
+  "kategorie": [
+    "Symulatory",
+    "KOOPERACYJNE"
+  ]
 }

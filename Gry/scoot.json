@@ -3,6 +3,14 @@
   "title": "Scoot",
   "platform": "Steam",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494840/64bd83988b58221eddbaeea203d7cf0aaa4c1dc0/ss_64bd83988b58221eddbaeea203d7cf0aaa4c1dc0.1920x1080.jpg?t=1767890136",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1494840/fb3665dec6da144e44ed5e183dac5781f7ef931c/ss_fb3665dec6da144e44ed5e183dac5781f7ef931c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1494840/8b413f32e4234d4aea93ae71ddc1f9736092235d/ss_8b413f32e4234d4aea93ae71ddc1f9736092235d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1494840/fa6aa5299af950bcb5263555bc3c1972e219772c/ss_fa6aa5299af950bcb5263555bc3c1972e219772c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1494840/64bd83988b58221eddbaeea203d7cf0aaa4c1dc0/ss_64bd83988b58221eddbaeea203d7cf0aaa4c1dc0.600x338.jpg"
+  ],
+  "description": "Scoot to najbardziej zaawansowana gra o hulajnogach, jaka kiedykolwiek powstała. Dzięki symulacyjnej fizyce, Scoot jest satysfakcjonująca, realistyczna i przystępna dla każdego. Miłośnicy jazdy na hulajnogach mogą teraz spać spokojnie, bo ich ponad 10-letnie marzenie w końcu się spełniło.\n\nFizyka\nFizyka Scoota pozwala graczom grać tak, jak chcą. Niezależnie od tego, czy próbujesz pokonać schody, czy wykonać szalony trik na mega rampie, możesz zrobić wszystko.\n\nŚwiat\nNew Carven to miejsce dla Ciebie, jeśli uwielbiasz grindowanie na krawędziach i techniczne wyzwania. W tym przyjaznym dla rowerzystów mieście czeka na Ciebie mnóstwo ulicznych miejscówek. Jazda po ulicach to nie Twoja bajka? Żaden problem! Jumbo Jump Island to rajski park. Zmierz się z szalonym zjazdem lub sprawdź, czy dasz radę pokonać całą trasę w pętlowym tunelu. Scoot oferuje miejsce dla każdego stylu jazdy.\n\nTryb wieloosobowy online\nCzujesz się samotny? A może po prostu chcesz pochwalić się swoimi umiejętnościami? Wejdź do trybu online Scoot i graj z maksymalnie czterema innymi graczami z całego świata. Jeśli wolisz grać ze znajomymi bez żadnych przeszkód, to żaden problem. Tryb online Scoot pozwala grać zarówno w publicznych, jak i prywatnych lobby.",
+  "steamUrl": "https://store.steampowered.com/app/1494840/Scoot/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-94533-PLUS-63131",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Scoot.zip",

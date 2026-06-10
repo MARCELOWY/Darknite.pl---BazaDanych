@@ -1,13 +1,21 @@
 {
-    "id": "Raft",
-    "title": "Raft",
-    "platform": "Steam",
-    "icon": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoRIv6gaJCOFOgiKZ4cm7igjbwXNfXxbuxRXFTN06GthatI2R8rw6Ifq8qEl8-25QoXnHtXZM71AnRgvUpZMcrfmCQph0_h4YgfGHoCUpeNM9Js58TfVghRQ&usqp=CAc",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-34776-plus-09030",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Raft.zip",
-    "kategorie": [
-        "Przygodowe",
-        "KOOPERACYJNE"
-    ]
+  "id": "Raft",
+  "title": "Raft",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoRIv6gaJCOFOgiKZ4cm7igjbwXNfXxbuxRXFTN06GthatI2R8rw6Ifq8qEl8-25QoXnHtXZM71AnRgvUpZMcrfmCQph0_h4YgfGHoCUpeNM9Js58TfVghRQ&usqp=CAc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/ss_c22b2ff5ba5609f74e61b5feaa5b7a1d7fd1dbd3.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/ss_7e366c948ed3847f33693cebd23aaaf6458cbf46.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/ss_0e062ec493bba26edaf0f7e6a6e815e713e694b5.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/ss_d1ab60ade693c7ce90bcd0ba5400f8ea39e73edb.600x338.jpg"
+  ],
+  "description": "Samodzielnie lub z przyjaciółmi, Twoją misją jest przetrwanie epickiej, oceanicznej przygody na\nniebezpiecznym morzu! Zbieraj śmieci, aby przetrwać, rozbudzaj tratwę i popłyń w kierunku zapomnianych i niebezpiecznych wysp!\n\nUwięzieni na małej tratwie, mając jedynie hak ze starego plastiku, gracze budzą się na rozległym,\nbłękitnym oceanie, zupełnie sami i bez lądu w zasięgu wzroku! Z suchym gardłem i pustym żołądkiem,\nprzetrwanie nie będzie łatwe!\n\nRaft™ rzuca Ciebie i Twoich przyjaciół w epicką przygodę na otwartym morzu, z\ncelem przetrwania, gromadzenia zasobów i zbudowania pływającego domu godnego\nprzetrwania.\n\nZasoby są trudne do zdobycia na morzu: Gracze będą musieli upewnić się, że złapią wszystkie pływające śmieci, używając swojego zaufanego haka, a kiedy to możliwe, przeszukają rafy pod falami i wyspy nad nimi.\nJednak pragnienie i głód to nie jedyne niebezpieczeństwo w oceanie… Uważaj na rekina ludojada, który zdeterminowany jest, aby zakończyć Twoją podróż!\n\nZnajdź ostatnie fragmenty cywilizacji wciąż nad wodą. Pokonaj stojące przed nimi wyzwania, odkryj historię jej poprzednich mieszkańców i znajdź drogę do kolejnego celu!",
+  "steamUrl": "https://store.steampowered.com/app/648800/Raft/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-34776-plus-09030",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Raft.zip",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
 }

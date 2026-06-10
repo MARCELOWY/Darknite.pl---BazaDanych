@@ -1,13 +1,21 @@
 {
-    "id": "ScooterFlow",
-    "title": "ScooterFlow",
-    "platform": "Steam",
-    "icon": "https://store-images.s-microsoft.com/image/apps.44289.14233401839265865.ce0d7d62-c179-482c-892f-0a51fa3564c8.195aafb4-708c-460a-8722-9b51e84f8f05",
-    "requiredTier": "premium",
-    "correctLicense": "DARKNITE-51576-premium-61071",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/ScooterFlow.zip",
-    "kategorie": [
-        "Symulatory",
-        "Jazda Rowerem/Hulajnogą"
-    ]
+  "id": "ScooterFlow",
+  "title": "ScooterFlow",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.44289.14233401839265865.ce0d7d62-c179-482c-892f-0a51fa3564c8.195aafb4-708c-460a-8722-9b51e84f8f05",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1648390/11f3e9f52076b39d3dceb8cb4dc0fd72d930802a/ss_11f3e9f52076b39d3dceb8cb4dc0fd72d930802a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1648390/f46d2a18e1bf8fb19efbdcf2ac9e24b8e8ebb9f1/ss_f46d2a18e1bf8fb19efbdcf2ac9e24b8e8ebb9f1.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1648390/c1e56bc5546fca4753b522d9c5083b6dab982022/ss_c1e56bc5546fca4753b522d9c5083b6dab982022.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1648390/8669f27b667792037e0b878b7000f4a1f503fe31/ss_8669f27b667792037e0b878b7000f4a1f503fe31.600x338.jpg"
+  ],
+  "description": "Najbardziej realistyczna gra freestyle'owa na świecie wreszcie dostępna. Śmigaj po skateparku, ruszaj na ulice, przyspieszaj na mega rampie, w pełni personalizuj swoją hulajnogę i wykonuj wszystkie możliwe kombinacje trików w tej grze opartej na fizyce. Doświadcz całkowitej wolności i uwolnij swoją wyobraźnię w świecie, w którym możliwości są naprawdę nieograniczone.\nREALISTYCZNA FIZYKA\n\nPoczuj dreszczyk emocji autentycznej jazdy na hulajnodze dzięki naszemu najnowocześniejszemu systemowi fizyki. Zanurz się w dynamicznej i realistycznej fizyce, zaprojektowanej tak, aby emulować ruchy prawdziwych hulajnóg. Nasz system został starannie zaprojektowany, aby zapewnić, że każdy grind, skok i trik będzie naturalny i responsywny, pozwalając Ci płynnie poruszać się po skateparkach, jakbyś jeździł w świecie rzeczywistym. Opanuj fizykę i odblokuj świat możliwości kreatywnej ekspresji w grze.",
+  "steamUrl": "https://store.steampowered.com/app/1648390/ScooterFlow/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-51576-premium-61071",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/ScooterFlow.zip",
+  "kategorie": [
+    "Symulatory",
+    "Jazda Rowerem/Hulajnogą"
+  ]
 }

@@ -3,6 +3,15 @@
   "title": "BMX Streets",
   "platform": "Steam",
   "icon": "https://store-images.s-microsoft.com/image/apps.35957.13612269012522409.b1bf0017-3bc9-42e3-a547-089108e4ada4.70d9b5a5-1b70-432e-ab9f-887b664e363b",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/871540/466382cbc50d90f29470a1f1863ece6185408265/ss_466382cbc50d90f29470a1f1863ece6185408265.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/871540/b410e3d821d702fbbb4aecc37b133053f3ef6cf7/ss_b410e3d821d702fbbb4aecc37b133053f3ef6cf7.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/871540/61f7a8ff95ebe27658b6482e88ea0a893ffffb0f/ss_61f7a8ff95ebe27658b6482e88ea0a893ffffb0f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/871540/3c6b3064b76401d6827a940bca41150a4846bbe2/ss_3c6b3064b76401d6827a940bca41150a4846bbe2.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/871540/a28dafbab347f9f86dcb345fcf5836b7d99ea146/ss_a28dafbab347f9f86dcb345fcf5836b7d99ea146.600x338.jpg"
+  ],
+  "description": "BMX Streets to symulator jazdy na BMX-ie nowej generacji oparty na realistycznej fizyce. Oddaje ducha kultury BMX, umożliwiając graczom znalezienie własnego stylu jazdy poprzez ćwiczenia, eksperymentowanie i eksplorację.",
+  "steamUrl": "https://store.steampowered.com/app/871540/BMX_Streets/",
   "requiredTier": "standard",
   "correctLicense": "DARKNITE-56795-STANDARD-35719",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/BMX%20Streets.zip",

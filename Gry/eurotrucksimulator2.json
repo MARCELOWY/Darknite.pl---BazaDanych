@@ -3,6 +3,15 @@
   "title": "Euro Truck Simulator 2",
   "platform": "Steam",
   "icon": "https://store-images.s-microsoft.com/image/apps.60671.13700379119021319.2ac98f5e-3a7c-44f1-a2a7-cd4bca81dd82.c8d2f9f3-fce3-46e8-bff7-0df84572cf36",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/ss_54100267623179f54731048c91add16c1c3d3d1e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/ss_e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/ss_fd675feae669c7fb4ca6dcfb738d49fb7b7a238d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/ss_1a455dd625b6d8068c6f1db93887167383275757.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/ss_f903e4e63d478e9fe1db48ed05dfc5b314f262ad.600x338.jpg"
+  ],
+  "description": "Podróżuj po Europie jako król szos, kierowca ciężarówki, który dostarcza ważne ładunki na imponujące odległości! Z dziesiątkami miast do odkrycia w Wielkiej Brytanii, Belgii, Niemczech, Włoszech, Holandii, Polsce i wielu innych, Twoja wytrzymałość, umiejętności i prędkość zostaną wystawione na próbę. Jeśli masz to, czego potrzeba, aby zostać częścią elitarnej siły transportowej, wskocz za kierownicę i udowodnij to!",
+  "steamUrl": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-98406-PREMIUM-81562",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Euro%20Truck%20Simulator 2.zip",

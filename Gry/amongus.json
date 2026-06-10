@@ -1,12 +1,22 @@
 {
-    "id": "amongus",
-    "title": "Among Us",
-    "platform": "Steam",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-06158-plus-31058",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Among%20Us.zip",
-    "kategorie": [
-        "KOOPERACYJNE"
-    ]
+  "id": "amongus",
+  "title": "Among Us",
+  "platform": "Steam",
+  "icon": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/ss_b7374128e5b786a302a716bca038d604b00ffe46.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/ss_719484b5e0314cc2ae43793786448e032056a31d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/ss_ffd9c8926cbd7fce3ca5e5efb4399c47bb196bc8.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/ss_1fbd9dc9fd6a2710d233a088ef426a6d78fcf884.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/ss_9d11502fa973580a82b532b25f1901b8425c28f9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/ss_13ec9b7b0ad4d154a99a8cbbc4a0c12c02d0421f.600x338.jpg"
+  ],
+  "description": "Graj w 4-15 graczy online lub przez lokalne Wi-Fi, przygotowując swój statek kosmiczny do odlotu. Uważaj jednak, bo jeden lub kilku losowych graczy z załogi to oszustowie, którzy chcą wszystkich zabić!\n\nPierwotnie gra została stworzona jako gra imprezowa, ale zalecamy grę ze znajomymi na LAN-ie lub online za pomocą czatu głosowego. Ciesz się rozgrywką międzyplatformową na Androidzie, iOS, PC i konsoli.",
+  "steamUrl": "https://store.steampowered.com/app/945360/Among_Us/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-06158-plus-31058",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Among%20Us.zip",
+  "kategorie": [
+    "KOOPERACYJNE"
+  ]
 }

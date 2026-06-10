@@ -3,6 +3,14 @@
   "title": "J Am Fish",
   "platform": "Steam",
   "icon": "https://store-images.s-microsoft.com/image/apps.11702.13890660958509322.81a390b1-5ffb-4e5e-9b51-d8f3f2f45a2a.30dc93a1-8fa9-4431-93f0-d14cbb15685f",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1472560/ss_30de2e5d50bcb4a0460f5ef6858019665b9bc8d9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1472560/ss_1afa229bd43a56ddc114983fb6e2c824f1dd3c3d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1472560/ss_ba1ad6a5f9ae0625c8d65d5d59eaecfaeed00ffa.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1472560/ss_0480024d03a454dbd12178b35b5b10e8619c83e1.600x338.jpg"
+  ],
+  "description": "I Am Fish to urocza przygoda oparta na fizyce, w której bohaterkami są cztery śmiałe ryby zabrane z akwarium i rozdzielone wbrew woli. Dotrzyj wraz z nimi do oceanu z odległych zakątków Barnardshire (najmniejszego hrabstwa w Anglii), płynąc, lecąc, tocząc się i wygryzając sobie drogę. Wolność i towarzyszki czekają.",
+  "steamUrl": "https://store.steampowered.com/app/1472560/I_Am_Fish/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-65677-PLUS-72404",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/J%20Am%20Fish.zip",

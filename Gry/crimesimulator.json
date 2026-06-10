@@ -3,6 +3,14 @@
   "title": "Crime Simulator",
   "platform": "Steam",
   "icon": "https://store-images.s-microsoft.com/image/apps.9762.14462863330217209.dbba0843-5490-4977-8ddc-df96653b315f.b03b4c65-5488-4842-9db9-7219d3f23007",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2737070/1eaf3147d92facb7b2662816c553e85b171a22ec/ss_1eaf3147d92facb7b2662816c553e85b171a22ec.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2737070/51225e139ee228deeb478afe8864d06b567814fa/ss_51225e139ee228deeb478afe8864d06b567814fa.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2737070/eeae212f6a0f7914692bc318660c80722ed5f62f/ss_eeae212f6a0f7914692bc318660c80722ed5f62f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2737070/2b9ed438548e1839410ce78f246f3b7a5855c65f/ss_2b9ed438548e1839410ce78f246f3b7a5855c65f.600x338.jpg"
+  ],
+  "description": "Wsadzono cię za kratki, ale dzięki pewnemu tajemniczemu dobroczyńcy wychodzisz na wolność za kaucją. Teraz twój zbawca chce odzyskać pieniądze i to szybko. Możesz liczyć jedynie na swój wrodzony talent do popełniania przestępstw. Włamuj się do domów, kradnij wartościowe przedmioty i wykonuj niebezpieczne zlecenia w pojedynkę albo nawet z trójką znajomych. Czy spłacisz dług przed upływem czasu?",
+  "steamUrl": "https://store.steampowered.com/app/2737070/Crime_Simulator/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-49667-PLUS-23883",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Crime%20Simulator.zip",

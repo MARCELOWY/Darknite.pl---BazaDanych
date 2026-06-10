@@ -1,12 +1,20 @@
 {
-    "id": "PeoplePlayground",
-    "title": "People Playground",
-    "platform": "Steam",
-    "icon": "https://fwcdn.pl/fpo/54/15/875415/7961921_2.8.webp",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-21998-plus-88421",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/People%20Playground.zip",
-    "kategorie": [
-        "Symulatory"
-    ]
+  "id": "PeoplePlayground",
+  "title": "People Playground",
+  "platform": "Steam",
+  "icon": "https://fwcdn.pl/fpo/54/15/875415/7961921_2.8.webp",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118200/ss_402e684595c74400d4596978089e1e89e7ecbae9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118200/ss_1b0a4c1230ce6f218cee43a7e31401f1b414040b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118200/ss_645d8d2739b9c31cefb8d2d01ab72fe1f2e7152a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118200/ss_4f88bbde84018182a0dd974ada72378248055993.600x338.jpg"
+  ],
+  "description": "Strzelaj, dźgaj, pal, truj, rozrywaj, odparowuj lub miażdż szmaciane lalki. Ta gra jest dla osób, które lubią bawić się szmacianymi lalkami, ale chcą, aby była bardziej szczegółowa, satysfakcjonująca i dawała poczucie wolności.",
+  "steamUrl": "https://store.steampowered.com/app/1118200/People_Playground/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-21998-plus-88421",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/People%20Playground.zip",
+  "kategorie": [
+    "Symulatory"
+  ]
 }

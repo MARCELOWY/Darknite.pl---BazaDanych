@@ -1,12 +1,20 @@
 {
-    "id": "ULTRAKILL",
-    "title": "ULTRAKILL",
-    "platform": "Steam",
-    "icon": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVqmwS-cokfuILemK6vFQJ7lEDt9vt5pVNg36rVOy8-SmvaIuIg3oj6k7O2VZiq-UynUxCmrGGA1JGg5gfT3Rm3XMIvS9CTwyFjSSfn21a5F4ccGgmlai86Q&usqp=CAc",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-55943-plus-10521",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/ULTRAKILL.zip",
-    "kategorie": [
-        "Przygodowe"
-    ]
+  "id": "ULTRAKILL",
+  "title": "ULTRAKILL",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVqmwS-cokfuILemK6vFQJ7lEDt9vt5pVNg36rVOy8-SmvaIuIg3oj6k7O2VZiq-UynUxCmrGGA1JGg5gfT3Rm3XMIvS9CTwyFjSSfn21a5F4ccGgmlai86Q&usqp=CAc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/ss_8c743b6de2d6124bd583d8764f28cafe2b7ecb3f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/ss_7a5692d56ec4115252980fed4ad5536d1e401e04.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/ss_7460a480b1deb03f64cbfff0173445fb50d0c514.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/ss_c579ccd183640ee8f50ea1a86b27d1f2948b642c.600x338.jpg"
+  ],
+  "description": "ULTRAKILL to dynamiczna, niezwykle brutalna strzelanka FPS w starym stylu, łącząca w sobie elementy klasycznych strzelanek, takich jak Quake, współczesnych tytułów, takich jak Doom (2016), oraz gier akcji z postaciami, takich jak Devil May Cry.\n\nLudzkość wyginęła, a jedynymi istotami pozostałymi na Ziemi są maszyny zasilane krwią.\n\nJednak teraz, gdy na powierzchni zaczyna brakować krwi...\n\nMaszyny pędzą w głąb piekła w poszukiwaniu jej.",
+  "steamUrl": "https://store.steampowered.com/app/1229490/ULTRAKILL/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-55943-plus-10521",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/ULTRAKILL.zip",
+  "kategorie": [
+    "Przygodowe"
+  ]
 }

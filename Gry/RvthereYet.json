@@ -1,13 +1,21 @@
 {
-    "id": "RvthereYet",
-    "title": "Rvthere Yet",
-    "platform": "Steam",
-    "icon": "https://assetsio.gnwcdn.com/coapnc.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-36977-plus-55706",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/RV%20There%20Yet.zip",
-    "kategorie": [
-        "Przygodowe",
-        "KOOPERACYJNE"
-    ]
+  "id": "RvthereYet",
+  "title": "Rvthere Yet",
+  "platform": "Steam",
+  "icon": "https://assetsio.gnwcdn.com/coapnc.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3949040/ed2f7080c6622688a72a86ca85af600f2a2bdfb9/ss_ed2f7080c6622688a72a86ca85af600f2a2bdfb9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3949040/7d246f94e4ec2ff4c7be3ded82bcdd558274d7c7/ss_7d246f94e4ec2ff4c7be3ded82bcdd558274d7c7.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3949040/aa6d58ff1f0eb5c5b3e6d7cc10c1576b62a745b0/ss_aa6d58ff1f0eb5c5b3e6d7cc10c1576b62a745b0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3949040/c30eb4f8c688a46edb891ea195acb14549a09c0f/ss_c30eb4f8c688a46edb891ea195acb14549a09c0f.600x338.jpg"
+  ],
+  "description": "TAM DOM TWÓJ, GDZIE SPRZĘGŁO TWOJE\n\nGdy wracacie z kolegami z przyjemnych wspólnych wakacji, jesteście zmuszeni do pojechania inną drogą niż planowaliście. Przejedźcie przez odludzia i dotrzyjcie do drogi numer 65.",
+  "steamUrl": "https://store.steampowered.com/app/3949040/RV_There_Yet/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-36977-plus-55706",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/RV%20There%20Yet.zip",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
 }

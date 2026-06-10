@@ -1,13 +1,23 @@
 {
-    "id": "InZOI",
-    "title": "InZOI",
-    "platform": "Steam",
-    "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/95024ed2d889050a756df058d12f4f9a1b8bd304/ss_95024ed2d889050a756df058d12f4f9a1b8bd304.1920x1080.jpg?t=1777449358",
-    "requiredTier": "premium",
-    "correctLicense": "DARKNITE-23638-premium-73549",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/InZOI.zip",
-    "kategorie": [
-        "Symulatory",
-        "Otwarty Świat"
-    ]
+  "id": "InZOI",
+  "title": "InZOI",
+  "platform": "Steam",
+  "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/95024ed2d889050a756df058d12f4f9a1b8bd304/ss_95024ed2d889050a756df058d12f4f9a1b8bd304.1920x1080.jpg?t=1777449358",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/6ee1710c233c350ea906404b8988646ad94457da/ss_6ee1710c233c350ea906404b8988646ad94457da.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/a0785450c79eb14a1e32a8b5d9b73c0c70cd4071/ss_a0785450c79eb14a1e32a8b5d9b73c0c70cd4071.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/7dd4827582e1c766ebd0b76798a0d42b1211f0fa/ss_7dd4827582e1c766ebd0b76798a0d42b1211f0fa.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/d4f96df4bbf01335e37aa52eb26450971a03c75a/ss_d4f96df4bbf01335e37aa52eb26450971a03c75a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/ce8c450d37a0bd4e92152722fc771389cc861d06/ss_ce8c450d37a0bd4e92152722fc771389cc861d06.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/ea6450cb078d3474f14d175d93ef2afb779182b2/ss_ea6450cb078d3474f14d175d93ef2afb779182b2.600x338.jpg"
+  ],
+  "description": "inZOI to symulacja życia, w której gracze wcielają się w twórców kształtujących wymarzony świat, będąc świadkami historii, które się w nim toczą.\nPoprzez doświadczenia w grze chcemy zachęcić graczy do doceniania życia jako największego daru — podróży, podczas której na każdym kroku można odnaleźć głębsze znaczenie.\n\nPoczuj się jak w prawdziwym życiu dzięki realistycznej grafice!\n\ninZOI oferuje w pełni funkcjonalną symulację społeczności, w której postacie, znane jako Zoi, kierują się własną wolą. Zoi działają i budują relacje na podstawie swoich osobowości i doświadczeń, co prowadzi do nieoczekiwanych sytuacji, takich jak plotki, trendy czy choroby.",
+  "steamUrl": "https://store.steampowered.com/app/2456740/inZOI/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-23638-premium-73549",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/InZOI.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
 }

@@ -1,13 +1,22 @@
 {
-    "id": "cyberpunk",
-    "title": "Cyberpunk 2077",
-    "platform": "Steam",
-    "icon": "https://store-images.s-microsoft.com/image/apps.47379.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.89bb995b-b066-4a53-9fe4-0260ce07e894",
-    "requiredTier": "premium",
-    "correctLicense": "DARKNITE-91991-premium-40887",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Cyberpunk%202077.zip",
-    "kategorie": [
-        "Przygodowe",
-        "Otwarty Świat"
-    ]
+  "id": "cyberpunk",
+  "title": "Cyberpunk 2077",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.47379.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.89bb995b-b066-4a53-9fe4-0260ce07e894",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9284d1c5b248726760233a933dbb83757d7d5d95.600x338.jpg"
+  ],
+  "description": "Cyberpunk 2077 to pierwszoosobowa gra akcji RPG, w której wcielasz się w postać „V” – najemnika walczącego o przetrwanie w Night City. To tętniące życiem, niebezpieczne megalopolis z otwartym światem, gdzie władzę sprawują bezwzględne korporacje, a ludzie na co dzień modyfikują swoje ciała za pomocą technologii.",
+  "steamUrl": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-91991-premium-40887",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Cyberpunk%202077.zip",
+  "kategorie": [
+    "Przygodowe",
+    "Otwarty Świat"
+  ]
 }

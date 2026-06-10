@@ -1,13 +1,22 @@
 {
-    "id": "descenders",
-    "title": "Descenders",
-    "platform": "Steam",
-    "icon": "https://store-images.s-microsoft.com/image/apps.24333.65934155925401073.cdde9208-c05c-4015-852b-3c48d95ed87b.52e0d392-5541-4ba1-84b8-656727390fd5",
-    "requiredTier": "premium",
-    "correctLicense": "DARKNITE-74532-premium-97141",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Descenders.zip",
-    "kategorie": [
-        "Symulatory",
-        "Jazda Rowerem/Hulajnogą"
-    ]
+  "id": "descenders",
+  "title": "Descenders",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.24333.65934155925401073.cdde9208-c05c-4015-852b-3c48d95ed87b.52e0d392-5541-4ba1-84b8-656727390fd5",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/681280/ss_b7e963fce1b77981b97a0b8d7e4c06ea99a034b6.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/681280/ss_cb09687931b1498f1d3be2dd1fa530e1ca948d75.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/681280/ss_deb153fca70d3ed5b0d1293227fb91ee088907d9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/681280/ss_f36781e202c2e8d6d8e84c0fc58573bd3c6be687.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/681280/ss_196726f31de9f543c63360e004d43a14d3cb7cc2.600x338.jpg"
+  ],
+  "description": "Światy generowane proceduralnie: Pokonuj różne skocznie, nachylenia i podjazdy pod wzniesienia za każdym razem, gdy grasz.\n\nSterowanie motocyklem w stylu dowolnym: Kontroluj każdy subtelny ruch swojego kolarza dzięki zaawansowanemu systemowi fizyki stworzonemu do szybkich biczów i szortów.\n\nRogue-Bike: Zdobywaj specjalne mutatory za każdym razem, gdy grasz, i dowiedz się, które umiejętności najlepiej pasują do Twojego stylu jazdy.\n\nBuduj swoją reputację: W pełni funkcjonalny system reputacji online pozwoli Ci pokazać swoją wartość i zdobyć nowe motocykle i stroje.\n\nW pełni licencjonowana ścieżka dźwiękowa: Nawiązaliśmy współpracę z wytwórnią muzyki drum & bass Liquicity, aby zapewnić Ci idealną ścieżkę dźwiękową do górskich podbojów.\n\nZostań kolejnym Zjazdowcem: Czy przetrwasz grę w jednym podejściu i dołączysz do grona legendarnych Zjazdowców?",
+  "steamUrl": "https://store.steampowered.com/app/681280/Descenders/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-74532-premium-97141",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Descenders.zip",
+  "kategorie": [
+    "Symulatory",
+    "Jazda Rowerem/Hulajnogą"
+  ]
 }

@@ -1,13 +1,21 @@
 {
-    "id": "PowerWashSimulator2",
-    "title": "PowerWash Simulator 2",
-    "platform": "Steam",
-    "icon": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTQPkdb9DYxaXb-8uBVzF-mEgl94G7pWIMYIFTq-z32lmTEl00QeO93V_YwxGkBMtvaifsIzq4BmH60pltyLaQo_mXMJdyFBg&usqp=CAc",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-02617-plus-89286",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/PowerWash%20Simulator%202.zip",
-    "kategorie": [
-        "Symulatory",
-        "KOOPERACYJNE"
-    ]
+  "id": "PowerWashSimulator2",
+  "title": "PowerWash Simulator 2",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTQPkdb9DYxaXb-8uBVzF-mEgl94G7pWIMYIFTq-z32lmTEl00QeO93V_YwxGkBMtvaifsIzq4BmH60pltyLaQo_mXMJdyFBg&usqp=CAc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2968420/957c73a43443d0dae03bb7815b2b3908b48e09ff/ss_957c73a43443d0dae03bb7815b2b3908b48e09ff.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2968420/527bb05ede02f0d58e26aaee9014e9dacf384fac/ss_527bb05ede02f0d58e26aaee9014e9dacf384fac.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2968420/96a7583c865e91cb6efca272d024e43993eae514/ss_96a7583c865e91cb6efca272d024e43993eae514.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2968420/83ee40bf689557bc3db4d20e72b314278e0143da/ss_83ee40bf689557bc3db4d20e72b314278e0143da.600x338.jpg"
+  ],
+  "description": "Odkurz myjkę ciśnieniową i zrelaksuj się – dobra zabawa jest najważniejsza. Rozpraw się ze wszystkimi plamami, smugami i zaciekami, aby Brudkowo odzyskało blask (i nie tylko ono).\n\nZlecenia i woda płyną w PowerWash Simulator 2 szerokim strumieniem! Rozegraj zupełnie nową kampanię i odkryj tajemnice, które skrywa Brudkowo. Dodatkowo wyrusz jeszcze dalej, do zupełnie nowych, pełnych brudu miejsc, takich jak Dolina Gąbecka, Myjogrzmoty i Pianów.",
+  "steamUrl": "https://store.steampowered.com/app/2968420/PowerWash_Simulator_2/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-02617-plus-89286",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/PowerWash%20Simulator%202.zip",
+  "kategorie": [
+    "Symulatory",
+    "KOOPERACYJNE"
+  ]
 }

@@ -3,6 +3,18 @@
   "title": "Auto Fuszerka",
   "platform": "Steam",
   "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0413/0f2e51845a4a23877b6b78136c2c5b127704333329d80b2b.png",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/59011b733071cecad7b6ee66f6a18771ddb04423/ss_59011b733071cecad7b6ee66f6a18771ddb04423.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/6389b9bdf69b29748ad72bea4e8e9780e3fe6601/ss_6389b9bdf69b29748ad72bea4e8e9780e3fe6601.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/999bb8e1e646ca8f5e3062b4f69a0c5ee832cbd4/ss_999bb8e1e646ca8f5e3062b4f69a0c5ee832cbd4.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/2d9bef985298097701bd1ff5fc46526f0c2a0caf/ss_2d9bef985298097701bd1ff5fc46526f0c2a0caf.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/15acd3f753bb96e0f853d025169e1b82db50588e/ss_15acd3f753bb96e0f853d025169e1b82db50588e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/a446db3cf74a7e02a98eb6633ded177ea901309a/ss_a446db3cf74a7e02a98eb6633ded177ea901309a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/b690b9d2e3ea2ef6699118a7c482e4f8c341dbbd/ss_b690b9d2e3ea2ef6699118a7c482e4f8c341dbbd.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/f8540696d7dbc2a9b3963d432631bd5a7b36213e/ss_f8540696d7dbc2a9b3963d432631bd5a7b36213e.600x338.jpg"
+  ],
+  "description": "Wejdź w buty mechanika, który prowadzi własny warsztat samochodowy na jednej z wielu typowych wiosek Polski lat 90-tych.\nChociaż nie - ta wioska nie jest typowa... To \"Wypizdów Dolny\" - miejsce, w którym psy szczekają - wiadomo czym, wrony zawracają, a na księdza wołają Zorro.\n\nA w środku tego pierdolnika, cały na biało (i trochę uwalony smarem) - stoisz Ty...\n\nNie ma lekko - pieniędzy brak, więc trzeba wykazać się sprytem i przycinać, na czym tylko się da!\n- Klient wgniótł błotnik? Szpachla załatwi sprawę!\n- Rajstopy zamiast paska klinowego? Jeszcze jak!\n- A może dolać do baku benzyny rozcieńczonej wodą? Czemu nie!\n\nJeśli tylko Twoje dzieło nie rozpadnie się przy wyjeździe z warsztatu - zaliczasz profit! Ale nie zawsze jest tak kolorowo. Jeśli naprawa nie pójdzie zgodnie z planem, klient wróci - i to wcale nie z przyjacielskimi zamiarami.",
+  "steamUrl": "https://store.steampowered.com/app/2904040/Auto_Fuszerka/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-39499-PREMIUM-88314",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Cheap%20Car%20Repair.zip",

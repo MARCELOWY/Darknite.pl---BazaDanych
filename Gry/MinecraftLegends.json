@@ -1,13 +1,21 @@
 {
-    "id": "MinecraftLegends",
-    "title": "Minecraft Legends",
-    "platform": "Steam",
-    "icon": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpH9WGZVABo8852h52EJlt3-8IoPY83ka4Hd2jMNkAegw3sd7JjrYOaG_atlSf2Hu_sLp8o2yz0QSc6_kH7ypK1xKDM5TifwyJji5L_zW6lmxnIzxBTpEE&usqp=CAc",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-03508-plus-29162",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Minecraft%20Legends.zip",
-    "kategorie": [
-        "Przygodowe",
-        "KOOPERACYJNE"
-    ]
+  "id": "MinecraftLegends",
+  "title": "Minecraft Legends",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpH9WGZVABo8852h52EJlt3-8IoPY83ka4Hd2jMNkAegw3sd7JjrYOaG_atlSf2Hu_sLp8o2yz0QSc6_kH7ypK1xKDM5TifwyJji5L_zW6lmxnIzxBTpEE&usqp=CAc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928870/ss_4dba4e59eabcf5c3631e5c28b52ffcae46d3bad8.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928870/ss_87b5f26fd65475c2605013fae8f17c5085cbd024.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928870/ss_07751f1c6d097298907a6be7df2cf21ad795acc4.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928870/ss_65720eb73a2dd8fc993172cfbfcdc8fe40ec44c2.600x338.jpg"
+  ],
+  "description": "Odkryj tajemnice\nPoznaj historię Minecraft Legends i odkryj nowy, ale znajomy świat. Zanurz się w uniwersum Minecrafta w nowy, ekscytujący sposób dzięki tej nowej strategicznej grze akcji.\n\nDynamiczny świat\nOdkrywaj piękną krainę, zarówno znajomą, jak i tajemniczą, pełną różnorodnego życia, bujnych biomów i bogatych zasobów potrzebnych do zbudowania struktur obronnych i pokonania inwazji piglinów.\n\nEpickie bitwy\nZachęć nieoczekiwanych przyjaciół do tworzenia ważnych sojuszy i poprowadź ich w strategicznych bitwach, aby chronić ich dom. Podejmij walkę z piglinami, zanim ich zepsucie wywołane przez Nether pochłonie Nadziemie!\n\nPvP\nRzuć wyzwanie znajomym – lub połącz z nimi siły – i weź udział w ekscytujących bitwach, broniąc swojej wioski i prowadząc sojuszników w celu pokonania przeciwników. ",
+  "steamUrl": "https://store.steampowered.com/app/1928870/Minecraft_Legends/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-03508-plus-29162",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Minecraft%20Legends.zip",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
 }

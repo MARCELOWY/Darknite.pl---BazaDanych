@@ -1,13 +1,21 @@
 {
-    "id": "Portal2",
-    "title": "Portal 2",
-    "platform": "Steam",
-    "icon": "https://imgproxy.eneba.games/G5YNyKdzyks-LwzgfxoSleZvvfmd7OTNKCfgavzlLWw/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy91/QXRIOG1jeWt2UHZy/MHg2WllSS25CZG15/aEdEMDNVLV9XVEdY/SWp2ejlBLmpwZw",
-    "requiredTier": "premium",
-    "correctLicense": "DARKNITE-75031-premium-10982",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Portal%202.zip",
-    "kategorie": [
-        "Przygodowe",
-        "KOOPERACYJNE"
-    ]
+  "id": "Portal2",
+  "title": "Portal 2",
+  "platform": "Steam",
+  "icon": "https://imgproxy.eneba.games/G5YNyKdzyks-LwzgfxoSleZvvfmd7OTNKCfgavzlLWw/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy91/QXRIOG1jeWt2UHZy/MHg2WllSS25CZG15/aEdEMDNVLV9XVEdY/SWp2ejlBLmpwZw",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_6a4f5afdaa98402de9cf0b59fed27bab3256a6f4.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_3d13161104a04603a0524536770c5f74626db4c0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_fe9782ea3b43ef7af37b18e0a5c5f7bdc9c21f12.600x338.jpg"
+  ],
+  "description": "Portal 2 czerpie elementy z wielokrotnie nagradzanej formuły łączącej innowacyjną rozgrywkę, fabułę i muzykę, dzięki którym pierwsza część zdobyła ponad 70 nagród branży gier i zebrała rzesze oddanych fanów.\n\nCzęść przeznaczona dla jednego gracza wprowadza wachlarz nowych, dynamicznych postaci, gamę świeżych łamigłówek i jeszcze większy zestaw zdradzieckich komór testowych. Gracze odkryją nigdy dotąd niezbadane lokalizacje w laboratoriach Aperture Science i ponownie spotkają się z GLaDOS, okazjonalnie morderczym komputerem-towarzyszem, który odgrywał rolę przewodnika w pierwszej części.\n\nDwuosobowy tryb kooperacyjny zawiera zupełnie odrębną kampanię ze swoją własną historią, komorami testowymi i dwiema nowymi grywalnymi postaciami. Ten nowy tryb zmusi graczy do zakwestionowania całej wiedzy na temat portali, którą wydawało im się, że posiadają. Aby odnieść sukces, będą musieli nie tylko wspólnie działać, ale też wspólnie myśleć.",
+  "steamUrl": "https://store.steampowered.com/app/620/Portal_2/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-75031-premium-10982",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Portal%202.zip",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
 }

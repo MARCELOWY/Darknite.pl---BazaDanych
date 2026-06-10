@@ -3,6 +3,14 @@
   "title": "The Binding of Isaac: Rebirth",
   "platform": "Steam",
   "icon": "https://upload.wikimedia.org/wikipedia/en/e/e1/The_Binding_of_Issac_Rebirth_cover.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/ss_008a76bd0ab314c8140dd1a7ec61090c122d1779.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/ss_19ef624e8d97136ba6f928d389b85f7b8130c37a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/ss_9fa4199fa93cb8b1edd8780fa6ce9e80d2bfb503.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/ss_8961974abd6a3791efd74fbb6e57b4935e494500.600x338.jpg"
+  ],
+  "description": "Kiedy matka Izaaka zaczyna słyszeć głos Boga, żądającego ofiary, by udowodnić swoją wiarę, Izaak ucieka do piwnicy, stawiając czoła tłumom szalonych wrogów, zagubionym braciom i siostrom, swoim lękom, a ostatecznie także matce.\n\nRozgrywka\nThe Binding of Isaac to losowo generowana strzelanka RPG akcji z silnymi elementami roguelike. Podążając za Izaakiem w jego podróży, gracze znajdą dziwaczne skarby, które zmieniają postać Izaaka, dając mu nadludzkie zdolności i umożliwiając walkę z hordami tajemniczych stworzeń, odkrywanie sekretów i wywalczanie sobie drogi do bezpiecznego schronienia.\n\nO The Binding Of Isaac: Rebirth\nThe Binding of Isaac: Rebirth to szczytowe osiągnięcie remake'u, z zupełnie nowym, niezwykle wydajnym silnikiem gry (na większości komputerów PC można spodziewać się 60 klatek na sekundę), zupełnie nową, ręcznie rysowaną, pikselową grafiką, dopracowanymi efektami wizualnymi, zupełnie nową ścieżką dźwiękową i dźwiękiem autorstwa seksownego duetu Ridiculon, Matthiasa Bossiego i Jona Evansa. A tak przy okazji, i setki projektów, przeróbek i ulepszeń autorstwa twórcy serii, Edmunda McMillena. Czy wspominaliśmy już o kupie?",
+  "steamUrl": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-67805-plus-03406",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/The%20Binding%20of%20Isaac%20Rebirth.zip",

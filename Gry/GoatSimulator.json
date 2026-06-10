@@ -1,13 +1,21 @@
 {
-    "id": "GoatSimulator",
-    "title": "Goat Simulator",
-    "platform": "Steam",
-    "icon": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQpxW5c9bvB8zEQuTWniHrbIsQmN3W2QibaWI09-q1LadjUzIp41P7wPvlqxlBMvlUpltFIWKM-zgmr9ZaQsRh0Iqi_KelTDYwQ3pexs9_yhIwFzJ0TfXv&usqp=CAc",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-28911-plus-16576",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Goat%20Simulator.zip",
-    "kategorie": [
-        "Symulatory",
-        "KOOPERACYJNE"
-    ]
+  "id": "GoatSimulator",
+  "title": "Goat Simulator",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQpxW5c9bvB8zEQuTWniHrbIsQmN3W2QibaWI09-q1LadjUzIp41P7wPvlqxlBMvlUpltFIWKM-zgmr9ZaQsRh0Iqi_KelTDYwQ3pexs9_yhIwFzJ0TfXv&usqp=CAc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/265930/ss_53d83ce2f7857ddc27af1e07980c602642892a87.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/265930/ss_0f0e9008ba21b5eed106147cdc355d3c7bad683a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/265930/ss_fa0673c4bf6e43a4092ea351a726d913d81b5953.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/265930/ss_25b9da1037082d6a7c3c12e2f3a7707c5c2e721e.600x338.jpg"
+  ],
+  "description": "Pilgor wróciła! Złap życie za rogi w Goat Simulator 3!\n\nZbierz stado i patataj na spotkanie przygody w Goat Simulator 3. Czeka na ciebie nowiuteńkie*, totalnie realistyczne**, sandboksowe doświadczenie farmowe***! Wskocz znów w buty… ehm… kopyta ukochanej bohaterki.\n\nDołącz do Pilgor i stwórz własną szaloną przygodę na wyspie San Angora. Liż, taranuj i rozwalaj wszystko na swojej drodze, gnając przez otwarty świat w grze, którą uznajemy za największą stratę czasu od wydania pierwszego Goat Simulatora! Nie nauczymy cię grać (dostaniesz tylko samouczek), ale pozwolimy ci stać się najwspanialszą kozą na świecie.",
+  "steamUrl": "https://store.steampowered.com/app/850190/Goat_Simulator_3/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-28911-plus-16576",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Goat%20Simulator.zip",
+  "kategorie": [
+    "Symulatory",
+    "KOOPERACYJNE"
+  ]
 }

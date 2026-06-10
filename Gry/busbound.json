@@ -3,6 +3,15 @@
   "title": "Bus Bound",
   "platform": "Steam",
   "icon": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWTs8yWH21M188Zpg9G7E3lBTZXzFvT0GpMXi9Apk9xKnHqKF6UHY88wUhXws3f2M0qLr9Jsjm2sMX-zdXF-CaT_Sg8pJe0_Ja_GALENm4DQLsb0LL0v7R&usqp=CAc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2095420/4358526936fdaa50aad5f0646372a2547517f422/ss_4358526936fdaa50aad5f0646372a2547517f422.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2095420/3f877831c2ae49ec43c88dcde8900e5ee701189b/ss_3f877831c2ae49ec43c88dcde8900e5ee701189b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2095420/9f51eb44c01c2907862516e5ad597fe780f55eea/ss_9f51eb44c01c2907862516e5ad597fe780f55eea.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2095420/abb785139653c1ce89478367ce041ff45a107802/ss_abb785139653c1ce89478367ce041ff45a107802.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2095420/056f610b8bd214e3cd2eb2ae518d29ff0e277e17/ss_056f610b8bd214e3cd2eb2ae518d29ff0e277e17.600x338.jpg"
+  ],
+  "description": "Zasiądź za kierownicą busa w najnowszej grze twórców Bus Simulator 21 i odjedź w siną dal w Bus Bound. Kierując licencjonowanymi busami. przejeżdżaj przez pełne życia miasto i pomóż zmienić je w raj dla pieszych.\n\nPoznaj w pełni symulowane, tętniące życiem, fikcyjne miasto z całym ruchem drogowym, zmieniającymi się porami dnia i pogodą. Czekają na Ciebie ruchliwe skrzyżowania i zaciszne okolice, każda dzielnica żyje swoim rytmem, a Ty masz na nią realny wpływ.",
+  "steamUrl": "https://store.steampowered.com/app/2095420/Bus_Bound/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-11324-PREMIUM-91261",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Bus%20Bound.zip",

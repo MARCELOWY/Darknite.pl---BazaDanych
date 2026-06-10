@@ -3,6 +3,16 @@
   "title": "BeamNG.drive",
   "platform": "Steam",
   "icon": "https://gfn.ru/media/images/box_art_image-beamngdrive-91b5e9c3.original.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/ss_50b8ba7ff80d50af3bd6b1b4e326849555a952a2.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/ss_ae4c258e6f13ddf00ee8e72be8bd0b0fc5e67801.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/ss_1b129249ad662d242a81a34ee2fdcdcbe064eb32.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/ss_707b21b512dd1fe58e7ea9dcf63af386dd8dc883.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/ss_cb1441c868e71b36fa4bdb35313274a4687894de.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/ss_4a7ebbd491e3520bd81c4e001a310c56fbb33053.600x338.jpg"
+  ],
+  "description": "BeamNG.drive to niezwykle realistyczna gra wyścigowa o niemal nieograniczonych możliwościach. Nasz silnik fizyki ciał miękkich symuluje każdy element pojazdu w czasie rzeczywistym, co przekłada się na realistyczne zachowanie pojazdu. Dzięki wieloletniemu, skrupulatnemu projektowaniu, intensywnym badaniom i doświadczeniu, symulacja autentycznie oddaje emocje prawdziwej jazdy.",
+  "steamUrl": "https://store.steampowered.com/app/284160/BeamNGdrive/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-48027-PREMIUM-04242",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/BeamNG.drive.zip",

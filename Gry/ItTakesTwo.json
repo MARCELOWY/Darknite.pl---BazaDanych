@@ -1,13 +1,21 @@
 {
-    "id": "ItTakesTwo",
-    "title": "It Takes Two",
-    "platform": "Steam",
-    "icon": "https://store-images.s-microsoft.com/image/apps.47836.13656480271398373.afd4188d-5f38-489b-b9c2-dc4557ed28c1.ee45de6b-cf84-43d8-9058-bfcc36c03cd7",
-    "requiredTier": "premium",
-    "correctLicense": "DARKNITE-09861-premium-38635",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/It%20Takes%20Two.zip",
-    "kategorie": [
-        "Przygodowe",
-        "KOOPERACYJNE"
-    ]
+  "id": "ItTakesTwo",
+  "title": "It Takes Two",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.47836.13656480271398373.afd4188d-5f38-489b-b9c2-dc4557ed28c1.ee45de6b-cf84-43d8-9058-bfcc36c03cd7",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/ss_4a62bc8fa398fc5b2094a6225dc5ecff9485f824.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6f7b65b8613afbcb2616bff8ed0283d0629b6572.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6ce2d50261a94284c72164e2d6d3721fe2f00013.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/ss_fdac523e3ea4d2f32a44449bb8c224857563bd7d.600x338.jpg"
+  ],
+  "description": "Wyrusz na szaloną przygodę w It Takes Two – przełomowej platformowej przygodówce stworzonej z myślą o współpracy. Zaproś znajomego do dołączenia za darmo dzięki funkcji „Dostęp dla znajomych”* i weźcie udział w innowacyjnych wyzwaniach. Grajcie jako Cody i May – pokłócona para zmieniona w lalki za sprawą magicznego zaklęcia. Zamknięci w fantastycznym świecie, w którym za każdym rogiem czeka coś nieoczekiwanego, May oraz Cody niechętnie dążą do naprawienia swojego rozpadającego się związku.\n\nOpanujcie wyjątkowe i powiązane ze sobą umiejętności postaci na każdym poziomie. Pomagajcie sobie, by stawić czoła ogromowi nieoczekiwanych przeszkód i wspólnie przeżyjcie zabawne momenty. Skopcie ogony wiewiórczych gangsterów, pilotujcie parę gaci, zabawcie się w DJ-a w nocnym klubie i udajcie się na przejażdżkę bobslejem po magicznej kuli śnieżnej. Poznajcie serdeczną i przezabawną historię, gdzie sfery narracji i rozgrywki przeplatają się ze sobą w niezwykle metaforycznym doświadczeniu.\n\nGra „It Takes Two” to produkcja z nagradzanego studia Hazelight, specjalizującego się w rozgrywce kooperacyjnej. Twórcy chcą was zabrać na dziką i niesamowitą przygodę, gdzie tylko jedna rzecz jest pewna: razem jesteśmy lepsi.",
+  "steamUrl": "https://store.steampowered.com/app/1426210/It_Takes_Two/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-09861-premium-38635",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/It%20Takes%20Two.zip",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
 }

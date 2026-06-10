@@ -1,13 +1,21 @@
 {
-    "id": "Dale&Dawson",
-    "title": "Dale & Dawson Stationery Supplies",
-    "platform": "Steam",
-    "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920570/ss_811d4c74bbf731f43b8bcb14535a2cf5887f2869.1920x1080.jpg?t=1738015624",
-    "requiredTier": "plus",
-    "correctLicense": "DARKNITE-34156-plus-25821",
-    "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dale%20&%20Dawson%20Stationery%20Supplies.zip",
-    "kategorie": [
-        "Symulatory",
-        "KOOPERACYJNE"
-    ]
+  "id": "Dale&Dawson",
+  "title": "Dale & Dawson Stationery Supplies",
+  "platform": "Steam",
+  "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920570/ss_811d4c74bbf731f43b8bcb14535a2cf5887f2869.1920x1080.jpg?t=1738015624",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920570/ss_5ab20cb40c520de41fa12ea9b44a10a6ed98fae0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920570/ss_b4a197956ec30e1042745859d234d9da01ecd5d9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920570/ss_efcd634c0044975d88f64e6d9bbd1c70c8b3898e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920570/ss_811d4c74bbf731f43b8bcb14535a2cf5887f2869.600x338.jpg"
+  ],
+  "description": "Menedżer to najwyższy autorytet w biurze, odpowiedzialny za zapewnienie produktywności i zwalnianie Obiboków ukrywających się wśród Specjalistów.\n\nCelem Obiboka jest obijanie się bez przyłapania. Niezależnie od tego, czy gra w Saper, czy załatwia swoje sprawy w toalecie, Obibok musi wtopić się w tłum, aby uniknąć gniewu Menedżera.\n\nSpecjaliści są fundamentem firmy, odpowiedzialni za różne zadania, które zapewniają płynne funkcjonowanie biura. Nawet najciężej pracujący wiedzą jednak, że produktywność czasem wymaga przerwy na kawę.",
+  "steamUrl": "https://store.steampowered.com/app/2920570/Dale__Dawson_Stationery_Supplies/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-34156-plus-25821",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dale%20&%20Dawson%20Stationery%20Supplies.zip",
+  "kategorie": [
+    "Symulatory",
+    "KOOPERACYJNE"
+  ]
 }

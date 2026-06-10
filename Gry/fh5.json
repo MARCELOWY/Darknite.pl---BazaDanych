@@ -3,6 +3,14 @@
   "title": "Forza Horizon 5",
   "platform": "Steam",
   "icon": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzv5naOIo7jEBFgsSZ7yxwic0MUWlc-R8NVJwVR_Rz06zZmI9Pio_8g2WFwaxMENdDI_h67n0Cput9gBZfaYgGGhhag-oPdPHXXQ8iImZ4ooaLsCNlWNeP&usqp=CAc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/ss_cf56e25a0290556ba83229eb0ab370d10be0407c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/ss_0a13a7ccd38e7c3e6a5f1720050732833b53b6a8.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/ss_00f0090174380eeaf8753bd3d1028b6772c3aebf.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/ss_3654a5988db68f9b47740f9f6a9299682c365599.600x338.jpg"
+  ],
+  "description": "Przygotuj się na największą przygodę Horizon! Poprowadź zapierające dech w piersi ekspedycje po kolorowym, tętniącym życiem Meksyku, gdzie pochłonie cię jazda bez ograniczeń za kierownicą setek najwspanialszych samochodów świata.\n\nTo jest Twoja przygoda horizon\nPoprowadź zapierające dech w piersiach wyprawy po tętniących życiem i stale zmieniających się krajobrazach Meksyku w otwartym świecie, dzięki nieograniczonej, zabawnej akcji jazdy setkami największych samochodów na świecie.",
+  "steamUrl": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-84328-plus-60130",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Forza%20Horizon%205.zip",
