@@ -1,0 +1,23 @@
+{
+  "id": "dudesimulator2",
+  "title": "Dude Simulator 2",
+  "platform": "Steam",
+  "icon": "https://imgproxy.eneba.games/bcTskzQBUUyUXEnOlzmuGqkaWw34mlfKf7wAKcBmcco/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy95/bFRXSHo1dXF3XzlK/eTcwVmR5TEZvT2JL/cE13NExMTTBvRDhs/QzV2NEtrLmpwZw",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/825310/ss_94a251bd0c90ff836f38060d36cd90f0dd581a2c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/825310/ss_c9d29515b0bd64315535cd3daa3033780dbb5ddb.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/825310/ss_3771b1fd5cfb7ef4fe64c8de075e8a388980edcb.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/825310/ss_468dd067e4bd99589681482678cb03d46d652624.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/825310/ss_6c669b11610920949a3d6cf1e14750f34a2ed682.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "To sandbox i symulator życia. Czerp przyjemność z tego, co robisz: zarabiaj, wydawaj, zabijaj, wchodź do budynków i żartuj z ludzi. Żyj zwyczajnie lub szalej – wszystko zależy od Ciebie.",
+  "steamUrl": "https://store.steampowered.com/app/825310/Dude_Simulator_2/?l=polish",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-89390-PLUS-95584",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dude%20Simulator%202.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}

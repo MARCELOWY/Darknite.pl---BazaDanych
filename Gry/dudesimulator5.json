@@ -1,0 +1,23 @@
+{
+  "id": "dudesimulator5",
+  "title": "Dude Simulator 5",
+  "platform": "Steam",
+  "icon": "https://assets.playin.gg/8dc2e4a4-7b4e-4754-94ac-6a9e7b9e1084.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2328980/ss_d74bc0f1bdbe23103127d5356c5b4289b05b4b03.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2328980/ss_d02137f21fff13f7e5752fdffbc52a20693e3032.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2328980/ss_64d5dfbb5ea755d316b6f0dcd8144c324ff94bd4.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2328980/ss_e885579e26d61095e1c0c5f5ce6a80b90be56d9c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2328980/ss_01cdffff06e3d4569e19f0b7feca5337003f7adc.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Twój cel w New Dudy City to prezydentura. Po ucieczce z psychiatryka musisz zarabiać, rozmawiać z ludźmi i walczyć z potworem, by zdobyć głosy. Rób co chcesz i unikaj policji!",
+  "steamUrl": "https://store.steampowered.com/app/2328980/Dude_Simulator_5/?l=polish",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-38441-PLUS-36646",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dude%20Simulator%205.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}

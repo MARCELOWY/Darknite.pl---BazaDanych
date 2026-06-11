@@ -1,0 +1,23 @@
+{
+  "id": "skisniper",
+  "title": "Ski Sniper",
+  "platform": "Steam",
+  "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635310/ss_bfece2e616b3e22709687b2fc4bb168e78a0727c.600x338.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635310/ss_730e1fc51d91e34065d2b8be5ad9df1849bfda00.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635310/ss_8fa00e5026cd0518aecce1d63f10060300492080.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635310/ss_ac7b7d68a5c808084a143d39635b66c285e80836.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635310/ss_37bba8091b899d28e8dc7148ede0ea5f8d5518e1.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635310/ss_820b23b8cd00a64595e3d009f0daaf812d4e6c83.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Ski Sniper pozwala strzelać ze snajperek i kuszy do skoczków narciarskich w locie. Wybierz pozycję, realizuj cele i oglądaj trajektorię pocisków oraz zniszczenia w trybie X-Ray!",
+  "steamUrl": "https://store.steampowered.com/app/635310/Ski_Sniper/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-40841-PLUS-61592",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Ski%20Sniper.zip",
+  "kategorie": [
+    "Symulatory",
+    "Przygodowe"
+  ]
+}

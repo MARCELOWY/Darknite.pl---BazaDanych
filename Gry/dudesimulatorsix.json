@@ -1,0 +1,22 @@
+{
+  "id": "dudesimulatorsix",
+  "title": "Dude Simulator Six",
+  "platform": "Steam",
+  "icon": "https://images.gog.com/41907df6286cb10e67c1bf59ecf02cd9f5c0a06e72d03aff7811aa2dcc02fb15_glx_vertical_cover.webp?namespace=gamesdb",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2719420/ss_147bf185ecca091209bf839f3cc6d2fc70e3b56d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2719420/ss_33074ca96666d871eb792c4e8db07cb7f5d7accc.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2719420/ss_73555488a0d4bf0b573145a213606258edc42713.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2719420/ss_abb79bdd9e005094262c7fbff3d2fc0951b17fc7.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Ziemię najechali obcy, by zniewolić ludzi i kraść surowce. Rząd prosi Cię o pomoc w mieście Palomino Creek. Dostań się do głównej bazy kosmitów w otwartym świecie i uratuj ludzkość!",
+  "steamUrl": "https://store.steampowered.com/app/2719420/Dude_Simulator_Six/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-76486-PLUS-14961",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dude%20Simulator%20Six.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}

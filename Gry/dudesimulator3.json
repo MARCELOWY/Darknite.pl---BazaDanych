@@ -1,0 +1,23 @@
+{
+  "id": "dudesimulator3",
+  "title": "Dude Simulator 3",
+  "platform": "Steam",
+  "icon": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa93v.webp",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086640/ss_f9d64024de218725a3b18a9bfab74a0eda08d596.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086640/ss_d942792fceef56b7af4e38fd71deba9d27e96804.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086640/ss_53b41a5f1babc585905ad23f078f9054a724359e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086640/ss_9e6956863c3f30ef24199e843ad79b07b0e8c05c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086640/ss_0fecfe80114ad3a3387d56b1d613d35cb6b054e3.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Musisz dostarczyć prezent urodzinowy przyjacielowi z innego miasta. Czeka Cię długa podróż pełna przygód: zarabianie, ucieczka z więzienia, zwiedzanie budynków i pełna swoboda.",
+  "steamUrl": "https://store.steampowered.com/app/1086640/Dude_Simulator_3/?l=polish&curator_clanid=35237015",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-98735-PLUS-43643",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dude%20Simulator%203.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}

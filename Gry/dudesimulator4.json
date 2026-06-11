@@ -1,0 +1,23 @@
+{
+  "id": "dudesimulator4",
+  "title": "Dude Simulator 4",
+  "platform": "Steam",
+  "icon": "https://assets.playin.gg/bd41291e-b601-416b-8ea0-f048dba54736.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1524750/ss_586a405d8d6a92cc37094959f5b20c0a49ded457.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1524750/ss_70d7f417d1c5324c46a7fe977cdee9ae4a66adf3.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1524750/ss_9c573d0050f66a7a81e03d98c15baaa62a525fed.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1524750/ss_e29653522024e79bf9fa9ce0bf907ccd3f3c27c0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1524750/ss_7ff98624fe881ec5aac024db74ce95a53e1f0db7.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Szukasz dziewczyny w aplikacji randkowej, ale porywają Cię maniacy. Ucieczka z zamkniętego domu to dopiero początek. Eksploruj świat, kupuj, jeździj autami i rób co chcesz.",
+  "steamUrl": "https://store.steampowered.com/app/1524750/Dude_Simulator_4/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-18983-PLUS-58553",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dude%20Simulator%204.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}

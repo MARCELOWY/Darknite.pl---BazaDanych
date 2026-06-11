@@ -1,0 +1,22 @@
+{
+  "id": "mecchachameleon",
+  "title": "MECCHA CHAMELEON",
+  "platform": "Steam",
+  "icon": "https://data.xxlgamer.com/products/6461/aLzUKrBb5I0AWc-big.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/8c63f28b06fcb680e4234b34a3b391818e9895e8/ss_8c63f28b06fcb680e4234b34a3b391818e9895e8.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/6c0a47cc2fba1b160901d1553637a764198bdc98/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/c0c3ab9f5f2b41e86606a1c790fef432fe2d65cf/ss_c0c3ab9f5f2b41e86606a1c790fef432fe2d65cf.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/2764a4a42c24a88d0bbb9b67e5c2bde979a24ac9/ss_2764a4a42c24a88d0bbb9b67e5c2bde979a24ac9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/25f5c021fcaf118dee1ed17d638a35c05f0eec2f/ss_25f5c021fcaf118dee1ed17d638a35c05f0eec2f.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Pomaluj swoje białe ciało, by wtopić się w otoczenie niczym kameleon w grze w chowanego. Graj jako szukający lub chowający się. Walcz ze znajomymi lub online w grupie od 2 do 10 osób!",
+  "steamUrl": "https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-97372-PREMIUM-29989",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/MECCHA%20CHAMELEON.zip",
+  "kategorie": [
+    "KOOPERACYJNE"
+  ]
+}

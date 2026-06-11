@@ -1,0 +1,22 @@
+{
+  "id": "NowaGra_799",
+  "title": "The Gold River Project",
+  "platform": "Steam",
+  "icon": "https://images.g2a.com/323x433/1x1x1/the-gold-river-project-p10000513743/1e40b60879044fbd8d0acb95",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1253220/234b83e53fafb4db40b88a963e81c38ac59f910f/ss_234b83e53fafb4db40b88a963e81c38ac59f910f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1253220/e575e510ce5c3b2a8233e2fee3697047f757721f/ss_e575e510ce5c3b2a8233e2fee3697047f757721f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1253220/a62eab963b4a97f730b5d2fd6a470a58b6df11af/ss_a62eab963b4a97f730b5d2fd6a470a58b6df11af.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1253220/57ff65fed780a5718e0de9523bac1942e8ab14f5/ss_57ff65fed780a5718e0de9523bac1942e8ab14f5.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Gold River Project zaprasza ciebie i twoich przyjaciół na epicką przygodę w dziczy! Spróbuj uciec z przerażającego eksperymentu w jednym z największych prywatnych rezerwatów przyrody na północnym zachodzie Pacyfiku. Każdy twój ruch jest obserwowany, badany i manipulowany. Zbieraj zasoby, rozwiązuj wewnętrzne tajemnice i staraj się przetrwać każdy kolejny dzień.",
+  "steamUrl": "https://store.steampowered.com/app/1253220/The_Gold_River_Project/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-67647-PLUS-82880",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/TheGoldRiverProject.zip",
+  "kategorie": [
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

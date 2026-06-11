@@ -1,0 +1,23 @@
+{
+  "id": "superheroesimulator",
+  "title": "Superhero Simulator",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/grid/8ba6b3d1fe897e9f4bacafff79e26620.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3531260/ss_78fe63bb73a9bda5169fb559c52f16aea4c52375.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3531260/51a7d031ad479d9810a7c20f8804dd48ea3bae7e/ss_51a7d031ad479d9810a7c20f8804dd48ea3bae7e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3531260/02dc7fd3b59a9b56da06cb5180f9a602e9c31c4a/ss_02dc7fd3b59a9b56da06cb5180f9a602e9c31c4a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3531260/ss_7e840b0998868be59f18d6b24c96044401599386.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3531260/ss_175382627bd86333b11534f5cc193506dabc3fd2.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "W Superhero Simulator patrolujesz ulice, by walczyć z rosnącą przestępczością. Powstrzymuj napady, ratuj cywilów i walcz z potężnymi złoczyńcami. Twoje wybory kształtują miasto!",
+  "steamUrl": "https://store.steampowered.com/app/3531260/Superhero_Simulator/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-14791-PLUS-05674",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Superhero%20Simulator.zip",
+  "kategorie": [
+    "Symulatory",
+    "Otwarty Świat"
+  ]
+}

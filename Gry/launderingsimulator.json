@@ -1,0 +1,22 @@
+{
+  "id": "launderingsimulator",
+  "title": "Laundering Simulator",
+  "platform": "Steam",
+  "icon": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ffh.webp",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3432750/ss_5de2df83deeff419ff51a468bee0fd6a90aea4d4.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3432750/ss_7bb8e6ef924c4c2c7d647a18d31d8e23a4b08240.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3432750/6fa66c8c51b857f85d7fbb44f5fe1371f2c36c84/ss_6fa66c8c51b857f85d7fbb44f5fe1371f2c36c84.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3432750/ss_c81ff7510827b5bb6402c37fe29eec58e6a82c45.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Poprowadź swoją własną pralnię z warsztatem fałszerskim na zapleczu!\nUwierzcie lub nie, ale Eddie Wiser jest sprytnym menadżerem i genialnym wynalazcą. Laundering Simulator opowiada o tym, jak połączył swoje talenty, aby zająć się praniem... zarówno ubrań jak i pieniędzy. A Ty jako Gracz pomożesz mu w jego małym przedsięwzięciu.",
+  "steamUrl": "https://store.steampowered.com/app/3432750/Laundering_Simulator__Clean_Cash_and_Laundry/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-91219-PREMIUM-09566",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Laundering%20Simulator.zip",
+  "kategorie": [
+    "Symulatory",
+    "Przygodowe"
+  ]
+}
