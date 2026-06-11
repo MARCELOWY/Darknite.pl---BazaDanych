@@ -14,6 +14,20 @@
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-93705-premium-31592",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Minecraft%20Dungeons.zip",
+  "dlc": [
+  "https://store.steampowered.com/app/1726570/",
+  "https://store.steampowered.com/app/1672985/",
+  "https://store.steampowered.com/app/1672982/",
+  "https://store.steampowered.com/app/1776550/",
+  "https://store.steampowered.com/app/1672980/",
+  "https://store.steampowered.com/app/1672983/",
+  "https://store.steampowered.com/app/1672986/",
+  "https://store.steampowered.com/app/1850660/",
+  "https://store.steampowered.com/app/1979530/",
+  "https://store.steampowered.com/app/1717450/",
+  "https://store.steampowered.com/app/1672984/",
+  "https://store.steampowered.com/app/1672981/"
+],
   "kategorie": [
     "Przygodowe",
     "KOOPERACYJNE"
