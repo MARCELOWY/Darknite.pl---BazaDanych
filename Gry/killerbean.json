@@ -1,0 +1,24 @@
+{
+  "id": "killerbean",
+  "title": "Killer Bean",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCSkI_QEYX20ATEI45bFZtqLZCscIGsRo_nD2Z8CeBk43xCnma5dBE7UDn&s=10",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/6f3bc2cf57389ee246839de439ff575902bc3444/ss_6f3bc2cf57389ee246839de439ff575902bc3444.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/56eeeeec41e5e60f3b66035186bf1975a0dc543a/ss_56eeeeec41e5e60f3b66035186bf1975a0dc543a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/465fe050974396bcc5ba16666200888773132657/ss_465fe050974396bcc5ba16666200888773132657.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/cbbd00d9f8968304139c9c800ae8e66c864b4ad5/ss_cbbd00d9f8968304139c9c800ae8e66c864b4ad5.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Killer Bean to roguelike akcji FPP/TPP. Jako elitarny asasyn – ziarno kawy – mścij się na Agencji Cieni. Walcz z frakcjami, używaj mechów i generuj nowe, losowe kampanie!",
+  "steamUrl": "https://store.steampowered.com/app/1597080/Killer_Bean/",
+  "requiredTier": "premium",
+  "correctLicense": "NOT_AVAILABLE_YET",
+  "downloadUrl": "",
+  "dateAdded": "2026-06-13",
+  "dateUpdated": "2026-06-13",
+  "status": "coming_soon",
+  "kategorie": [
+    "Przygodowe"
+  ]
+}

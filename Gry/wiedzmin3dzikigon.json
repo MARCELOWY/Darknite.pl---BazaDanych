@@ -1,0 +1,49 @@
+{
+  "id": "wiedzmin3dzikigon",
+  "title": "Wiedźmin 3: Dziki Gon",
+  "platform": "Steam",
+  "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/1er2yOian7MEhFbcvZqKPtdm.png",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/ss_eda99e7f705a113d04ab2a7a36068f3e7b343d17.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/ss_5710298af2318afd9aa72449ef29ac4a2ef64d8e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/ss_107600c1337accc09104f7a8aa7f275f23cad096.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/ss_112b1e176c1bd271d8a565eacb6feaf90f240bb2.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/ss_849ec8dcc6f8df1c0b2c509584c9fc9e51f88cfa.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/ss_07812c174bb6b96c29895ddc27404143df7aba6d.600x338.jpg"
+  ],
+  "dlc": [
+    "https://store.steampowered.com/app/355880/",
+    "https://store.steampowered.com/app/378649/",
+    "https://store.steampowered.com/app/370000/",
+    "https://store.steampowered.com/app/370001/",
+    "https://store.steampowered.com/app/370002/",
+    "https://store.steampowered.com/app/370003/",
+    "https://store.steampowered.com/app/373950/",
+    "https://store.steampowered.com/app/373951/",
+    "https://store.steampowered.com/app/376390/",
+    "https://store.steampowered.com/app/376391/",
+    "https://store.steampowered.com/app/378640/",
+    "https://store.steampowered.com/app/378641/",
+    "https://store.steampowered.com/app/378642/",
+    "https://store.steampowered.com/app/378643/",
+    "https://store.steampowered.com/app/378644/",
+    "https://store.steampowered.com/app/378645/",
+    "https://store.steampowered.com/app/378646/",
+    "https://store.steampowered.com/app/378647/",
+    "https://store.steampowered.com/app/378648/",
+    "https://store.steampowered.com/app/1229320/",
+    "https://store.steampowered.com/app/1233280/",
+    "https://store.steampowered.com/app/1233340/"
+  ],
+  "description": "Wiedźmin 3: Dziki Gon to RPG w świecie pełnym bestii. Jako wiedźmin Geralt z Rivii musisz odnaleźć Ciri – przybraną córkę, której moc może uratować świat lub go zniszczyć.",
+  "steamUrl": "https://store.steampowered.com/app/292030/Wiedmin_3_Dziki_Gon/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-23177-PREMIUM-92848",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Wiedźmin%203.zip",
+  "dateAdded": "2026-06-13",
+  "dateUpdated": "2026-06-13",
+  "kategorie": [
+    "Przygodowe",
+    "Otwarty Świat"
+  ]
+}

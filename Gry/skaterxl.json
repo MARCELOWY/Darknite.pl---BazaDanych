@@ -1,0 +1,28 @@
+{
+  "id": "skaterxl",
+  "title": "Skater XL",
+  "platform": "Steam",
+  "icon": "https://data.xxlgamer.com/products/5094/mfsVt9l9YUIs5W-big.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/a07051d3f84e5117128efd31cf85f9b7c748f263/ss_a07051d3f84e5117128efd31cf85f9b7c748f263.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/0a04d074f765ea2cea0c38823bbbd87fb15ce405/ss_0a04d074f765ea2cea0c38823bbbd87fb15ce405.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/fcb2cde98bbf6dcc249281fed2001343f16765c0/ss_fcb2cde98bbf6dcc249281fed2001343f16765c0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/bf8f71094edadd662cd73abfac2b2010ddeb2329/ss_bf8f71094edadd662cd73abfac2b2010ddeb2329.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/281551f8863dca31ad038f4f09ee5719d722e97e/ss_281551f8863dca31ad038f4f09ee5719d722e97e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/f819365107aa0b7082c6ab73abaa6372082d9ffa/ss_f819365107aa0b7082c6ab73abaa6372082d9ffa.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/999e2c783e7c4021e83901707ba679af97cff588/ss_999e2c783e7c4021e83901707ba679af97cff588.600x338.jpg"
+  ],
+  "dlc": [
+    "https://store.steampowered.com/app/1952000/"
+  ],
+  "description": "Skater XL to ewolucja gier deskorolkowych oparta na fizyce. System Independent Foot Control przypisuje gałki pada do stóp, dając pełną kontrolę. Odwiedzaj słynne spoty i twórz własny styl.",
+  "steamUrl": "https://store.steampowered.com/app/962730/Skater_XL__The_Ultimate_Skateboarding_Game/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-99890-PREMIUM-09147",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Skater%20XL.zip",
+  "dateAdded": "2026-06-13",
+  "dateUpdated": "2026-06-13",
+  "kategorie": [
+    "Symulatory"
+  ]
+}

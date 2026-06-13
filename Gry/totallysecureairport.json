@@ -1,0 +1,24 @@
+{
+  "id": "totallysecureairport",
+  "title": "Totally Secure Airport",
+  "platform": "Steam",
+  "icon": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/okP098i4AAA6AIKFwEiWxsOB3fhtOWliACBCMI~tplv-tiktokx-origin.image?dr=9636&x-expires=1781416800&x-signature=mzigL%2BwXEbNQ310IaMbkByYo8tU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=55bbe6a9&idc=useast5",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348760/5bd8e7a0947f1df8cb2e0720a285fc7ae7f70a10/ss_5bd8e7a0947f1df8cb2e0720a285fc7ae7f70a10.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348760/3d2a43cbb77138f938236f937c2f70e3a4661c8a/ss_3d2a43cbb77138f938236f937c2f70e3a4661c8a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348760/c450c4023900377ac0a7c07448c75462ff677a42/ss_c450c4023900377ac0a7c07448c75462ff677a42.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348760/ebe86bf2d58d3039d61d2a3621a668cf81083439/ss_ebe86bf2d58d3039d61d2a3621a668cf81083439.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Totally Secure Airport to chaotyczny symulator kooperacyjny dla maksymalnie 4 graczy. Pracuj jako ochroniarz: sprawdzaj dokumenty, przeszukuj dziwne bagaże, wykrywaj kontrabandę i decyduj, kto poleci!",
+  "steamUrl": "https://store.steampowered.com/app/4348760/Totally_Secure_Airport/",
+  "requiredTier": "premium",
+  "correctLicense": "NOT_AVAILABLE_YET",
+  "downloadUrl": "",
+  "dateAdded": "2026-06-13",
+  "dateUpdated": "2026-06-13",
+  "status": "coming_soon",
+  "kategorie": [
+    "Symulatory"
+  ]
+}

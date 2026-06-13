@@ -1,0 +1,24 @@
+{
+  "id": "DOOM",
+  "title": "DOOM",
+  "platform": "Steam",
+  "icon": "https://imgproxy.eneba.games/NpNvoYTG93p30maGpclkvDCGXFEtxeGJN00culEW93I/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9R/ekFrSDFqMm5PMGdW/WEFJaDl0LVJqY0Jm/bXB5bk1VX0VOdXBv/azctenBFLnBuZw",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280/ss_e46818d3d16bdb6d8f07d0ca23c1dc05d0073b93.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280/ss_806877de2ec13666c33ec2eed02055585543f23f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280/ss_75eb1d7b9d343c47fa352bc66a065b006b1b2002.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280/ss_a5e57e91c054298a6c86ac49148225f936101a45.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280/ss_33492406a4fcad478fccd9b8c8ff169d9dece124.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "DOOM to dynamiczny, niezwykle brutalny FPS. Jako Doom Slayer walcz z hordami demonów w głębinach piekła oraz na Marsie. Używaj potężnej broni i wykonuj widowiskowe zabójstwa chwały!",
+  "steamUrl": "https://store.steampowered.com/app/2280/DOOM__DOOM_II/?curator_clanid=35501448",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-71523-PLUS-37385",
+  "downloadUrl": "DOOM.zip",
+  "dateAdded": "2026-06-13",
+  "dateUpdated": "2026-06-13",
+  "kategorie": [
+    "Przygodowe"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ghostrunner",
+  "title": "Ghostrunner",
+  "platform": "Steam",
+  "icon": "https://assetsio.gnwcdn.com/co2nbk.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1139900/ss_6f7ea1399cdf74cfafb0ddbf397ccb1f04f2bb04.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1139900/ss_b3685fcab4d6f60c9fd54ffe8757ccaaef803d9e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1139900/ss_4df66f282c6aed12f941b3f7eb4c6fc3de3a8ea8.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1139900/ss_8f6b985f8568ccca30ddfe28b9b26fcf4468eaa5.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1139900/ss_c2c721768fa6759bb9d0fe0c39e86aa27ed80d10.600x338.jpg"
+  ],
+  "dlc": [
+    "https://store.steampowered.com/app/1760190/",
+    "https://store.steampowered.com/app/1480500/",
+    "https://store.steampowered.com/app/1542040/",
+    "https://store.steampowered.com/app/1647450/",
+    "https://store.steampowered.com/app/1741240/",
+    "https://store.steampowered.com/app/1741380/",
+    "https://store.steampowered.com/app/1760130/"
+  ],
+  "description": "Ghostrunner to brutalna gra akcji FPP w cyberpunkowym świecie. Jako cyber-wojownik przedzieraj się przez Wieżę Dharma. Walcz mieczem, stosuj uniki i eliminuj wrogów jednym, celnym ciosem!",
+  "steamUrl": "https://store.steampowered.com/app/1139900/Ghostrunner/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-74404-PREMIUM-26950",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Ghostrunner.zip",
+  "dateAdded": "2026-06-13",
+  "dateUpdated": "2026-06-13",
+  "kategorie": [
+    "Przygodowe"
+  ]
+}

@@ -3,15 +3,20 @@
   "title": "Mavrix",
   "platform": "Steam",
   "icon": "https://cdn.loaded.com/media/catalog/product/m/a/mavrix_by_matt_jones.png",
-  "screenshots": [],
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2926900/217e027780e9ee682d97fa480c314257a370cf4a/ss_217e027780e9ee682d97fa480c314257a370cf4a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2926900/9a33aa2a2ccde49983810cac88d8f3734c3cf86b/ss_9a33aa2a2ccde49983810cac88d8f3734c3cf86b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2926900/2ed3a76aecb6e43e3c56a9d433005c3ad5865125/ss_2ed3a76aecb6e43e3c56a9d433005c3ad5865125.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2926900/9fc5ae97b23fd88fd62ce4412e4ac3e1c6b04991/ss_9fc5ae97b23fd88fd62ce4412e4ac3e1c6b04991.600x338.jpg"
+  ],
   "dlc": [],
-  "description": "",
-  "steamUrl": "",
+  "description": "MAVRIX by Matt Jones to wieloosobowy symulator kolarstwa górskiego (MTB). Odkrywaj wielki, otwarty świat, wykonuj triki slopestyle, zdobywaj sponsorów i ścigaj się w rankingach.",
+  "steamUrl": "https://store.steampowered.com/app/2926900/MAVRIX_by_Matt_Jones/?l=polish",
   "requiredTier": "premium",
-  "correctLicense": "NOT_AVAILABLE_YET",
-  "downloadUrl": "",
+  "correctLicense": "DARKNITE-44234-PREMIUM-40567",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/MAVRIX.zip",
   "dateAdded": "2026-06-09",
-  "status": "coming_soon",
+  "dateUpdated": "2026-06-13",
   "kategorie": [
     "Jazda Rowerem/Hulajnogą",
     "Otwarty Świat"

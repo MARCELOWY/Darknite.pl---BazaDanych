@@ -1,0 +1,35 @@
+{
+  "id": "skatesim",
+  "title": "Skate Sim",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.14835.14023280891839684.8a9bc045-fa75-4934-acc8-f28c06d6cd33.7b374737-7744-4cbc-9385-a5459e7551b7",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/a07051d3f84e5117128efd31cf85f9b7c748f263/ss_a07051d3f84e5117128efd31cf85f9b7c748f263.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/0a04d074f765ea2cea0c38823bbbd87fb15ce405/ss_0a04d074f765ea2cea0c38823bbbd87fb15ce405.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/fcb2cde98bbf6dcc249281fed2001343f16765c0/ss_fcb2cde98bbf6dcc249281fed2001343f16765c0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/ac4d7d3bf70b8a18f9e799be173375f6945e8a4d/ss_ac4d7d3bf70b8a18f9e799be173375f6945e8a4d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/861650/281551f8863dca31ad038f4f09ee5719d722e97e/ss_281551f8863dca31ad038f4f09ee5719d722e97e.600x338.jpg"
+  ],
+  "dlc": [
+    "https://store.steampowered.com/app/3966690/",
+    "https://store.steampowered.com/app/3389600/",
+    "https://store.steampowered.com/app/3155940/",
+    "https://store.steampowered.com/app/2877960/",
+    "https://store.steampowered.com/app/2732710/",
+    "https://store.steampowered.com/app/2727340/",
+    "https://store.steampowered.com/app/2590440/",
+    "https://store.steampowered.com/app/2313400/",
+    "https://store.steampowered.com/app/2075191/",
+    "https://store.steampowered.com/app/2075190/"
+  ],
+  "description": "Session: Skate Sim to ultrarealistyczny symulator deskorolki lat 90. Unikalny system dual stick controls przypisuje gałki do stóp gracza. Brak tu punktacji – liczy się styl, fizyka oraz Twoja wyobraźnia!",
+  "steamUrl": "https://store.steampowered.com/app/861650/Session_Skate_Sim/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-52817-PLUS-84262",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Skate%20Sim.zip",
+  "dateAdded": "2026-06-13",
+  "dateUpdated": "2026-06-13",
+  "kategorie": [
+    "Symulatory"
+  ]
+}

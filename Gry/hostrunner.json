@@ -1,0 +1,34 @@
+{
+  "id": "hostrunner",
+  "title": "Ghostrunner",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsI2faLw7iepp0BtMbEKrmo4NAtJZfWhuNLHUXg72n2Rx6q3QBp3pP8OMXpVxC8YSQA5EP7BjeSsHz7A1pE6yvXESVrbJWk-wVukqHgSEwHRDBdDnGD6Mk&usqp=CAc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1370140/ss_2c58015e797cfa8aa8821905fa030e7a3b0f2ba8.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1370140/ss_7408e98fdebb1d3d172f42a99c9218e874910c53.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1370140/ss_ebd37eab90f3d7988e34e4d69e397e661219aa3f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1370140/ss_747fd7fa5591eefcfda08d67d42792e4df520f13.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1370140/ss_29046593243b41c2bebb34f941b0d053a8cfbec0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1370140/ss_03e71e9cb5c813e39407da83ed322f9fb78cb418.600x338.jpg"
+  ],
+  "dlc": [
+    "https://store.steampowered.com/app/2249670/",
+    "https://store.steampowered.com/app/2052963/",
+    "https://store.steampowered.com/app/2389070/",
+    "https://store.steampowered.com/app/2389060/",
+    "https://store.steampowered.com/app/2052960/",
+    "https://store.steampowered.com/app/2052961/",
+    "https://store.steampowered.com/app/2052962/",
+    "https://store.steampowered.com/app/2155050/"
+  ],
+  "description": "Kangurek Kao to kolorowa platformówka 3D od studia Tate Multimedia. Wciel się w urokliwego Kao, załóż magiczne rękawice bokserskie i wyrusz w podróż, by odnaleźć zaginionego ojca oraz siostrę.",
+  "steamUrl": "https://store.steampowered.com/app/1370140/Kangurek_Kao/?l=polish",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-71851-PLUS-62810",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Kao.zip",
+  "dateAdded": "2026-06-13",
+  "dateUpdated": "2026-06-13",
+  "kategorie": [
+    "Przygodowe"
+  ]
+}

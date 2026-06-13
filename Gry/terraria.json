@@ -1,0 +1,24 @@
+{
+  "id": "terraria",
+  "title": "Terraria",
+  "platform": "Steam",
+  "icon": "https://data.xxlgamer.com/products/2762/o2hv7ukmhGY7SB-big.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/ss_8c03886f214d2108cafca13845533eaa3d87d83f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/ss_ae168a00ab08104ba266dc30232654d4b3c919e5.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/ss_782374517c1792debd74d24856203b876eba3a5d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/ss_26c4a091c482be28efe1ecf4dfb498273e5a9107.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Terraria to sandboksowe RPG akcji 2D. Kop surowce, twórz potężne przedmioty, buduj domy dla postaci niezależnych i walcz z setkami potworów oraz bossów sam lub w trybie wieloosobowym.",
+  "steamUrl": "https://store.steampowered.com/app/105600/Terraria/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-05712-PREMIUM-11225",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Terraria.zip",
+  "dateAdded": "2026-06-13",
+  "dateUpdated": "2026-06-13",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
+}

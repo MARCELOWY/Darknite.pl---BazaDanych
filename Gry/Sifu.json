@@ -1,0 +1,33 @@
+{
+  "id": "sifu",
+  "title": "Sifu",
+  "platform": "Steam",
+  "icon": "https://cdn1.epicgames.com/offer/b7b42e2078524ab386a8b2a9856ef557/EGS_SIFUStandardEdition_Sloclap_S4_1200x1600-32aca69d756abfcc25f8581942a6162b_1200x1600-32aca69d756abfcc25f8581942a6162b",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/ss_9be1654f96e9fd6517fbe9107d76da245cbfaeb9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/ss_7f7fd03f973d0a1e5e9d481a2235402c19c0f0e5.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/ss_fcbdfe30cb361fdc6971878306a5179d175240c9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/ss_c400edce5e28150a5d9859aaace1c76fb2b44d78.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/ss_8bdc441c064f7ac1f75a33bb9f50e38110f38d28.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/ss_e13cb718cba01b51788627b43226fedd52caa217.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/ss_2ad46f69c5cca76d3ef64faa7cdf39e916ec504a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/ss_7bb2181d3325dc2aca3c65c532baaef083e69118.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/ss_288ff36d0ee16f6af2b6e20180fd3005086edaa7.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/ss_4339cd9bf1c40e2de9c19d78f05f07d67d7d45b0.600x338.jpg"
+  ],
+  "dlc": [
+    "https://store.steampowered.com/app/2231950/",
+    "https://store.steampowered.com/app/2253840/",
+    "https://store.steampowered.com/app/2253841/"
+  ],
+  "description": "Sifu to brutalna bijatyka kung-fu o zemście. Jako młody uczeń polujesz na zabójców swojej rodziny. Magiczny amulet wskrzesza Cię po śmierci, sprawiając, że z każdym powrotem znaczne się starzejesz.",
+  "steamUrl": "https://store.steampowered.com/app/2138710/Sifu/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-97503-PREMIUM-58890",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Sifu.zip",
+  "dateAdded": "2026-06-13",
+  "dateUpdated": "2026-06-13",
+  "kategorie": [
+    "Przygodowe"
+  ]
+}
