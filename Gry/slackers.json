@@ -1,6 +1,6 @@
 {
   "id": "slackers",
-  "title": "Slackers - Carts of Glory",
+  "title": "Slackers - Carts of Glory v2.0",
   "platform": "Steam",
   "icon": "https://cdn.medal.tv/asset/games/slackers-carts-of-glory/cover-1726712400073.jpg",
   "screenshots": [
@@ -9,11 +9,14 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2354000/ss_52014721588741428f5ea10db7f8505687871d1c.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2354000/ss_1f647704f972357297b187e31b350a739794895c.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Slackers to szalona gra wyścigowa, w której jedziesz wózkiem sklepowym po napoje. Ścigaj się solo lub z ekipą, szukaj skrótów i pędź przez 32 trasy, nim zamkną sklep!",
   "steamUrl": "https://store.steampowered.com/app/2354000/Slackers__Carts_of_Glory/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-20213-PREMIUM-10794",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Slackers.zip",
+  "dateAdded": "2026-06-09",
+  "dateUpdated": "2026-06-13",
   "kategorie": [
     "Symulatory",
     "KOOPERACYJNE"
