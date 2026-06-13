@@ -10,11 +10,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9284d1c5b248726760233a933dbb83757d7d5d95.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Cyberpunk 2077 to pierwszoosobowe RPG, w którym jako najemnik V walczysz o przetrwanie w Night City. To niebezpieczne megalopolis rządzone przez korporacje, gdzie cyberwszczepy są na porządku dziennym.",
   "steamUrl": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-91991-premium-40887",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Cyberpunk%202077.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Przygodowe",
     "Otwarty Świat"

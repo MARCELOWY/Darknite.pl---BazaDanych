@@ -11,11 +11,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/ce8c450d37a0bd4e92152722fc771389cc861d06/ss_ce8c450d37a0bd4e92152722fc771389cc861d06.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/ea6450cb078d3474f14d175d93ef2afb779182b2/ss_ea6450cb078d3474f14d175d93ef2afb779182b2.600x338.jpg"
   ],
+  "dlc": [],
   "description": "inZOI to realistyczna symulacja życia, gdzie jako twórca kształtujesz wymarzony świat. Postacie (Zoi) mają własną wolę i osobowość. Budują relacje, co wywołuje plotki, trendy oraz choroby.",
   "steamUrl": "https://store.steampowered.com/app/2456740/inZOI/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-23638-premium-73549",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/InZOI.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Otwarty Świat"

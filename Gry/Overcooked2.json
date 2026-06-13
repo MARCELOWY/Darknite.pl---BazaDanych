@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/ss_3728a182f291231c4713860611dd9292b8b4fd05.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/ss_7f290dccbdc3c0eb9ded951717bceba5d7455764.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Overcooked 2 to szalone gotowanie w Królestwa Cebuli dla 4 graczy online lub na kanapie. Włóż fartuch, zbierz drużynę kucharzy i uratuj świat przed nowym głodem nienasyconych Niepożarłych!",
   "steamUrl": "https://store.steampowered.com/app/728880/Overcooked_2/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-23411-premium-02238",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Overcooked%202.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "KOOPERACYJNE"
   ]

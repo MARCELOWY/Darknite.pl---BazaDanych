@@ -10,11 +10,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040200/60a60304a1a1cd801925ea00b832c660905a4cd3/ss_60a60304a1a1cd801925ea00b832c660905a4cd3.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040200/ss_469df47b87f8923cf8dd5ef75c85456c34851cfd.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Crime Scene Cleaner to gra, w której sprzątasz miejsca zbrodni dla mafii, by ratować chorą córkę. Użyj mopa i wiadra, planuj ruchy, łącz narzędzia i sprytnie zacieraj ślady dla podejrzanej klienteli.",
   "steamUrl": "https://store.steampowered.com/app/1040200/Crime_Scene_Cleaner/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-61374-PREMIUM-50119",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Crime%20Scene%20Cleaner.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Przygodowe"

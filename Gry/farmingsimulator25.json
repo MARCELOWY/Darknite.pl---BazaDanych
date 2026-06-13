@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2300320/a91040d614c5f319b0fa5d02dde31e9835d0cc4e/ss_a91040d614c5f319b0fa5d02dde31e9835d0cc4e.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2300320/cb7fbbbf5cf11862685e5c022ebc56913771b48d/ss_cb7fbbbf5cf11862685e5c022ebc56913771b48d.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Farming Simulator 25 zaprasza na rolę. Buduj imperium w Ameryce, Europie lub Azji sami lub w kooperacji. Uprawiaj ryż i inne rośliny, hoduj zwierzęta, dbaj o las i zarządzaj biznesem rolnym!",
   "steamUrl": "https://store.steampowered.com/app/2300320/Farming_Simulator_25/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-79729-plus-02283",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Farming%20Simulator%2025.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "KOOPERACYJNE"

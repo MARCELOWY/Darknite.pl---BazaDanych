@@ -13,11 +13,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/b690b9d2e3ea2ef6699118a7c482e4f8c341dbbd/ss_b690b9d2e3ea2ef6699118a7c482e4f8c341dbbd.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/f8540696d7dbc2a9b3963d432631bd5a7b36213e/ss_f8540696d7dbc2a9b3963d432631bd5a7b36213e.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Zostań mechanikiem w Wypizdówie z lat 90. Szpachluj, tnij koszty i oszukuj na naprawach aut. Zarób i uważaj, by wóz nie rozpadł się przy bramie, bo wściekły klient wróci po szybką zemstę!",
   "steamUrl": "https://store.steampowered.com/app/2904040/Auto_Fuszerka/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-39499-PREMIUM-88314",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Cheap%20Car%20Repair.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Otwarty Świat"

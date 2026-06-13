@@ -10,11 +10,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/871540/3c6b3064b76401d6827a940bca41150a4846bbe2/ss_3c6b3064b76401d6827a940bca41150a4846bbe2.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/871540/a28dafbab347f9f86dcb345fcf5836b7d99ea146/ss_a28dafbab347f9f86dcb345fcf5836b7d99ea146.600x338.jpg"
   ],
+  "dlc": [],
   "description": "BMX Streets to nowoczesny symulator jazdy oparty na fizyce. Oddaje ducha kultury ulicznej. Pozwala graczom znaleźć własny styl poprzez ciągłe ćwiczenia, eksperymenty oraz swobodną eksplorację.",
   "steamUrl": "https://store.steampowered.com/app/871540/BMX_Streets/",
   "requiredTier": "standard",
   "correctLicense": "DARKNITE-56795-STANDARD-35719",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/BMX%20Streets.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Jazda Rowerem/Hulajnogą"

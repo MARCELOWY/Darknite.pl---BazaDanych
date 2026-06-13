@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246620/ss_b0d8d993edec2bfb764d0748de6f27eeded7c7af.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246620/ss_0d43c3d9ae3888bbc6391b7e3bbb5803ecc069c0.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Plague Inc: Evolved to strategia i symulacja globalnej zarazy. Stwórz śmiertelny patogen, zainfekuj pacjenta zero i unicestwij ludzkość, odpierając próby zwalczenia epidemii.",
   "steamUrl": "https://store.steampowered.com/app/246620/Plague_Inc_Evolved/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-75328-plus-23995",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Plague%20Inc%20Evolved.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "KOOPERACYJNE"

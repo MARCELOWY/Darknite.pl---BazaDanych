@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_3d13161104a04603a0524536770c5f74626db4c0.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/ss_fe9782ea3b43ef7af37b18e0a5c5f7bdc9c21f12.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Portal 2 rozwija kultową serię logiczną. Oferuje kampanię singlową z nowymi komorami i powrotem GLaDOS oraz osobny tryb kooperacji dla dwóch graczy, wymagający wspólnego myślenia.",
   "steamUrl": "https://store.steampowered.com/app/620/Portal_2/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-75031-premium-10982",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Portal%202.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Przygodowe",
     "KOOPERACYJNE"

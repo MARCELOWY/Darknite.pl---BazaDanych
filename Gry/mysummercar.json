@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/516750/ss_141c2252c2e5376acab010da2f9029cae61ed520.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/516750/ss_4310893aa75878f8150dfb0b8e794372a2117ba2.600x338.jpg"
   ],
+  "dlc": [],
   "description": "My Summer Car to symulator przetrwania i mechanika na fińskiej wsi w latach 90. Składaj auto z setek części, dbaj o własne potrzeby (sen, jedzenie) i zarabiaj. Tuninguj wóz na rajdówkę lub dyskotekę i przejdź przegląd!",
   "steamUrl": "https://store.steampowered.com/app/516750/My_Summer_Car/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-25587-PREMIUM-94736",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/My%20Summer%20Car.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Otwarty Świat"

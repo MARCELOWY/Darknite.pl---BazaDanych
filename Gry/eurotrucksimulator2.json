@@ -10,11 +10,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/ss_1a455dd625b6d8068c6f1db93887167383275757.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/ss_f903e4e63d478e9fe1db48ed05dfc5b314f262ad.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Zostań królem szos w Euro Truck Simulator 2! Dostarczaj ważne ładunki ciężarówką na ogromne odległości. Odkrywaj dziesiątki miast w Europie i udowodnij, że masz umiejętności elitarnego kierowcy.",
   "steamUrl": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-98406-PREMIUM-81562",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Euro%20Truck%20Simulator 2.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Otwarty Świat"

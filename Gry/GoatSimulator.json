@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/265930/ss_fa0673c4bf6e43a4092ea351a726d913d81b5953.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/265930/ss_25b9da1037082d6a7c3c12e2f3a7707c5c2e721e.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Pilgor wraca w Goat Simulator 3! Zbierz stado, wskocz w kopyta kozy na wyspie San Angora. Liż, taranuj i niszcz wszystko w otwartym świecie. To szalona gra sandboksowa i wielka strata czasu!",
   "steamUrl": "https://store.steampowered.com/app/850190/Goat_Simulator_3/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-28911-plus-16576",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Goat%20Simulator.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "KOOPERACYJNE"

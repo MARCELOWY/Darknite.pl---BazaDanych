@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/654990/ss_44b7d6a368911ca91dd17677a87a9ff90cfac0b1.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/654990/ss_cdad1223c1fb85891dc184cef1725606aedb5f71.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Dude Simulator to sandbox i symulator życia z otwartym światem. Rób, co chcesz: zarabiaj, kupuj, zwiedzaj budynki, a nawet zabijaj. Bądź zwykłym człowiekiem lub rób szalone rzeczy. Wszystko zależy od Ciebie.",
   "steamUrl": "https://store.steampowered.com/app/654990/Dude_Simulator/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-14769-PLUS-26098",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dude%20Simulator.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Otwarty Świat"

@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4164420/11534a9e30c81d5d692da362626507c8e68b1cf0/ss_11534a9e30c81d5d692da362626507c8e68b1cf0.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4164420/4380575e5d9c5e997b7b8fc0a5d477990315f8a6/ss_4380575e5d9c5e997b7b8fc0a5d477990315f8a6.600x338.jpg"
   ],
+  "dlc": [],
   "description": "My Winter Car to survivalowy symulator mechanika w realiach mroźnej fińskiej zimy. Składaj auto z 200 części, dbaj o finanse i temperaturę ciała. Ścigaj się na lodzie i unikaj policji!",
   "steamUrl": "https://store.steampowered.com/app/4164420/My_Winter_Car/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-93520-PREMIUM-14538",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/My%20Winter%20Car.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Otwarty Świat"

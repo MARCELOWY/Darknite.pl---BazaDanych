@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920570/ss_efcd634c0044975d88f64e6d9bbd1c70c8b3898e.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920570/ss_811d4c74bbf731f43b8bcb14535a2cf5887f2869.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Menedżer dba o produktywność i zwalnia Obiboków ukrytych wśród Specjalistów. Cel Obiboka to lenistwo bez wpadki. Specjaliści robią zadania, by biuro działało, choć czasem też robią przerwę na kawę.",
   "steamUrl": "https://store.steampowered.com/app/2920570/Dale__Dawson_Stationery_Supplies/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-34156-plus-25821",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dale%20&%20Dawson%20Stationery%20Supplies.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "KOOPERACYJNE"

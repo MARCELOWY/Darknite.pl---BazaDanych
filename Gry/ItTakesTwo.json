@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6ce2d50261a94284c72164e2d6d3721fe2f00013.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/ss_fdac523e3ea4d2f32a44449bb8c224857563bd7d.600x338.jpg"
   ],
+  "dlc": [],
   "description": "It Takes Two to platformówka dla dwojga. Graj jako Cody i May – para zmieniona w lalki. Pokonujcie zwariowane wyzwania, używajcie unikalnych mocy i naprawcie związek. Zaproś znajomego za darmo!",
   "steamUrl": "https://store.steampowered.com/app/1426210/It_Takes_Two/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-09861-premium-38635",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/It%20Takes%20Two.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Przygodowe",
     "KOOPERACYJNE"

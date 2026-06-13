@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928870/ss_07751f1c6d097298907a6be7df2cf21ad795acc4.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928870/ss_65720eb73a2dd8fc993172cfbfcdc8fe40ec44c2.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Minecraft Legends to strategiczna gra akcji w świecie Minecrafta. Odkrywaj piękny świat, zbieraj zasoby, twórz sojusze i prowadź armię do walki z inwazją piglinów. Gra oferuje też tryb PvP!",
   "steamUrl": "https://store.steampowered.com/app/1928870/Minecraft_Legends/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-03508-plus-29162",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Minecraft%20Legends.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Przygodowe",
     "KOOPERACYJNE"

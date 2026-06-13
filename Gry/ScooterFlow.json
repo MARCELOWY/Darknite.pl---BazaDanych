@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1648390/c1e56bc5546fca4753b522d9c5083b6dab982022/ss_c1e56bc5546fca4753b522d9c5083b6dab982022.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1648390/8669f27b667792037e0b878b7000f4a1f503fe31/ss_8669f27b667792037e0b878b7000f4a1f503fe31.600x338.jpg"
   ],
+  "dlc": [],
   "description": "ScooterFlow to realistyczny symulator wyczynowej jazdy na hulajnodze. Śmigaj po skateparkach, ulicach i wielkich rampach, ciesz się fizyką trików i personalizuj swój sprzęt.",
   "steamUrl": "https://store.steampowered.com/app/1648390/ScooterFlow/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-51576-premium-61071",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/ScooterFlow.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Jazda Rowerem/Hulajnogą"

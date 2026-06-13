@@ -8,11 +8,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322170/ss_5aa7c52b6f29b138712c0e89c7f9f2791ec289a9.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322170/ss_1e5328e6955e4037c4e1dfbe761dbb34f3d293da.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Geometry Dash to rytmiczna platformówka i niemal niemożliwe wyzwanie. Skacz, lataj i omijaj kolczaste przeszkody. Wykorzystaj swoje umiejętności do granic możliwości, by pokonać trudne poziomy!",
   "steamUrl": "https://store.steampowered.com/app/322170/Geometry_Dash/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-82225-plus-55582",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Geometry%20Dash.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Przygodowe"
   ]

@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/ss_4fa4fd2ea1b7ff6c6b699dc9eb717986f80845a4.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/ss_ecddafdaee86bfb66b0a7290dda445f43195b48d.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Mortal Kombat 11 to powrót kultowej bijatyki z bogatym, filmowym trybem fabularnym. Nowy silnik graficzny przybliża brutalną walkę, a rozbudowana modyfikacja postaci pozwala na pełną personalizację zawodników.",
   "steamUrl": "https://store.steampowered.com/app/976310/Mortal_Kombat_11/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-81102-premium-06093",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Mortal%20Kombat%2011.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "KOOPERACYJNE"
   ]

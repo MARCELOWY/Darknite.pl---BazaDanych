@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/ss_b19eda9efcabf0fe27741eb126427048541780f0.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/ss_373f7aa9cd0f38423fadc4de77dece8e488bb7b1.600x338.jpg"
   ],
+  "dlc": [],
   "description": "DELTARUNE to gra z fabułą i muzyką Toby'ego Foxa. Poznaj nowych bohaterów oraz znane twarze. Oferuje animację pikselową, system rozdziałów i bitwy z unikaniem pocisków. Czekają trudni, ukryci bossowie.",
   "steamUrl": "https://store.steampowered.com/app/1671210/DELTARUNE/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-34844-plus-90969",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/DELTARUNE.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Przygodowe"
   ]

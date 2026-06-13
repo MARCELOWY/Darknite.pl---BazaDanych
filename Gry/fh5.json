@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/ss_00f0090174380eeaf8753bd3d1028b6772c3aebf.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/ss_3654a5988db68f9b47740f9f6a9299682c365599.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Forza Horizon 5 zaprasza na ekspedycję po Meksyku. Prowadź setki najwspanialszych samochodów świata w otwartym, tętniącym życiem świecie. Czeka Cię jazda bez ograniczeń i ciągła akcja!",
   "steamUrl": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-84328-plus-60130",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Forza%20Horizon%205.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Otwarty Świat"

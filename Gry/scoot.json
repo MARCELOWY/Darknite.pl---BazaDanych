@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1494840/fa6aa5299af950bcb5263555bc3c1972e219772c/ss_fa6aa5299af950bcb5263555bc3c1972e219772c.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1494840/64bd83988b58221eddbaeea203d7cf0aaa4c1dc0/ss_64bd83988b58221eddbaeea203d7cf0aaa4c1dc0.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Scoot to zaawansowany symulator hulajnogi oparty na realistycznej fizyce. Wykonuj triki na rampach, odkrywaj miasto New Carven oraz park Jumbo Jump sam lub z 4 graczami online.",
   "steamUrl": "https://store.steampowered.com/app/1494840/Scoot/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-94533-PLUS-63131",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Scoot.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Jazda Rowerem/Hulajnogą"

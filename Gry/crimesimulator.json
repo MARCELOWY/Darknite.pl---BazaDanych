@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2737070/eeae212f6a0f7914692bc318660c80722ed5f62f/ss_eeae212f6a0f7914692bc318660c80722ed5f62f.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2737070/2b9ed438548e1839410ce78f246f3b7a5855c65f/ss_2b9ed438548e1839410ce78f246f3b7a5855c65f.600x338.jpg"
   ],
+  "dlc": [],
   "description": "Wychodzisz z więzienia dzięki kaucji od tajemniczego dobroczyńcy. Musisz szybko spłacić dług, używając talentu do przestępstw. Włamuj się, kradnij i wykonuj zlecenia sam lub w 4 osoby. Czas ucieka!",
   "steamUrl": "https://store.steampowered.com/app/2737070/Crime_Simulator/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-49667-PLUS-23883",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Crime%20Simulator.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Symulatory",
     "Przygodowe"

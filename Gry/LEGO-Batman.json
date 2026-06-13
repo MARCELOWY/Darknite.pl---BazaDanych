@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215200/d8a37aef421cac8d67dbdf76f103b332d6040e4a/ss_d8a37aef421cac8d67dbdf76f103b332d6040e4a.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215200/261056fb830839878fb4fcb8af6f5804e4bc6899/ss_261056fb830839878fb4fcb8af6f5804e4bc6899.600x338.jpg"
   ],
+  "dlc": [],
   "description": "LEGO Batman: Dziedzictwo Mrocznego Rycerza to gra akcji od TT Games. Zostań Batmanem, trenuj w Lidze Cieni i chroń Gotham. Zbuduj ekipę sojuszników i pokonaj Jokera, Bane'a oraz Pingwina!",
   "steamUrl": "https://store.steampowered.com/app/2215200/LEGO_Batman_Dziedzictwo_Mrocznego_Rycerza/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-16528-premium-45257",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/LEGO%20Batman.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "KOOPERACYJNE",
     "Otwarty Świat"

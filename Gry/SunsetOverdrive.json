@@ -9,11 +9,13 @@
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/847370/ss_fdd2c21037567f512f15e85a285e62f94a554ccf.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/847370/ss_1ac96a26cd56eaca8f40ebf8eb2472e524807e2b.600x338.jpg"
   ],
+  "dlc": [],
   "description": "W 2027 roku skażony energetyk zmienia ludzi w mutantów. Wykorzystaj to! Grinduj, biegaj po ścianach i niszcz wrogów szalonym arsenałem w stylowej, zręcznościowej strzelance.",
   "steamUrl": "https://store.steampowered.com/app/847370/Sunset_Overdrive/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-66800-plus-11950",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Sunset%20Overdrive.zip",
+  "dateAdded": "2026-06-09",
   "kategorie": [
     "Przygodowe",
     "Otwarty Świat"
