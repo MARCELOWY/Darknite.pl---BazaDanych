@@ -1,0 +1,24 @@
+{
+  "id": "waterparksimulator",
+  "title": "Waterpark Simulator",
+  "platform": "Steam",
+  "icon": "https://images.g2a.com/320x428/1x1x1/waterpark-simulator-p10000512291/2c3a42bffd064999931dc91b",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3293260/00f6f9dfed15594ceedc63385803288458a5c17e/ss_00f6f9dfed15594ceedc63385803288458a5c17e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3293260/d76b8e4f825f4bf4e43d3b05f34156ae64aba1ff/ss_d76b8e4f825f4bf4e43d3b05f34156ae64aba1ff.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3293260/8f31242a77f1bc084edd895bcbf67354ca64184b/ss_8f31242a77f1bc084edd895bcbf67354ca64184b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3293260/8ca9c7fb98a99ed56636118592bc6761a9cff66d/ss_8ca9c7fb98a99ed56636118592bc6761a9cff66d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3293260/a0ac4fa85f579d54f1dded0947f37fbcfbee87d2/ss_a0ac4fa85f579d54f1dded0947f37fbcfbee87d2.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/",
+  "steamUrl": "https://store.steampowered.com/app/3293260/Waterpark_Simulator/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-08798-STANDARD-46792",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Waterpark%20Simulator.zip",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory"
+  ]
+}

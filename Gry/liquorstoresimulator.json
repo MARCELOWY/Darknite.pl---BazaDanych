@@ -1,0 +1,25 @@
+{
+  "id": "liquorstoresimulator",
+  "title": "Liquor Store Simulator",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.53904.14378164280373775.ae429311-fc58-482b-9a4e-6a9bfd8764e4.7712f857-4262-4b0b-a7d4-ba70ece6fa36",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3124550/923ad8ed3143bc1304a547d78e3e940cc2509321/ss_923ad8ed3143bc1304a547d78e3e940cc2509321.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3124550/b19e46f0d8dab05e62f3706a6f61e589b21c029b/ss_b19e46f0d8dab05e62f3706a6f61e589b21c029b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3124550/cdb216c865683fbb84427253fde8b619ebf4ae77/ss_cdb216c865683fbb84427253fde8b619ebf4ae77.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3124550/bce5eb34409c12af02d3d658960f20d3d692f374/ss_bce5eb34409c12af02d3d658960f20d3d692f374.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3124550/6bb7cf651e783869cabeff64d2bbf42c668f95c5/ss_6bb7cf651e783869cabeff64d2bbf42c668f95c5.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3124550/0852de2d6cf53960dab0a8021c45aa586b4e34ce/ss_0852de2d6cf53960dab0a8021c45aa586b4e34ce.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Rozwiń własny alkomarket kupiony na kredyt. Samodzielnie obsługuj kasę, nalewaj piwo z beczki, zamawiaj dostawy, aranżuj wnętrze i zatrudniaj pracowników, by stworzyć alkoholowe imperium.",
+  "steamUrl": "https://store.steampowered.com/app/3124550/Liquor_Store_Simulator/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-95925-STANDARD-00365",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Liquor%20Store%20Simulator.zip",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory"
+  ]
+}

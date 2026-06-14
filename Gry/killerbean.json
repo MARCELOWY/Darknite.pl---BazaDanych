@@ -4,22 +4,21 @@
   "platform": "Steam",
   "icon": "https://m.media-amazon.com/images/M/MV5BYjY2OWEwMjgtNzkyYi00Nzg1LTg2MGUtNzY3YWViMzdlZTYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
   "screenshots": [
-    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/6f3bc2cf57389ee246839de439ff575902bc3444/ss_6f3bc2cf57389ee246839de439ff575902bc3444.600x338.jpg",
-    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/56eeeeec41e5e60f3b66035186bf1975a0dc543a/ss_56eeeeec41e5e60f3b66035186bf1975a0dc543a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/cbbd00d9f8968304139c9c800ae8e66c864b4ad5/ss_cbbd00d9f8968304139c9c800ae8e66c864b4ad5.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/465fe050974396bcc5ba16666200888773132657/ss_465fe050974396bcc5ba16666200888773132657.600x338.jpg",
-    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/cbbd00d9f8968304139c9c800ae8e66c864b4ad5/ss_cbbd00d9f8968304139c9c800ae8e66c864b4ad5.600x338.jpg"
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/56eeeeec41e5e60f3b66035186bf1975a0dc543a/ss_56eeeeec41e5e60f3b66035186bf1975a0dc543a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/6f3bc2cf57389ee246839de439ff575902bc3444/ss_6f3bc2cf57389ee246839de439ff575902bc3444.600x338.jpg"
   ],
   "dlc": [],
-  "description": "Killer Bean to roguelike akcji FPP/TPP. Jako elitarny asasyn – ziarno kawy – mścij się na Agencji Cieni. Walcz z frakcjami, używaj mechów i generuj nowe, losowe kampanie!",
+  "description": "Dynamiczny roguelike akcji FPP/TPP. Wciel się w zabójczą fasolę, stawiaj czoła armiom wrogów na proceduralnie generowanych wyspach i zniszcz agencję, która Cię zdradziła.",
   "steamUrl": "https://store.steampowered.com/app/1597080/Killer_Bean/",
-  "requiredTier": "premium",
-  "correctLicense": "NOT_AVAILABLE_YET",
-  "downloadUrl": "",
-  "dateAdded": "2026-06-13",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-70057-STANDARD-91079",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Killer%20Bean.zip",
+  "dateAdded": "2026-06-14",
   "discordAnnounced": true,
-  "dateUpdated": "2026-06-14",
-  "status": "coming_soon",
   "kategorie": [
-    "Przygodowe"
+    "Przygodowe",
+    "Otwarty Świat"
   ]
 }

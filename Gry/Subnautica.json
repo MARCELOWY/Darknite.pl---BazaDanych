@@ -15,7 +15,7 @@
   "dlc": [],
   "description": "Subnautica to survivalowa gra przygodowa. Po katastrofie statku lądujesz na obcej, wodnej planecie. Badaj głębiny oceanu, zbieraj surowce, twórz bazę i walcz o przetrwanie wśród groźnych bestii!",
   "steamUrl": "https://store.steampowered.com/app/264710/Subnautica/",
-  "requiredTier": "premium",
+  "requiredTier": "plus",
   "correctLicense": "DARKNITE-94538-STANDARD-00867",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Subnautica.zip",
   "dateAdded": "2026-06-13",

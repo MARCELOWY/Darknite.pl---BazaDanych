@@ -1,0 +1,24 @@
+{
+  "id": "cardealersimulator",
+  "title": "Car Dealer Simulator",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.9832.13800000154456066.ce46f5af-b560-4bfb-bb18-f2baa791e9b2.a413078f-ec55-483f-b57c-130a395597f5",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2404880/bfa55006a1dc0b593e9fd3529a95ba0a5f73e3c3/ss_bfa55006a1dc0b593e9fd3529a95ba0a5f73e3c3.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2404880/744a1b230d4d94030a987c66d02ef166eb51c930/ss_744a1b230d4d94030a987c66d02ef166eb51c930.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2404880/7cf5e546dd6a41be58ca35fa8c467e02c476b025/ss_7cf5e546dd6a41be58ca35fa8c467e02c476b025.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2404880/35e2eb3565ee15da06eeec3d99ce2ebd4c884391/ss_35e2eb3565ee15da06eeec3d99ce2ebd4c884391.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2404880/8e6e81300e3874e8e1404e1beca14ea713206942/ss_8e6e81300e3874e8e1404e1beca14ea713206942.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2404880/b558bc96c6925115030c7f82a222a8917b4eb664/ss_b558bc96c6925115030c7f82a222a8917b4eb664.600x338.jpg"
+  ],
+  "dlc": [
+    "https://store.steampowered.com/app/4046960/"
+  ],
+  "description": "Odkryj żyłę złota na rynku aut używanych! Szukaj okazji, kupuj tanio, naprawiaj usterki, lakieruj i sprzedawaj z zyskiem, aby zbudować własne motoryzacyjne imperium od zera.",
+  "steamUrl": "https://store.steampowered.com/app/2404880/Car_Dealer_Simulator/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-48703-STANDARD-81694",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Car%20Dealer%20Simulator.zip",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true
+}

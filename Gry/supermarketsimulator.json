@@ -1,0 +1,33 @@
+{
+  "id": "supermarketsimulator",
+  "title": "Supermarket Simulator",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.63656.13763814357241001.e01392b6-0898-4953-8acf-030f03590bbb.afb78fab-c656-4ed4-a4a4-3aca6f24fae0",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2670630/b40f7ee28a8429e9ad7c6f016cf4e29cfcf6ba8d/ss_b40f7ee28a8429e9ad7c6f016cf4e29cfcf6ba8d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2670630/d7a5a9f57ed36a5552e2892fffda6aa171f9fe95/ss_d7a5a9f57ed36a5552e2892fffda6aa171f9fe95.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2670630/b0a62c37675c711c85c050bc8e5f96c7ff29b1a4/ss_b0a62c37675c711c85c050bc8e5f96c7ff29b1a4.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2670630/3e702a80da12cb9b50816e296f8ebf29757b680d/ss_3e702a80da12cb9b50816e296f8ebf29757b680d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2670630/2d87683322acd4433c97a18a3196326e1862e1fb/ss_2d87683322acd4433c97a18a3196326e1862e1fb.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2670630/d91f873c71a111bc20450066b924ee3ace8aba06/ss_d91f873c71a111bc20450066b924ee3ace8aba06.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2670630/2ba1181ebe01c7e642af2b457261e5931e14c7df/ss_2ba1181ebe01c7e642af2b457261e5931e14c7df.600x338.jpg"
+  ],
+  "dlc": [
+    "https://store.steampowered.com/app/4078560/",
+    "https://store.steampowered.com/app/4078570/",
+    "https://store.steampowered.com/app/4196060/",
+    "https://store.steampowered.com/app/4196070/",
+    "https://store.steampowered.com/app/4196080/",
+    "https://store.steampowered.com/app/4199610/"
+  ],
+  "description": "Realistyczna symulacja z perspektywy pierwszej osoby. Zarządzaj własnym sklepem, optymalizuj układ półek, obsługuj klientów przy kasie, zamawiaj dostawy oraz rozbudowuj marketowy biznes.",
+  "steamUrl": "https://store.steampowered.com/app/2670630/Supermarket_Simulator/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-40703-STANDARD-00033",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Supermarket%20Simulator.zip",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory"
+  ]
+}

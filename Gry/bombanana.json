@@ -1,0 +1,16 @@
+{
+  "id": "bombanana",
+  "title": "BOMBANANA!",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemiG2qMgKNif6BOeYQPQTQT-GVnmjhFHNpTp_Y1Iz_efpZXvbcVs8xkw&s=10",
+  "screenshots": [],
+  "dlc": [],
+  "description": "Zwariowana kooperacja dla 3 graczy. Wcielcie się w małpy: niewidomą, głuchą oraz niemą. Współpracujcie w furgonetce, budujcie komunikację i rozbrajajcie bomby przed wybuchem.",
+  "steamUrl": "https://store.steampowered.com/app/4656000/BOMBANANA/",
+  "requiredTier": "plus",
+  "correctLicense": "NOT_AVAILABLE_YET",
+  "downloadUrl": "",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true,
+  "status": "coming_soon"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "backroomsescapetogether",
+  "title": "Backrooms: Escape Together",
+  "platform": "Steam",
+  "icon": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9win.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/b7fa3a5e0ac4d91e27c4b749c7df671febae2ad6/ss_b7fa3a5e0ac4d91e27c4b749c7df671febae2ad6.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/4caad38e0abc643fc2723b00aa70429fac2e5d16/ss_4caad38e0abc643fc2723b00aa70429fac2e5d16.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/98369599dab566198764604294ebc1c8f4607b62/ss_98369599dab566198764604294ebc1c8f4607b62.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/e112963c6d41dd726e7ded7fbe145cf5746d6941/ss_e112963c6d41dd726e7ded7fbe145cf5746d6941.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/0597fbc5ca72d52d8e428c460d643632dc124d43/ss_0597fbc5ca72d52d8e428c460d643632dc124d43.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/493e7543e0307c2eecaa981ec7e7c1c947bf0be3/ss_493e7543e0307c2eecaa981ec7e7c1c947bf0be3.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Realistyczny horror kooperacyjny dla 1–6 osób. Przemierzaj proceduralnie generowane poziomy, rozwiązuj zagadki, unikaj bytów i współpracuj, aby przetrwać i uciec z Backrooms.",
+  "steamUrl": "https://store.steampowered.com/app/2141730/Backrooms_Escape_Together/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-91926-STANDARD-23106",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Escape%20Together.zip",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
+}

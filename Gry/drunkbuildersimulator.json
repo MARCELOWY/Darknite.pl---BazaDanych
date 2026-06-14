@@ -1,0 +1,26 @@
+{
+  "id": "drunkbuildersimulator",
+  "title": "Drunk Builder Simulator",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZa9koR9IessokWdGIb2xeKHaxCZ6LacY_5O8Uet7KTG3x2tUzcc7oN_O2&s=10",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3113750/aba25631f440345942917ee86d0da8642103d838/ss_aba25631f440345942917ee86d0da8642103d838.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3113750/6a4f78ba5cb85458bf43ec5ee8f6d69752ae621f/ss_6a4f78ba5cb85458bf43ec5ee8f6d69752ae621f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3113750/1a5492354f8311afdfc1e9a379ca7980d9b05484/ss_1a5492354f8311afdfc1e9a379ca7980d9b05484.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3113750/3f8c4b3da54ad60127d8fd0e56c19d8691236c3c/ss_3f8c4b3da54ad60127d8fd0e56c19d8691236c3c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3113750/04d7445378eac093d381e90407492b8737761436/ss_04d7445378eac093d381e90407492b8737761436.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3113750/564096bac2efd24bfdd95d2b8a97a0c204b79a90/ss_564096bac2efd24bfdd95d2b8a97a0c204b79a90.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Asymetryczny multiplayer social-stealth. Jeden gracz jako kierownik poluje na pijących pracowników, a reszta potajemnie pije i przekazuje butelkę, próbując uniknąć wpadki.",
+  "steamUrl": "https://store.steampowered.com/app/3113750/Drunk_Builder_Simulator/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-36168-STANDARD-11741",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Drunk%20Builder%20Simulator.zip",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory",
+    "KOOPERACYJNE"
+  ]
+}

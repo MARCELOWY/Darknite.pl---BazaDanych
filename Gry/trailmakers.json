@@ -1,0 +1,26 @@
+{
+  "id": "trailmakers",
+  "title": "Trailmakers",
+  "platform": "Steam",
+  "icon": "https://prismagamers.com/wp-content/uploads/2023/04/Trailmakers_10.png",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/585420/af362eef21db14f3987060f4172ca2072a9f189b/ss_af362eef21db14f3987060f4172ca2072a9f189b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/585420/18acda062d6655a6009574b98d9d0240290d08a1/ss_18acda062d6655a6009574b98d9d0240290d08a1.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/585420/61498b93278244fdc6be160a9544c20ddffc2023/ss_61498b93278244fdc6be160a9544c20ddffc2023.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/585420/e1f3f638855efe76d613605caebf30c5a7f4bc9b/ss_e1f3f638855efe76d613605caebf30c5a7f4bc9b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/585420/3756542ffd2713cba303f3baa0a3adbfd1d598d2/ss_3756542ffd2713cba303f3baa0a3adbfd1d598d2.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Buduj niesamowite pojazdy, samoloty czy statki z klocków konstrukcyjnych. Eksploruj obcy świat, bierz udział w wyścigach i twórz szalone projekty solo lub ze znajomymi.",
+  "steamUrl": "https://store.steampowered.com/app/585420/Trailmakers/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-76366-STANDARD-88476",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Trailmakers.zip",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

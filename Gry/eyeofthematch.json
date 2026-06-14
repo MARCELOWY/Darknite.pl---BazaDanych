@@ -1,0 +1,19 @@
+{
+  "id": "eyeofthematch",
+  "title": "Eye of the Match",
+  "platform": "Steam",
+  "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3799530/2219b8bc70380185ea08874ccc606ddeadd117da/ss_2219b8bc70380185ea08874ccc606ddeadd117da.600x338.jpg",
+  "screenshots": [],
+  "dlc": [],
+  "description": "",
+  "steamUrl": "",
+  "requiredTier": "plus",
+  "correctLicense": "NOT_AVAILABLE_YET",
+  "downloadUrl": "",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true,
+  "status": "coming_soon",
+  "kategorie": [
+    "Symulatory"
+  ]
+}

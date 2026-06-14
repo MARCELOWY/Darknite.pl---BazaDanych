@@ -1,0 +1,24 @@
+{
+  "id": "supercarcollectionsimulator",
+  "title": "Supercar Collection Simulator",
+  "platform": "Steam",
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0msQxHeeknOruXTYoEnb4DrlOnTyS4DJ_KJBvEMKOMzK_eCPbTVSOMfo&s=10",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3453600/ss_848aef9df49c2a3de3919d2253dfb7d41de6e87a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3453600/dbfa867bc06bce0b91470b52132c7b0acd5eb76a/ss_dbfa867bc06bce0b91470b52132c7b0acd5eb76a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3453600/ss_8728b89f289a88a763476e3b4adeb1e380c05a80.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3453600/ss_123fc26adc3d679af906200a529e7a161ec4ba77.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3453600/e584a38f460837084effb1676069819d90da2e34/ss_e584a38f460837084effb1676069819d90da2e34.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3453600/ss_e431a00dcc70f4993346c5dbf22c6cc730c9be94.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3453600/e4968030537e64fe75b8f1c9e7a2a984c12202e6/ss_e4968030537e64fe75b8f1c9e7a2a984c12202e6.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3453600/ss_2728117dff522dd8b578bc6c4b7a7af592da145a.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Sprzedawaj niespodziankowe pudełka z modelami aut, aby zarabiać. Buduj własną kolekcję supersamochodów, bierz udział w wyścigach z klientami i graj w internetową wymianę kart.",
+  "steamUrl": "https://store.steampowered.com/app/3453600/Supercar_Collection_Simulator/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-46504-STANDARD-92595",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Supercar%20Collection%20Simulator.zip",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true
+}

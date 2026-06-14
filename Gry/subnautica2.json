@@ -1,0 +1,27 @@
+{
+  "id": "subnautica2",
+  "title": "Subnautica 2",
+  "platform": "Steam",
+  "icon": "https://cdn1.epicgames.com/spt-assets/011270e3237f4bf69a3459942f005393/subnautica-2-1eodi.png",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/823b102b09530bbf588f5e9752cb52f1681dc992/ss_823b102b09530bbf588f5e9752cb52f1681dc992.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/e631ef3b91faacacb5a2c823d0b979083548d66f/ss_e631ef3b91faacacb5a2c823d0b979083548d66f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/16b68b0941ed9c5ac1eea74e478fa726d425bebf/ss_16b68b0941ed9c5ac1eea74e478fa726d425bebf.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/56159597a28edfb07c6dd27b4a00f2e06e571048/ss_56159597a28edfb07c6dd27b4a00f2e06e571048.600x338.jpg"
+  ],
+  "dlc": [
+    "https://store.steampowered.com/app/3803320/"
+  ],
+  "description": "Podwodna przygoda survivalowa w nowym świecie obcych. Buduj bazy, twórz narzędzia i nurkuj solo lub w kooperacji do 4 graczy, by odkryć tajemnice ukryte w głębinach oceanu.",
+  "steamUrl": "https://store.steampowered.com/app/1962700/Subnautica_2/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-44014-STANDARD-49405",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Subnautica 2.zip",
+  "dateAdded": "2026-06-14",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}
