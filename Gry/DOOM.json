@@ -15,10 +15,10 @@
   "steamUrl": "https://store.steampowered.com/app/2280/DOOM__DOOM_II/?curator_clanid=35501448",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-71523-PLUS-37385",
-  "downloadUrl": "DOOM.zip",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/DOOM.zip",
   "dateAdded": "2026-06-13",
-  "discordAnnounced": false,
-  "dateUpdated": "2026-06-13",
+  "discordAnnounced": true,
+  "dateUpdated": "2026-06-14",
   "kategorie": [
     "Przygodowe"
   ]
