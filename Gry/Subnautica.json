@@ -2,14 +2,27 @@
   "id": "Subnautica",
   "title": "Subnautica",
   "platform": "Steam",
-  "icon": "",
-  "screenshots": [],
+  "icon": "https://assetsio.gnwcdn.com/coa938.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/ss_e182b6b20bb797500f9f63c561586d920d44e37c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/ss_b28404f3d108cc15aebbb2c3d7cb17e587225662.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/ss_623579a6693f6fc48033e619cacc4306f10eef15.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/ss_cebc378d2f7bc78978c21db4e3c5e12ccd067349.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/ss_5f2f2ea498cdc632cbffd6cf37c1a09670eb3272.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/ss_970a13f246e33e0df26d93baf9f8e975732adb4b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/ss_9fdfcc7572ae22b4afa21e6de3b23c962ca5bb55.600x338.jpg"
+  ],
   "dlc": [],
-  "description": "",
-  "steamUrl": "",
-  "requiredTier": "standard",
+  "description": "Subnautica to survivalowa gra przygodowa. Po katastrofie statku lądujesz na obcej, wodnej planecie. Badaj głębiny oceanu, zbieraj surowce, twórz bazę i walcz o przetrwanie wśród groźnych bestii!",
+  "steamUrl": "https://store.steampowered.com/app/264710/Subnautica/",
+  "requiredTier": "premium",
   "correctLicense": "DARKNITE-94538-STANDARD-00867",
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Subnautica.zip",
   "dateAdded": "2026-06-13",
-  "dateUpdated": "2026-06-13"
+  "discordAnnounced": true,
+  "dateUpdated": "2026-06-14",
+  "kategorie": [
+    "Przygodowe",
+    "Otwarty Świat"
+  ]
 }
