@@ -1,0 +1,27 @@
+{
+  "id": "projectzomboid",
+  "title": "Project Zomboid",
+  "platform": "Steam",
+  "icon": "https://image.ceneostatic.pl/data/products/27654150/i-project-zomboid-digital.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/ss_d4a0f78dc94273c7f0eedc186569efc091387066.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/ss_eca8be032b3f5508bf5bea74cfbc823a4df047ce.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/ss_7300ecc70342b6fcbdf39b6f9ff4c408066f8fc2.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/ss_3b21d79855804e2a73468328a8fd18df0d238a2a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/ss_0dc0cb896202ecfa344a0af981b695f2349317e1.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Hardkorowy symulator przetrwania w świecie zombie. Buduj bazy, twórz przedmioty, walcz z głodem oraz depresją solo lub w kooperacji. Tutaj dowiesz się, jak zginiesz.",
+  "steamUrl": "https://store.steampowered.com/app/108600/Project_Zomboid/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-34678-STANDARD-46482",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Project%20Zomboid.zip",
+  "dateAdded": "2026-06-15",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory",
+    "Przygodowe",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

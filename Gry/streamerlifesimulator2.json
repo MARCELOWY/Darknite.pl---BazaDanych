@@ -1,0 +1,24 @@
+{
+  "id": "streamerlifesimulator2",
+  "title": "Streamer Life Simulator 2",
+  "platform": "Steam",
+  "icon": "https://imgproxy.eneba.games/mz0btb5vr3nldzbLICblkzfO0EpzgddkgqVVXF-TCLA/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9r/TWl3ZHppcEk0MUJI/QWxiNjUzRTFuV3pL/N1VmeUE3QWhkSnNG/QXBZcGdZLmpwZWc",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2890830/ss_cfb7752e8dd8a8a14de533f50c82db59a5b15991.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2890830/ss_c09291554b3fca7585e71acecdf1c63b8123cc9b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2890830/ss_2b5a1938e77d5dadcbd2daaf0671282c64992ffd.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2890830/ss_6422ac3936a0fe8a2df20dfe6bb3b547c69432b9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2890830/ss_203e6d6e3e7f8ad9dd08deaafb6dd4833040d6d8.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Rozwijaj karierę twórcy internetowego od zera. Kupuj lepszy sprzęt, reaguj na zachowania widzów, inwestuj zarobione pieniądze i stwórz własny dom streamerski pełen pracowników.",
+  "steamUrl": "https://store.steampowered.com/app/2890830/Streamer_Life_Simulator_2/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-07399-STANDARD-07192",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Streamer%20Life%20Simulator%202.zip",
+  "dateAdded": "2026-06-15",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory"
+  ]
+}
