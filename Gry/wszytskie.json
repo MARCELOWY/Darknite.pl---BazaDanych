@@ -64,6 +64,7 @@
   "PlagueIncEvolved.json",
   "Portal2.json",
   "PowerWashSimulator2.json",
+  "projectzomboid.json",
   "Raft.json",
   "returnsoutletsimulator.json",
   "ridersrepublic.json",
@@ -77,6 +78,7 @@
   "skisniper.json",
   "slackers.json",
   "sonsoftheforest.json",
+  "streamerlifesimulator2.json",
   "Subnautica.json",
   "subnautica2.json",
   "SunsetOverdrive.json",
@@ -93,7 +95,5 @@
   "ULTRAKILL.json",
   "Uno.json",
   "waterparksimulator.json",
-  "wiedzmin3dzikigon.json",
-  "projectzomboid.json",
-  "streamerlifesimulator2.json"
+  "wiedzmin3dzikigon.json"
 ]
