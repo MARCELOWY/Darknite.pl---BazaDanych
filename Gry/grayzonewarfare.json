@@ -1,0 +1,28 @@
+{
+  "id": "grayzonewarfare",
+  "title": "Gray Zone Warfare",
+  "platform": "Steam",
+  "icon": "https://prismagamers.com/wp-content/uploads/2024/07/Gray-Zone-Warfare-e1722070761159.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479810/2fa64e158672ee4026a37d5d4fd6029972225c00/ss_2fa64e158672ee4026a37d5d4fd6029972225c00.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479810/5e7aa829f4b6374289fb5048bca4e1840f851dc5/ss_5e7aa829f4b6374289fb5048bca4e1840f851dc5.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479810/554761289ced02f8b33e1e7f6b89c470032c8def/ss_554761289ced02f8b33e1e7f6b89c470032c8def.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479810/8fa7f3adb3b7d0252f157e0c9322c9d25c9f3ec9/ss_8fa7f3adb3b7d0252f157e0c9322c9d25c9f3ec9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479810/76b7460537ef52f21ebd95faa2dd769e54c2cace/ss_76b7460537ef52f21ebd95faa2dd769e54c2cace.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479810/f893f72cd8676b90f70ce02f70ce966583420471/ss_f893f72cd8676b90f70ce02f70ce966583420471.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": ": Realistyczna strzelanka taktyczna w otwartym świecie. Wciel się w operatora PMC, wykonuj misje solo lub w kooperacji i przetrwaj na niebezpiecznej azjatyckiej wyspie.",
+  "steamUrl": "https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/?curator_clanid=4777282",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-48638-STANDARD-54312",
+  "downloadUrl": "Gray Zone Warfare.zip",
+  "dateAdded": "2026-06-18",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory",
+    "Przygodowe",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

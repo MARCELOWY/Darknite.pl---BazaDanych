@@ -1,0 +1,27 @@
+{
+  "id": "thehuntercallofthewild",
+  "title": "TheHunter: Call of the Wild™",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.31673.63553167684393025.1b31f51e-c4c6-49b1-bf61-a2e65ea14c73.150d2a5d-49a6-4724-8e53-cb908f866746",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/ss_1d4862325cbb1b929af51d5bd3c91160797565d1.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/ss_318b270747b228975c4a6e3e06d9133db6a72f1b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/ss_dce419f29e299c1966b361ff24f6b2d6e1130e82.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/ss_6a42297e92da375520a1cadc9e369ca3429bc280.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/ss_8a75aa823fbaa3a8ec3cf844d1340308250737a4.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Poczuj atmosferę polowania w klimatycznym, pięknym i otwartym świecie. Trop unikalne zwierzęta, dopasowuj sprzęt i poluj w kampanii solo lub w kooperacji do 8 graczy.",
+  "steamUrl": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-72961-STANDARD-31581",
+  "downloadUrl": "theHunter Call of the Wild.zip",
+  "dateAdded": "2026-06-18",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory",
+    "Przygodowe",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

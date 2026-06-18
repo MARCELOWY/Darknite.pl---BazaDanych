@@ -1,0 +1,25 @@
+{
+  "id": "copacity",
+  "title": "Copa City",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.64725.14030162798867324.a294a116-dcfa-4fb0-8aa9-aaf9970ccfd5.3ce4dee6-855a-42ea-a17b-52cd37bd8dc7",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210520/8c0549dbeea72a529c9c57fe4c7d528638c82a0c/ss_8c0549dbeea72a529c9c57fe4c7d528638c82a0c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210520/3b71b3abb4ce70d9a2a56fb27ac06fccfcaefba0/ss_3b71b3abb4ce70d9a2a56fb27ac06fccfcaefba0.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210520/2d58a324b49104499c270358e2434e3889daa3b3/ss_2d58a324b49104499c270358e2434e3889daa3b3.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210520/676693007f6532562eb3b71b0502a7d06333bb71/ss_676693007f6532562eb3b71b0502a7d06333bb71.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210520/c404e9619b746497b03493a4ac5121159a6c51c5/ss_c404e9619b746497b03493a4ac5121159a6c51c5.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Pierwszy symulator zarządzania wielkimi imprezami piłkarskimi. Wybierz miasto, dbaj o logistykę, zapewnij bezpieczeństwo kibicom i zorganizuj niezapomniane święto sportu.",
+  "steamUrl": "https://store.steampowered.com/app/2210520/COPA_CITY/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-66797-STANDARD-32583",
+  "downloadUrl": "COPA CITY.zip",
+  "dateAdded": "2026-06-18",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory",
+    "KOOPERACYJNE"
+  ]
+}

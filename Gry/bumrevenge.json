@@ -1,0 +1,26 @@
+{
+  "id": "bumrevenge",
+  "title": "Bum Revenge",
+  "platform": "Steam",
+  "icon": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9yom.webp",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3702930/fdde5b6acfc71344e9833435c2412b4cc911c487/ss_fdde5b6acfc71344e9833435c2412b4cc911c487.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3702930/f110cf99d7b835bd811bee6efc9b991e2c57b09c/ss_f110cf99d7b835bd811bee6efc9b991e2c57b09c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3702930/7af38428df46d04aee9a5edef3d3a4e05bb88190/ss_7af38428df46d04aee9a5edef3d3a4e05bb88190.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3702930/04c869e4abe43d2a98529b75f63ed69eb4b1b5dd/ss_04c869e4abe43d2a98529b75f63ed69eb4b1b5dd.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3702930/48735d79711161ede4c58e6dd9b304e0269a731a/ss_48735d79711161ede4c58e6dd9b304e0269a731a.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Pierwszoosobowy sandbox bezdomnego przestępcy. Kradnij, pij, doświadczaj halucynacji i miażdż swoich rywali w chaotycznym, sieciowym trybie kooperacji online dla wielu graczy.",
+  "steamUrl": "https://store.steampowered.com/app/3702930/Bum_Revenge/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-10791-STANDARD-87123",
+  "downloadUrl": "BumRevenge.zip",
+  "dateAdded": "2026-06-18",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Symulatory",
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
+}
