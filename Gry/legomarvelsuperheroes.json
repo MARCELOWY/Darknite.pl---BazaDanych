@@ -1,0 +1,26 @@
+{
+  "id": "legomarvelsuperheroes",
+  "title": "LEGO® Marvel™ Super Heroes",
+  "platform": "Steam",
+  "icon": "https://store-images.s-microsoft.com/image/apps.24374.63650118280316002.65752177-7b67-479a-873d-54f674a999aa.385fb903-bd5a-4531-995a-9e22516988e4",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/249130/ss_ae02f99f0c999910d7615adc299ebeb311882b8e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/249130/ss_ab3a235ddbddfd740e34271a508a6afd6ff099d2.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/249130/ss_1a16e90d51f02fd022b071d00b286e71234cea4f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/249130/ss_03aa85cb0f02f9631accbd3714a02d55205eb70e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/249130/ss_1d081b323a47e43e801675c7c722fc2c5e492700.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Przejmij kontrolę nad Iron Manem, Spider-Manem czy Hulkiem. Łącz siły w kooperacji, by powstrzymać Lokiego oraz innych złoczyńców przed zniszczeniem świata z klocków Marvela.",
+  "steamUrl": "https://store.steampowered.com/app/249130/LEGO_Marvel_Super_Heroes/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-50648-STANDARD-47293",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/LEGO%20Super%20Heroes.zip",
+  "dateAdded": "2026-06-18",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

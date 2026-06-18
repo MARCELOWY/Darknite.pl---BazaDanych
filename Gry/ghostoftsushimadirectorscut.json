@@ -1,0 +1,26 @@
+{
+  "id": "ghostoftsushimadirectorscut",
+  "title": "Ghost of Tsushima DIRECTOR'S CUT",
+  "platform": "Steam",
+  "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/v53I7qHvpWSQsL2oLxrM46NV.png",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/ss_51eb1a47a41271abb0aa781de576f704d95b601b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/ss_d60e16422fc1605181e0fedee3e2cfc1e02c750e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/ss_11409331d57966ef193d66ffcded569d02a4e034.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/ss_bd593bab36968778b95ed4a1a12ec82d2350d351.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/ss_63cc7ea967bf808c73129792d9ae8e3fdb2962bf.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/ss_b94e296457324be29466facc1fd93a91b6189a9b.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Wykuwaj nową drogę i prowadź otwartą wojnę o wolność Cuszimy. Przemierzaj malownicze krainy, opanuj sztukę walki kataną i przeżyj filmową opowieść z epoki feudalnej Japonii.",
+  "steamUrl": "https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-76118-STANDARD-76146",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Ghost%20of%20Tsushima.zip",
+  "dateAdded": "2026-06-18",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Przygodowe",
+    "Otwarty Świat"
+  ]
+}
