@@ -15,9 +15,10 @@
   "steamUrl": "https://store.steampowered.com/app/2210520/COPA_CITY/",
   "requiredTier": "premium",
   "correctLicense": "DARKNITE-66797-STANDARD-32583",
-  "downloadUrl": "COPA CITY.zip",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/COPA%20CITY.zip",
   "dateAdded": "2026-06-18",
   "discordAnnounced": true,
+  "dateUpdated": "2026-06-18",
   "kategorie": [
     "Symulatory",
     "KOOPERACYJNE"

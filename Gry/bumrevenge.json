@@ -15,9 +15,10 @@
   "steamUrl": "https://store.steampowered.com/app/3702930/Bum_Revenge/",
   "requiredTier": "plus",
   "correctLicense": "DARKNITE-10791-STANDARD-87123",
-  "downloadUrl": "BumRevenge.zip",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/BumRevenge.zip",
   "dateAdded": "2026-06-18",
   "discordAnnounced": true,
+  "dateUpdated": "2026-06-18",
   "kategorie": [
     "Symulatory",
     "Przygodowe",

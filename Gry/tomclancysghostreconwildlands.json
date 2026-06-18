@@ -1,0 +1,27 @@
+{
+  "id": "tomclancysghostreconwildlands",
+  "title": "Tom Clancy's Ghost Recon® Wildlands",
+  "platform": "Steam",
+  "icon": "https://data.xxlgamer.com/products/3457/iqPx08PKMacD6w-big.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460930/ss_989a4ab6b0ef9759f2aa94510b77c7669836f40e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460930/ss_5a5afdfe87c53cae9efa3d559e588501abfe88c6.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460930/ss_378d661032be68988646914c39179cb8122940fd.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460930/ss_c8fb21808c02c66037df923c261924ad6d4aa959.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460930/ss_7cbda16ec0cdfabd553b0e830158e7594b0dc44a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460930/ss_2a3648c80463ab7fb51698758da0e4d6963d10de.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Stwórz drużynę z maksymalnie 3 znajomymi w militarnej strzelance osadzonej w ogromnym, niebezpiecznym i reagującym na Twoje poczynania otwartym świecie, by zniszczyć kartel.",
+  "steamUrl": "https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-80096-STANDARD-34867",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Ghost%20Recon.zip",
+  "dateAdded": "2026-06-18",
+  "discordAnnounced": true,
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}
