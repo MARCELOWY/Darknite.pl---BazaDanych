@@ -1,0 +1,26 @@
+{
+  "id": "dyinglight2stayhumanreloadededition",
+  "title": "Dying Light 2 Stay Human: Reloaded Edition",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/f3af7d35d795f1cfa3208551048ae1ba.png",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534380/ss_df6aeb006060f7b26439f4bc7bee8b9e96c80e02.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534380/ss_9ba79964c3878648a1469d263df7fb17fc3d521c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534380/ss_d7906b3946d4857d28c159e7a1555a003a4426f8.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534380/ss_6b8d4cc1f7d657745cfd7aab941d3be0067dec00.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534380/ss_fe9a52a60f4739a44cbd8b0c0856033ea6996624.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534380/ss_84ca00f3d3b48e0a1fa6b96b17f02a65f1447950.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": ": Ludzkość toczy przegraną walkę z wirusem. Odkryj postapokaliptyczny, pełen zombie otwarty świat, w którym kluczem do przetrwania są zaawansowane umiejętności parkouru oraz walki.",
+  "steamUrl": "https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human_Reloaded_Edition/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-34829-STANDARD-96778",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Dying%20Light%202.zip",
+  "dateAdded": "2026-07-01",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

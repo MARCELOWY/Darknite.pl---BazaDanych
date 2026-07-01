@@ -1,0 +1,24 @@
+{
+  "id": "borderlands4",
+  "title": "Borderlands 4",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/d1e1fa0779ea7cf1f4fbe2403b99d226.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/9e2b137a204b18b38ad65966b334e164338f1188/ss_9e2b137a204b18b38ad65966b334e164338f1188.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/fddecc4fa3cba9f54584eab765e13c8f660e06f5/ss_fddecc4fa3cba9f54584eab765e13c8f660e06f5.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/a0edeca7c1fbfd7cfa4419aa49d9787eabff09a6/ss_a0edeca7c1fbfd7cfa4419aa49d9787eabff09a6.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/c060cefe57946268eec12d02ccbac8ae6eea50ab/ss_c060cefe57946268eec12d02ccbac8ae6eea50ab.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Dynamiczna strzelanka looter shooter pełna chaosu. Wciel się w jednego z czterech kozackich łowców, zdobywaj miliardy szalonych broni i walcz solo lub w kooperacji na nowej planecie Kairos.",
+  "steamUrl": "https://store.steampowered.com/app/1285190/Borderlands_4/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-69102-STANDARD-40016",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Borderlands%204.zip",
+  "dateAdded": "2026-07-01",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

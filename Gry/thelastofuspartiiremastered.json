@@ -1,0 +1,23 @@
+{
+  "id": "thelastofuspartiiremastered",
+  "title": "The Last of Us™ Part II Remastered",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/a93fd79d3109b5f8de09caef9d91cb8b.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2531310/0597b93e5e3d50cf6bd64bc8814386cd65f03410/ss_0597b93e5e3d50cf6bd64bc8814386cd65f03410.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2531310/ebd2126cf786cea9a0c245fe386b7343e368be53/ss_ebd2126cf786cea9a0c245fe386b7343e368be53.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2531310/4f29482b4c1875b66d3832b499a290bfeafe35bb/ss_4f29482b4c1875b66d3832b499a290bfeafe35bb.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2531310/d0138412577f8f37d885d9cfa6753951111040dc/ss_d0138412577f8f37d885d9cfa6753951111040dc.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2531310/05a44fda9f63327b76ec59a561b375ef64d9f7d3/ss_05a44fda9f63327b76ec59a561b375ef64d9f7d3.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Przeżyj poruszającą opowieść o zemście i odkupieniu z ulepszoną grafiką. Przetrwaj w brutalnym, postapokaliptycznym świecie, walcząc o przetrwanie jako Ellie oraz Abby.",
+  "steamUrl": "https://store.steampowered.com/app/2531310/The_Last_of_Us_Part_II_Remastered/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-82060-STANDARD-19235",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/The%20Last%20of%20Us%20Part%20I.zip",
+  "dateAdded": "2026-07-01",
+  "kategorie": [
+    "Przygodowe"
+  ]
+}

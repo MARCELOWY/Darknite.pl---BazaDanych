@@ -2,7 +2,7 @@
   "id": "mysummercar",
   "title": "My Summer Car",
   "platform": "Steam",
-  "icon": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGGmqlnI334AOj7Dini__7zRp-J8RPHhHlHwXGhgS6TBs5VWBXFDXG2PjJhG6sGmgrLLoZOYr9Ihj2sawsBNRDgM5Ck_leP9vOGTeitQBSws9QSMUSdUry&usqp=CAc",
+  "icon": "https://cdn2.steamgriddb.com/thumb/720a0841869f3a3287603ba3956d0093.jpg",
   "screenshots": [
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/516750/ss_8e4bee8eac58c980c6d8476f848fdb89a80186c6.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/516750/ss_ac925ffc6279649e52f816e28bde83da05c8b8e2.600x338.jpg",
@@ -16,7 +16,7 @@
   "correctLicense": "DARKNITE-25587-PREMIUM-94736",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/My%20Summer%20Car.zip",
   "dateAdded": "2026-06-09",
-  "discordAnnounced": false,
+  "dateUpdated": "2026-07-01",
   "kategorie": [
     "Symulatory",
     "Otwarty Świat"

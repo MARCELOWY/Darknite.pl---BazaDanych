@@ -2,7 +2,7 @@
   "id": "skisniper",
   "title": "Ski Sniper",
   "platform": "Steam",
-  "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635310/ss_bfece2e616b3e22709687b2fc4bb168e78a0727c.600x338.jpg",
+  "icon": "https://cdn2.steamgriddb.com/thumb/dd911ea0d9f4e7b6fdce097c803d2025.jpg",
   "screenshots": [
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635310/ss_730e1fc51d91e34065d2b8be5ad9df1849bfda00.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635310/ss_8fa00e5026cd0518aecce1d63f10060300492080.600x338.jpg",
@@ -17,7 +17,7 @@
   "correctLicense": "DARKNITE-40841-PLUS-61592",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Ski%20Sniper.zip",
   "dateAdded": "2026-06-09",
-  "discordAnnounced": false,
+  "dateUpdated": "2026-07-01",
   "kategorie": [
     "Symulatory",
     "Przygodowe"

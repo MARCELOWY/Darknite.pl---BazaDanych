@@ -2,7 +2,7 @@
   "id": "PeoplePlayground",
   "title": "People Playground",
   "platform": "Steam",
-  "icon": "https://fwcdn.pl/fpo/54/15/875415/7961921_2.8.webp",
+  "icon": "https://cdn2.steamgriddb.com/thumb/9da31cbc1dac78f01185f4ebef8714f3.jpg",
   "screenshots": [
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118200/ss_402e684595c74400d4596978089e1e89e7ecbae9.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118200/ss_1b0a4c1230ce6f218cee43a7e31401f1b414040b.600x338.jpg",
@@ -16,7 +16,7 @@
   "correctLicense": "DARKNITE-21998-plus-88421",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/People%20Playground.zip",
   "dateAdded": "2026-06-09",
-  "discordAnnounced": false,
+  "dateUpdated": "2026-07-01",
   "kategorie": [
     "Symulatory"
   ]

@@ -2,7 +2,7 @@
   "id": "copacity",
   "title": "Copa City",
   "platform": "Steam",
-  "icon": "https://store-images.s-microsoft.com/image/apps.64725.14030162798867324.a294a116-dcfa-4fb0-8aa9-aaf9970ccfd5.3ce4dee6-855a-42ea-a17b-52cd37bd8dc7",
+  "icon": "https://cdn2.steamgriddb.com/thumb/faa8de4afe6b68ea5beb1fdf7b90a82a.jpg",
   "screenshots": [
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210520/8c0549dbeea72a529c9c57fe4c7d528638c82a0c/ss_8c0549dbeea72a529c9c57fe4c7d528638c82a0c.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210520/3b71b3abb4ce70d9a2a56fb27ac06fccfcaefba0/ss_3b71b3abb4ce70d9a2a56fb27ac06fccfcaefba0.600x338.jpg",
@@ -17,7 +17,6 @@
   "correctLicense": "DARKNITE-66797-STANDARD-32583",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/COPA%20CITY.zip",
   "dateAdded": "2026-06-18",
-  "discordAnnounced": true,
   "dateUpdated": "2026-06-18",
   "kategorie": [
     "Symulatory",

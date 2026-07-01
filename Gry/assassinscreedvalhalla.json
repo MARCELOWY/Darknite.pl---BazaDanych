@@ -1,0 +1,24 @@
+{
+  "id": "assassinscreedvalhalla",
+  "title": "Assassin's Creed Valhalla",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/e2ea9e1f3d2660dc641143e35e7e6767.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2208920/ss_103481084a59b34837113daf27c04679caf743f3.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2208920/ss_e7310b36689ec722d2ea4643efc15bd8fa720c67.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2208920/ss_c3bff917ead50268eb7708ef3bf30e07b58929e9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2208920/ss_5e527e1e063ef041ca6680f503081274dcc5513a.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2208920/ss_83a5e49815eed62911f27240390c6735b898c13e.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Zostań legendarnym wikingiem. Najedź wrogów, rozwijaj osadę i buduj polityczne wpływy w otwartym świecie średniowiecznej Anglii, by zdobyć zasłużone miejsce w Walhalli.",
+  "steamUrl": "https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-48883-STANDARD-60739",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Assassin's%20Creed%20Valhalla.zip",
+  "dateAdded": "2026-07-01",
+  "kategorie": [
+    "Przygodowe",
+    "Otwarty Świat"
+  ]
+}

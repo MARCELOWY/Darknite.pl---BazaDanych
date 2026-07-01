@@ -1,0 +1,25 @@
+{
+  "id": "mafiaedycjaostateczna",
+  "title": "Mafia: Edycja Ostateczna",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/cc2ce758c01158d6d1770a993c4bab40.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030840/ss_f531c551d9794deafc1e45421b70e8d4c254aaca.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030840/ss_c767fdc53c38f3a33214d27157aff6025bf38e58.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030840/ss_53523304d2d0f9846c9c27059334629e8a83144e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030840/ss_b78562d5fd27b42dc22b49c03c4d0bb5c0a2f043.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030840/ss_010d8fc827531edf76010106acb78a75188db373.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030840/ss_7a147e0dd092400229c6c1fd513625a62ae9a4eb.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Stworzona od zera opowieść o gangsterskim życiu w czasach prohibicji. Pnij się w hierarchii mafii w zrekonstruowanym mieście z lat 30. i weź udział w kinowej historii.",
+  "steamUrl": "https://store.steampowered.com/app/1030840/Mafia_Edycja_Ostateczna/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-94343-STANDARD-70113",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Mafia%20DefinitiveEdition.zip",
+  "dateAdded": "2026-07-01",
+  "kategorie": [
+    "Przygodowe",
+    "Otwarty Świat"
+  ]
+}

@@ -2,7 +2,7 @@
   "id": "MortalKombat11",
   "title": "Mortal Kombat 11",
   "platform": "Steam",
-  "icon": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTeE6U3Sbbr7ejwcNfNR93yCl5PqLjjllfZvc5IDOQFrA7OVmtQDtFDJGf5n5vA2jNnPIf_v0PioAXJMNSQntiABdTqYeBP8ncOLGPNoyN5OYznLt_fxW24PQ&usqp=CAc",
+  "icon": "https://cdn2.steamgriddb.com/thumb/6ccdf20ecd61d591ced28db9240afcd6.jpg",
   "screenshots": [
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/ss_e5cd8debd74027dbfafd9729fc32986a63393333.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/ss_4a9c1909083a75dcf684d79806afd9d9b46e432a.600x338.jpg",
@@ -16,7 +16,7 @@
   "correctLicense": "DARKNITE-81102-premium-06093",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Mortal%20Kombat%2011.zip",
   "dateAdded": "2026-06-09",
-  "discordAnnounced": false,
+  "dateUpdated": "2026-07-01",
   "kategorie": [
     "KOOPERACYJNE"
   ]

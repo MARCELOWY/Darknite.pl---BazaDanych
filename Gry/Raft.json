@@ -2,7 +2,7 @@
   "id": "Raft",
   "title": "Raft",
   "platform": "Steam",
-  "icon": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoRIv6gaJCOFOgiKZ4cm7igjbwXNfXxbuxRXFTN06GthatI2R8rw6Ifq8qEl8-25QoXnHtXZM71AnRgvUpZMcrfmCQph0_h4YgfGHoCUpeNM9Js58TfVghRQ&usqp=CAc",
+  "icon": "https://cdn2.steamgriddb.com/thumb/302ace448bf8a916322833b8dd6c2d1f.jpg",
   "screenshots": [
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/ss_c22b2ff5ba5609f74e61b5feaa5b7a1d7fd1dbd3.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/ss_7e366c948ed3847f33693cebd23aaaf6458cbf46.600x338.jpg",
@@ -16,7 +16,7 @@
   "correctLicense": "DARKNITE-34776-plus-09030",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Raft.zip",
   "dateAdded": "2026-06-09",
-  "discordAnnounced": false,
+  "dateUpdated": "2026-07-01",
   "kategorie": [
     "Przygodowe",
     "KOOPERACYJNE"

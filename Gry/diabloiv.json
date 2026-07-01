@@ -1,0 +1,26 @@
+{
+  "id": "diabloiv",
+  "title": "Diablo® IV",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/71c46aef15c9997a5bd7e70b65a720dd.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/8512b560be0ddef49cb0da366b7d2ddf5df18cab/ss_8512b560be0ddef49cb0da366b7d2ddf5df18cab.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/24952fc1c8779c9a7a555c01489c76f9814f70a7/ss_24952fc1c8779c9a7a555c01489c76f9814f70a7.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/7eda1d661ffde2750d56517e1a46406f340675e5/ss_7eda1d661ffde2750d56517e1a46406f340675e5.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/38d64c37bf2e84bbec5138cf114529eada712ebc/ss_38d64c37bf2e84bbec5138cf114529eada712ebc.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/ee4b4e1ba9c8a07f40aff563c7c43fd04477d60c/ss_ee4b4e1ba9c8a07f40aff563c7c43fd04477d60c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/7905f91c07b2cb828d0036389bc783300350fb74/ss_7905f91c07b2cb828d0036389bc783300350fb74.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Dołącz do walki o Sanktuarium w mrocznej grze RPG akcji. Wybierz klasę bohatera, walcz z piekielnymi pomiotami, zbieraj legendarne łupy i odkrywaj otwarty świat solo lub w kooperacji.",
+  "steamUrl": "https://store.steampowered.com/app/2344520/Diablo_IV/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-26211-STANDARD-53294",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Diablo%20IV.zip",
+  "dateAdded": "2026-07-01",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

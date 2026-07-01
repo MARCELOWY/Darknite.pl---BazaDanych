@@ -1,0 +1,24 @@
+{
+  "id": "borderlands3",
+  "title": "Borderlands 3",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/c039e6496e67fdb3d46e6d5877e01ed2.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/ss_9868ee40f39749a4c8222502cf86525ee32c1bef.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/ss_f2053d688ec55f2269c47b24313539938bef9064.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/ss_624638e46ed590d4bb1835558a5ab0981f7baadd.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/ss_6f1836277ffe8733503a9446d51b8c7eb3d20d5f.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Oryginalna strzelanka z łupami powraca z niezliczonymi rodzajami broni i nową, pełną chaosu przygodą. Rozgrom nowe światy oraz wrogów solo lub w trybie kooperacji.",
+  "steamUrl": "https://store.steampowered.com/app/397540/Borderlands_3/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-66562-STANDARD-04108",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Borderlands%203.zip",
+  "dateAdded": "2026-07-01",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

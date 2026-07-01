@@ -2,7 +2,7 @@
   "id": "PlagueIncEvolved",
   "title": "Plague Inc: Evolved",
   "platform": "Steam",
-  "icon": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTlh68y5n0lm6b6UE9J0MFSzUbBJymsc1D3iyulgAAa0c1VnurC1T8Y3NEdxu_NaA8HtbJEdtXqI9gZisbUj4yPpLimu0azL3agDzzZ-Arx1jTm23bgxrgG&usqp=CAc",
+  "icon": "https://cdn2.steamgriddb.com/thumb/33b84ca97d398bbf4b6dbc5e774b7258.jpg",
   "screenshots": [
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246620/ss_af0ade6a41421fcf738413bca043e2b3e201398a.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246620/ss_9a5c4d45543113ad9de9d9b928f6fadf1fa17d25.600x338.jpg",
@@ -16,7 +16,7 @@
   "correctLicense": "DARKNITE-75328-plus-23995",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Plague%20Inc%20Evolved.zip",
   "dateAdded": "2026-06-09",
-  "discordAnnounced": false,
+  "dateUpdated": "2026-07-01",
   "kategorie": [
     "Symulatory",
     "KOOPERACYJNE"

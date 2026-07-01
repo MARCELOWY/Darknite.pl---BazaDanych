@@ -2,7 +2,7 @@
   "id": "PowerWashSimulator2",
   "title": "PowerWash Simulator 2",
   "platform": "Steam",
-  "icon": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTQPkdb9DYxaXb-8uBVzF-mEgl94G7pWIMYIFTq-z32lmTEl00QeO93V_YwxGkBMtvaifsIzq4BmH60pltyLaQo_mXMJdyFBg&usqp=CAc",
+  "icon": "https://cdn2.steamgriddb.com/thumb/06b46da9822843269993aa6e13c88fec.jpg",
   "screenshots": [
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2968420/957c73a43443d0dae03bb7815b2b3908b48e09ff/ss_957c73a43443d0dae03bb7815b2b3908b48e09ff.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2968420/527bb05ede02f0d58e26aaee9014e9dacf384fac/ss_527bb05ede02f0d58e26aaee9014e9dacf384fac.600x338.jpg",
@@ -16,7 +16,7 @@
   "correctLicense": "DARKNITE-02617-plus-89286",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/PowerWash%20Simulator%202.zip",
   "dateAdded": "2026-06-09",
-  "discordAnnounced": false,
+  "dateUpdated": "2026-07-01",
   "kategorie": [
     "Symulatory",
     "KOOPERACYJNE"

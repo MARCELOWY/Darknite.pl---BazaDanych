@@ -1,0 +1,24 @@
+{
+  "id": "thelastofusparti",
+  "title": "The Last of Us™ Part I",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/a854beb9ca7853ef4646eae178f9f570.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/ss_3f1805ecddafacee7f61f87cb8e4624435a83ee3.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/ss_3bed642215856b863799884f6f11671a1ef014d4.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/ss_89fffc2857dcae29dee2a09f1be33d745610e19d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/ss_f4829000d3677a9b5b2f234482a7deff12b31ac9.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/ss_1d4757f62cb17a674f451ab18136a87fe5959ad5.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/ss_e67d2ca76b0c8985a3615afb38c21e893df73272.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Poznaj kultową historię Joela i Ellie stworzoną całkowicie na nowo. Przemierzaj zrujnowaną, niebezpieczną Amerykę i walcz z zarażonymi oraz brutalnymi ocalałymi ludźmi.",
+  "steamUrl": "https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-65762-STANDARD-44397",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/The%20Last%20of%20Us%20Part%20II%20Remastered.zip",
+  "dateAdded": "2026-07-01",
+  "kategorie": [
+    "Przygodowe"
+  ]
+}

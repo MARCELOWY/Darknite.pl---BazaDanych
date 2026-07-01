@@ -2,7 +2,7 @@
   "id": "crimescenecleaner",
   "title": "Crime Scene Cleaner",
   "platform": "Steam",
-  "icon": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTE7DcM94JA2PmDsZTwnugoQP3Soutcrjs9CWxN3aqkPl7g24ZT7LgYeFb6O73ycoxEaP1_YupAQ3RjyhzUXjtnqbv_oi9lq4_3Mz4m5vBAff7yaAVBrrgCQg&usqp=CAc",
+  "icon": "https://cdn2.steamgriddb.com/thumb/a7e22a52c3fc4b69d6d19afbdaabd200.jpg",
   "screenshots": [
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040200/87159e3bcb13cbc594887decaefb4b80f94d1ab7/ss_87159e3bcb13cbc594887decaefb4b80f94d1ab7.600x338.jpg",
     "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040200/ss_894cf90adfb3c184e1d8d01b98a05dd5a6d114c7.600x338.jpg",
@@ -17,7 +17,7 @@
   "correctLicense": "DARKNITE-61374-PREMIUM-50119",
   "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Crime%20Scene%20Cleaner.zip",
   "dateAdded": "2026-06-09",
-  "discordAnnounced": false,
+  "dateUpdated": "2026-07-01",
   "kategorie": [
     "Symulatory",
     "Przygodowe"
