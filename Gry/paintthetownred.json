@@ -1,0 +1,25 @@
+{
+  "id": "paintthetownred",
+  "title": "Paint the Town Red",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/f4f2bdc71b9cb4bc59f2e15e910568a3.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337320/ss_bf376e0149578b1aea6584a025e06fa0a327af61.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337320/ss_7974dab2640381b73fe12a29ce3b237f45df1a3e.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337320/ss_2c51121b8af18b65d41e884edf94d4f8509a41c1.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337320/ss_eb24d2854b01f14058a42e18d285b8a637ad2c31.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337320/ss_f86a37edd864e52f907d34257ab1493d6d17774d.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337320/ss_1f2325c54d0fdccc759f649ba098b48e6e6f30e0.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Chaotyczna pierwszoosobowa gra akcji z oprawą voxelową. Wykorzystaj pięści oraz elementy otoczenia do brutalnych walk barowych w kampanii solo, trybie roguelite lub kooperacji.",
+  "steamUrl": "https://store.steampowered.com/app/337320/Paint_the_Town_Red/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-54828-STANDARD-34444",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Paint%20the%20Town%20Red.zip",
+  "dateAdded": "2026-07-03",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
+}

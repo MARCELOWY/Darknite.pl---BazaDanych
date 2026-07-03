@@ -1,0 +1,23 @@
+{
+  "id": "legobatmanthevideogame",
+  "title": "LEGO® Batman™: The Videogame",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/8b5e0b54dfecaa052afa016cd32b9837.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21000/0000005467.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21000/0000005468.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21000/0000005473.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21000/0000005472.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Przejmij kontrolę nad Batmanem i Robinem. Buduj, biegaj i walcz w Gotham City, aby uwięzić zbiegłych złoczyńców, lub wciel się w łotrów i siej chaos w trybie kooperacji.",
+  "steamUrl": "https://store.steampowered.com/app/21000/LEGO_Batman_The_Videogame/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-55022-STANDARD-60506",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/LEGO%20Batman%20The%20Videogame.zip",
+  "dateAdded": "2026-07-03",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
+}

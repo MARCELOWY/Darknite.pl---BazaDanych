@@ -1,0 +1,23 @@
+{
+  "id": "burnoutparadiseremastered",
+  "title": "Burnout™ Paradise Remastered",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/c43526a089db1054e728fd1b022ccdf8.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238080/ss_0ede399d2c0a7ad1bd4416bef9a4da22f840df75.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238080/ss_6b49979c197ee247719a607e3a2b5b23eb1e837f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238080/ss_c584613cd8b78f2395783b911631898ec44a6eda.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238080/ss_2b620c52d66c2c05a0e63b55787c46c224ee906d.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Witaj w Paradise City! Rządź na ulicach w spektakularnych, pełnych kraks wyścigach. Eksploruj ogromny otwarty świat, niszcz rywali i baw się ze znajomymi w trybie online.",
+  "steamUrl": "https://store.steampowered.com/app/1238080/Burnout_Paradise_Remastered/?curator_clanid=36140392",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-47847-STANDARD-66662",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Burnout%20Paradise%20Remastered.zip",
+  "dateAdded": "2026-07-03",
+  "kategorie": [
+    "KOOPERACYJNE",
+    "Otwarty Świat"
+  ]
+}

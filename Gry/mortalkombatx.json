@@ -1,0 +1,22 @@
+{
+  "id": "mortalkombatx",
+  "title": "Mortal Kombat X",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/1310027e3cc8905b006af624e99937d0.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/307780/ss_25de612c8cdcf6c5406e88831bf09f7312f117dd.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/307780/ss_03f7f4582a1036cbcbca1a4c87e14c7831b5f424.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/307780/ss_1f002ef5eb037c81e92bcbc29306fc91d4b6d26f.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/307780/ss_0f4f568f3a4ee49061484b5ea916d634f443b8a9.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Nowa odsłona legendarnej serii bijatyk. Wybierz jeden z trzech wariantów walki dla każdej postaci, wykonuj brutalne ciosy Fatality i weź udział w kinowej kampanii.",
+  "steamUrl": "https://store.steampowered.com/app/307780/Mortal_Kombat_X/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-26381-STANDARD-10535",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Mortal%20Kombat%20X.zip",
+  "dateAdded": "2026-07-03",
+  "kategorie": [
+    "Przygodowe"
+  ]
+}

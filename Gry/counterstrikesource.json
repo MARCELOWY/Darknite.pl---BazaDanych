@@ -1,0 +1,22 @@
+{
+  "id": "counterstrikesource",
+  "title": "Counter-Strike: Source",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/4615b8b840b00f302018b1e3baa20b24.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/240/0000000027.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/240/0000000028.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/240/0000000029.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/240/0000000030.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Kultowa, drużynowa strzelanka sieciowa oparta na silniku Source. Weź udział w realistycznych operacjach antyterrorystycznych, ratuj zakładników lub podkładaj bomby.",
+  "steamUrl": "https://store.steampowered.com/app/240/CounterStrike_Source/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-52868-STANDARD-09731",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Counter-Strike%20Source.zip",
+  "dateAdded": "2026-07-03",
+  "kategorie": [
+    "KOOPERACYJNE"
+  ]
+}

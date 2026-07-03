@@ -1,0 +1,21 @@
+{
+  "id": "fridaynightfunkin",
+  "title": "FRIDAY NIGHT FUNKIN",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/7a3adfc090b3b725926abf5bce725bc9.jpg",
+  "screenshots": [
+    "https://imgs.search.brave.com/jl32n_cLGi0JmAo4ljLOjhuOjaC27lP6E6v-StXOFYU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZmlsZXJveC5j/b20vd2luZG93cy9m/cmlkYXktbmlnaHQt/ZnVua2luL3NjcmVl/bnNob3QtNS5wbmc",
+    "https://imgs.search.brave.com/Iq0tnSpArHFfPNSvm5toXAu2JqUrFs4wXBVk1hXB62s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubGF1bmNoYm94/LWFwcC5jb20vOTAz/NGE2OTMtNjA3NS00/YzA3LTlhNjgtZTdm/NDI2N2M1YjA4LnBu/Zw",
+    "https://imgs.search.brave.com/1mvstv025PvXb7uhO1UzsF8qVNvKqi8AUPtAIoMkHA8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jcmFpeW9uLmNv/bS8yMDI1LTA4LTA0/L2tYOURveG80U3RX/am5FT3NrcW5yR2cu/d2VicA"
+  ],
+  "dlc": [],
+  "description": "Dynamiczna gra rytmiczna 2D. Wciel się w postać Chłopaka i bierz udział w muzycznych pojedynkach na mikrofony, aby zdobyć serce Dziewczyny i pokonać jej groźnego ojca.",
+  "steamUrl": "https://store.steampowered.com/app/4632890/Rift_of_the_NecroDancer_Friday_Night_Funkin_Music_Pack/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-25775-STANDARD-97776",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/wvv3csi7wg4itmcqpfdra/Friday-Night-Funkin.zip?rlkey=l2h0eoqhi2jffdup3k1m42b7q&st=4wfr6g52&dl=1",
+  "dateAdded": "2026-07-03",
+  "kategorie": [
+    "Przygodowe"
+  ]
+}

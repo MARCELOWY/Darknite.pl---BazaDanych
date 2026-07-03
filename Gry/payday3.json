@@ -1,0 +1,26 @@
+{
+  "id": "payday3",
+  "title": "PAYDAY 3",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/80c603615b5d211e7050eef88007c37c.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/93626c274e5b9c39a8662d6146ceeba626bca59c/ss_93626c274e5b9c39a8662d6146ceeba626bca59c.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/a84f8526f6601a2d86de68136b140287f2243289/ss_a84f8526f6601a2d86de68136b140287f2243289.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/ce3af6f81967e6afd7a7de31a58a6de282509402/ss_ce3af6f81967e6afd7a7de31a58a6de282509402.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/74dcb90adc6833dae7d78f858908b9414413b8a4/ss_74dcb90adc6833dae7d78f858908b9414413b8a4.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/a67dd2ca11fe6a25e62ae18b9baee361b7f07268/ss_a67dd2ca11fe6a25e62ae18b9baee361b7f07268.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/6f4c97dca0102da8bb425974f6ef22d42a28cf33/ss_6f4c97dca0102da8bb425974f6ef22d42a28cf33.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/50f5e0be90a3a71df4e8ffbc0146aa65695ecd57/ss_50f5e0be90a3a71df4e8ffbc0146aa65695ecd57.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Powróć z emerytury i stań na czele gangu Payday. Planuj skoki, bierz zakładników i wykonuj zuchwałe napady na banki w Nowym Jorku solo lub w trybie kooperacji online.",
+  "steamUrl": "https://store.steampowered.com/app/1272080/PAYDAY_3/",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-56154-STANDARD-32110",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/PAYDAY%203.zip",
+  "dateAdded": "2026-07-03",
+  "kategorie": [
+    "Przygodowe",
+    "KOOPERACYJNE"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gothic1remake",
+  "title": "Gothic 1 Remake",
+  "platform": "Steam",
+  "icon": "https://cdn2.steamgriddb.com/thumb/d389543c2d0086d5958959f3c14a0939.jpg",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1297900/09d4206dedf6fa71a14a375325482c43ef03f201/ss_09d4206dedf6fa71a14a375325482c43ef03f201.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1297900/1c3b2b3524c6323b0cada742b988c7e0d3b25185/ss_1c3b2b3524c6323b0cada742b988c7e0d3b25185.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1297900/1e289f3bceac481f6771ba09060f6c4d0f67ba76/ss_1e289f3bceac481f6771ba09060f6c4d0f67ba76.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1297900/ss_384b0956bec4a37b38ac77b31e6e75a017930d69.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Wróć do Górniczej Doliny w wiernym remake'u klasycznego RPG. Eksploruj niebezpieczny, otwarty świat Kolonii, dołącz do jednej z frakcji i przetrwaj w mrocznym uniwersum.",
+  "steamUrl": "https://store.steampowered.com/app/1297900/Gothic_1_Remake/",
+  "requiredTier": "plus",
+  "correctLicense": "DARKNITE-46574-STANDARD-82027",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Gothic%201%20Remake.zip",
+  "dateAdded": "2026-07-03",
+  "kategorie": [
+    "Przygodowe",
+    "Otwarty Świat"
+  ]
+}
