@@ -1,0 +1,22 @@
+{
+  "id": "majstersymulator",
+  "title": "Majster Symulator",
+  "platform": "Steam",
+  "icon": "https://cdn1.naekranie.pl/media/cache/thumb-media-card/2026/08/images-1_6a7980a2e4452.webp",
+  "screenshots": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167920/0bf534f0b2874df61a87a18e56d0530390d8c973/ss_0bf534f0b2874df61a87a18e56d0530390d8c973.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167920/02c976b8614a157668650f33dbfde7b00f080a63/ss_02c976b8614a157668650f33dbfde7b00f080a63.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167920/a0d7639f2214210d1ff9e9f0b107d7dd9fe96d0b/ss_a0d7639f2214210d1ff9e9f0b107d7dd9fe96d0b.600x338.jpg",
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167920/871d70321cb8d7c9eef4ce2bc70ead11f61473f5/ss_871d70321cb8d7c9eef4ce2bc70ead11f61473f5.600x338.jpg"
+  ],
+  "dlc": [],
+  "description": "Majster Symulator to humorystyczny symulator FPP na polskim blokowisku z lat 90. Rób tanie remonty, rozcieńczaj farbę wodą, kładź płytki bez poziomicy i zarabiaj szybko na totalnej fuszerce!",
+  "steamUrl": "https://store.steampowered.com/app/3167920/Majster_Symulator/?l=polish",
+  "requiredTier": "premium",
+  "correctLicense": "DARKNITE-50595-STANDARD-95866",
+  "downloadUrl": "https://github.com/MARCELOWY/Darknite.pl---BazaDanych/raw/main/download/Majster%20Symulator.zip",
+  "dateAdded": "2026-08-14",
+  "kategorie": [
+    "Symulatory"
+  ]
+}
